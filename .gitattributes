@@ -1,0 +1,3 @@
+* -text
+doc/* text=auto eol=lf
+*.md text eol=lf

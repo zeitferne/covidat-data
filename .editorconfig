@@ -1,0 +1,14 @@
+root = true
+
+[*]
+insert_final_newline = false
+eol = lf
+charset = utf-8
+indent_style = space
+trim_trailing_whitespace = false
+
+# Since we'll have mostly markdown files where this applies, use only 2 spaces
+indent_size = 2
+
+[{*.md,doc/**,.*}]
+insert_final_newline = true
