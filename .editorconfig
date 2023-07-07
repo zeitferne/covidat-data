@@ -10,5 +10,6 @@ trim_trailing_whitespace = false
 # Since we'll have mostly markdown files where this applies, use only 2 spaces
 indent_size = 2
 
-[{*.md,doc/**,.*}]
+[{**.md,doc/**,.*}]
 insert_final_newline = true
+trim_trailing_whitespace = true

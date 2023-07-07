@@ -11,3 +11,5 @@ Data generally was available to the public from official sources but is no
 longer (easily), or is anticipated to become unavailable.
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for more general details.
+
+Sorry fürs Denglisch!

@@ -24,7 +24,7 @@ Data should fit these criteria to be included:
 
 For changing data, follow these rules:
 
-1. The only allowed changes to any data file is (logical) append.
+1. The only allowed changes to any data file in this repository is (logical) append.
    No overwrites must occur and it should be clear how much was appended
    (e.g. daily / monthly / yearly append).
 2. Otherwise and by default,
@@ -65,11 +65,11 @@ enough, we'll find a way (Dropbox link, etc.).
 
 If sensible, a set of large files should be bundled into a single release
 (but usually large files should be bundled into a single .tar.xz archive
-to minimze the size).
+to minimize the size).
 
 Any such release must be linked from the README.md of this repository.
 
-## Auxilary files
+## Auxiliary files
 
 Additional metadata or documentation files describing the data are welcomed.
 Scripts or other code for any purpose or in any form is out of scope
