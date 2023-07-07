@@ -1,6 +1,6 @@
 # covid19-dashboard.ages.at data.zips since late 2021
 
-Verfügbar unter <https://github.com/zeitferne/covidat-data/releases/tag/ages_all>.
+Verfügbar unter <https://github.com/zeitferne/covidat-data/releases/tag/data_ages_all>.
 
 ACHTUNG: Entpackte Daten benötigen ca. 12 GB Platz!
 
