@@ -13,3 +13,7 @@ longer (easily), or is anticipated to become unavailable.
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for more general details.
 
 Sorry fürs Denglisch!
+
+## Übersicht über enthaltene Daten
+
+* [AGES und EMS-Daten](docs/ages-und-ems.md): Fallzahlen, EMS-erfasste Todesfälle, Hospitalisierungen, Daten zu Tests

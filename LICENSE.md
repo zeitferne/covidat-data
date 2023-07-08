@@ -4,7 +4,7 @@ by the repository owners. They are only available under their original license.
 ----
 
 Files that were not imported into but originate from this repository are
-all .md files, the dotfiles and the doc/ folder. They are licensed under the
+all .md files, the dotfiles and the `docs/` folder. These are licensed under the
 ["Creative Commons Attribution Share Alike 4.0 International" (CC-BY-SA-4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
 license.
 

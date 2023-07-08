@@ -10,9 +10,9 @@ Data should fit these criteria to be included:
 
 3. Data must originate from official or quasi-official sources
    (Statistik Austria, government, GÖG, ...).
-4. The most interesting data for this repository is data that is only 
-  temporarily available from the original source, e.g. when only data for the most recent year/month/etc. is kept online, or when the time series is 
-  regularly revised and the pre-revision data is of interest (it usually 
+4. The most interesting data for this repository is data that is only
+  temporarily available from the original source, e.g. when only data for the most recent year/month/etc. is kept online, or when the time series is
+  regularly revised and the pre-revision data is of interest (it usually
   is) and not kept online (it usually isn't).
 5. Data should be machine-readable or at least contain numeric data
   that can be manually translated.
@@ -26,7 +26,8 @@ For changing data, follow these rules:
 
 1. The only allowed changes to any data file in this repository is (logical) append.
    No overwrites must occur and it should be clear how much was appended
-   (e.g. daily / monthly / yearly append).
+   (e.g. daily / monthly / yearly append). Prepending is also OK if older data
+   is added without changing later data.
 2. Otherwise and by default,
    one separate file per update should be stored and the timestamp
    should be encoded in the filename. If this isn't the case in the original
