@@ -19,3 +19,4 @@ Sorry fürs Denglisch!
 * [COVID-19 AGES und EMS-Daten](docs/ages-und-ems.md): Fallzahlen, EMS-erfasste Todesfälle, Hospitalisierungen, Daten zu Tests
 * [COVID-19 Morgenmeldungen](docs/morgenmeldung.md): Erweiterte Daten zu Tests, alternative Facts zu Fallzahlen und Todesfällen
 * [Vertriebeinschränkungen bei Medikamenten](docs/basg-medicineshortage.md)
+* [Monatsberichte der österr. Sozialversicherung](docs/sozialversicherung-monatsberichte.md)

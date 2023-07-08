@@ -1,5 +1,8 @@
 # Vertriebseinschränkungen von Medikamenten (BASG)
 
+Daten: [`data/basg-medicineshortage`](../data/basg-medicineshortage/)
+
+
 Übersicht bei <https://www.basg.gv.at/marktbeobachtung/meldewesen/vertriebseinschraenkungen>.
 
 Die `Vertriebseinschraenkungen_*.xlsx`-Dateien stammen von
