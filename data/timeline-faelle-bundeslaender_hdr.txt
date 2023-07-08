@@ -1,0 +1,11 @@
+Date: Mon, 12 Sep 2022 12:31:28 GMT
+Server: Apache
+Last-Modified: Mon, 12 Sep 2022 09:47:07 GMT
+ETag: "79b20-5e877c76b232c"
+Accept-Ranges: bytes
+Content-Length: 498464
+Vary: Accept-Encoding
+Content-Type: text/csv
+Connection: close
+Set-Cookie: BIGipServerpool_radw34=335816970.20480.0000; path=/
+

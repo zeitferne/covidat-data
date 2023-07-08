@@ -17,3 +17,4 @@ Sorry fürs Denglisch!
 ## Übersicht über enthaltene Daten
 
 * [AGES und EMS-Daten](docs/ages-und-ems.md): Fallzahlen, EMS-erfasste Todesfälle, Hospitalisierungen, Daten zu Tests
+* [Morgenmeldungen](docs/morgenmeldung.md): Erweiterte Daten zu Tests, alternative Facts zu Fallzahlen und Todesfällen
