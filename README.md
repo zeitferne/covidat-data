@@ -16,8 +16,8 @@ Sorry fürs Denglisch!
 
 ## Übersicht über enthaltene Daten
 
-* [COVID-19 AGES und EMS-Daten](docs/ages-und-ems.md): Fallzahlen, EMS-erfasste Todesfälle, Hospitalisierungen, Daten zu Tests
-* [COVID-19 Morgenmeldungen](docs/morgenmeldung.md): Erweiterte Daten zu Tests, alternative Facts zu Fallzahlen und Todesfällen
+* [COVID-19 AGES und EMS-Daten](docs/covid/ages-und-ems.md): Fallzahlen, EMS-erfasste Todesfälle, Hospitalisierungen, Daten zu Tests
+* [COVID-19 Morgenmeldungen](docs/covid/morgenmeldung.md): Erweiterte Daten zu Tests, alternative Facts zu Fallzahlen und Todesfällen
 * [Vertriebeinschränkungen bei Medikamenten](docs/basg-medicineshortage.md)
 * [Monatsberichte der österr. Sozialversicherung](docs/sozialversicherung-monatsberichte.md)
 * Und einiges mehr, derzeit noch nicht dokumentiert (TODO 🚧).
