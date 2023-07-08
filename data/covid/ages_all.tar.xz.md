@@ -2,4 +2,4 @@
 
 * [Daten](https://github.com/zeitferne/covidat-data/releases/tag/data_ages_all)
   ACHTUNG: Entpackte Daten benötigen ca. 12 GB Platz!
-* [Dokumentation](../docs/ages-und-ems-daten.md)
+* [Dokumentation](/docs/covid/ages-und-ems.md)
