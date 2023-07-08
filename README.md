@@ -20,3 +20,4 @@ Sorry fürs Denglisch!
 * [COVID-19 Morgenmeldungen](docs/morgenmeldung.md): Erweiterte Daten zu Tests, alternative Facts zu Fallzahlen und Todesfällen
 * [Vertriebeinschränkungen bei Medikamenten](docs/basg-medicineshortage.md)
 * [Monatsberichte der österr. Sozialversicherung](docs/sozialversicherung-monatsberichte.md)
+* Und einiges mehr, derzeit noch nicht dokumentiert (TODO 🚧).
