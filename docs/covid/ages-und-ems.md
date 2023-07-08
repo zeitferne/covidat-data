@@ -1,6 +1,6 @@
 # AGES und EMS-Daten
 
-[`ages_all.tar.xz`](../data/ages_all.tar.xz.md) enthält Dateien von
+[`ages_all.tar.xz`](/data/covid/ages_all.tar.xz.md) enthält Dateien von
 <https://covid19-dashboard.ages.at/data/data.zip> (via https://covid19-dashboard.ages.at/).
 Diese ZIPs enthielten jeweils alle CSV-Dateien mit Datenstand des aktuellsten
 Tages. Die CSV-Dateien waren auch einzeln über
@@ -11,7 +11,7 @@ Noch ältere Datenstände sind über <https://github.com/statistikat/coronaDAT/>
 
 Falls nicht der Zeitverlauf der Meldungen sondern nur der letzte Stand des
 Zeitverlaufs der Epidemie benötigt wird, sollte stattdessen einfach
-[`ages_last.zip`](../data/ages_last.zip)
+[`ages_last.zip`](/data/covid/ages_last.zip)
 verwendet werden (entspricht `20230630/20230630_140201_orig_csv_ages` in `ages-all.tar.xz`).
 Die Informationen aus dem Abschnitt [Lizenz](#lizenz) und
 [Haupt-CSV-Dateien](#haupt-csv-dateien) gelten auch für diese Datei.
@@ -61,7 +61,9 @@ Bezeichnungen von <https://www.data.gv.at/daten/covid-19/> übernehmend, sind di
 
 Weiters, nicht bei der data.gv.at-Übersicht gelistet:
 
-* [COVID-19: Daten zur Auslastung in Spitälern und Testergebnissen "bis 30.5.2021 verlinkt"](https://www.data.gv.at/katalog/dataset/846448a5-a26e-4297-ac08-ad7040af20f1): `CovidFallzahlen.csv` enthält Informationen die mit `Hospitalisierung.csv` überlappende, enthält aber als einzige Datei die "freien" Betten (siehe z.B. https://woswasi.at/2021/04/07/die-auslastung-der-intensivstationen-und-das-ages-dashboard-teil-2/).
+* [COVID-19: Daten zur Auslastung in Spitälern und Testergebnissen "bis 30.5.2021 verlinkt"](https://www.data.gv.at/katalog/dataset/846448a5-a26e-4297-ac08-ad7040af20f1): `CovidFallzahlen.csv` überlappt mit `Hospitalisierung.csv`,
+  enthält aber als einzige Datei die "freien" Betten (siehe zu "frei" z.B.
+  https://woswasi.at/2021/04/07/die-auslastung-der-intensivstationen-und-das-ages-dashboard-teil-2/).
   Übrigens gar nicht in dieser Datei sind Fallzahlen.
 * `CovidFaelleDelta.csv`: Legacy-Datei, redundant, bei data.gv.at gar nicht auffindbar
 * `Version.csv`: Versionsinformationen und Zeitstempel
