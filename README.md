@@ -20,4 +20,5 @@ Sorry fürs Denglisch!
 * [COVID-19 Morgenmeldungen](docs/covid/morgenmeldung.md): Erweiterte Daten zu Tests, alternative Facts zu Fallzahlen und Todesfällen
 * [Vertriebeinschränkungen bei Medikamenten](docs/basg-medicineshortage.md)
 * [Monatsberichte der österr. Sozialversicherung](docs/sozialversicherung-monatsberichte.md)
+* [Statistik Austria Covid-Tote lt. Presseaussendungen (immer vorl. Zahlen)](data/covid/statat_yearly_covid_deaths_pr.csv) (Aus: [2022](https://www.statistik.at/fileadmin/announcement/2023/03/20230315Todesursachen2022vorl.pdf), [2021](https://www.statistik.at/fileadmin/announcement/2022/05/20220303Todesursachen2021.pdf), [2020](https://web.archive.org/web/20211025205450/https://www.statistik.at/web_de/presse/125475.html))
 * Und einiges mehr, derzeit noch nicht dokumentiert (TODO 🚧).
