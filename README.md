@@ -43,7 +43,6 @@ Sorry fürs Denglisch!
 * [Grippe und ILI-Daten](data/grippe/) von <https://www.ages.at/mensch/krankheit/krankheitserreger-von-a-bis-z/grippe>.
   Die Daten-Tabellen sind beim Öffnen im Browser nicht direkt sichtbar aber im HTML enthalten
   (mit Inspektor im Browser spielen oder Source ansehen).
-* Und einiges mehr, derzeit noch nicht dokumentiert (TODO 🚧)
 
 Daten für die keine weitere Aktualisierung der Quelle erwartet wird sind mit 📕
 markiert. Eine Aktualisierung bzw. Vervollständigung hier im Repository ist
