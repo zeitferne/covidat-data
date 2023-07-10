@@ -38,8 +38,15 @@ Sorry fürs Denglisch!
     via <https://www.land-oberoesterreich.gv.at/lksuche.htm>, zus. vereinzelt andere Landeskorrespondenzen mit CoV-Bezug.
   * [SARS-CoV-2-Variantenberichte der AGES](data/covid/ages-varianten/) via <https://www.ages.at/mensch/krankheit/krankheitserreger-von-a-bis-z/coronavirus>
     (im speziellen <https://www.ages.at/fileadmin/Corona/Wochenbericht/Varianten_Verteilung.csv> und <https://www.ages.at/fileadmin/Corona/Wochenbericht/Varianten_gesamt_KW.csv>)
+  * [Sehr unvollständige Abschrift der Konsortiums-Prognosen](data/covid/cov-prognose.csv) für die KH-Normalstation;
+    Format so gewählt dass man es durchs Kopieren vom PDF ins Excel erzeugen kann.
+    Zuletzt via <https://datenplattform-covid.goeg.at/prognosen> davor <https://www.sozialministerium.at/Corona/zahlen-daten/COVID-Prognose-Konsortium-2022.html>,
+    davor <https://www.sozialministerium.at/Corona/Coronavirus/COVID-Prognose-Konsortium-2022.html>, davor <https://www.sozialministerium.at/Informationen-zum-Coronavirus/COVID-Prognose-Konsortium.html>, davor <https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov)/COVID-Prognose-Konsortium.html> (jeweils ohne Redirect; Reihenfolge nach neuesten 2 ev. nicht akkurat)
 * [Vertriebeinschränkungen bei Medikamenten](docs/basg-medicineshortage.md)
 * [Monatsberichte der österr. Sozialversicherung](docs/sozialversicherung-monatsberichte.md)
+* [Sterbefälle nach Todesursache, Kalenderjahre, Alter und tw. Bundesland](data/statat-todesursachen/).
+  Aktuellste jeweils bei <https://www.statistik.at/statistiken/bevoelkerung-und-soziales/bevoelkerung/gestorbene/todesursachen>,
+  früher bei <http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/gesundheit/todesursachen/index.html> (Web Archive!)
 * [Grippe und ILI-Daten](data/grippe/) von <https://www.ages.at/mensch/krankheit/krankheitserreger-von-a-bis-z/grippe>.
   Die Daten-Tabellen sind beim Öffnen im Browser nicht direkt sichtbar aber im HTML enthalten
   (mit Inspektor im Browser spielen oder Source ansehen).

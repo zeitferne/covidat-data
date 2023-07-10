@@ -31,9 +31,18 @@ Bezeichnungen von <https://www.data.gv.at/> übernehmend:
   via <https://info.gesundheitsministerium.at/opendata/>.
 * [`timeline-faelle-bundeslaender.csv`](/data/covid/morgenmeldung/timeline-faelle-bundeslaender.csv):
   [COVID-19: Zeitverlauf der gemeldeten COVID-19 Zahlen der Bundesländer (Morgenmeldung) (gültig bis 12.09.2022)](https://www.data.gv.at/katalog/dataset/covid-19-zeitverlauf-der-gemeldeten-covid-19-zahlen-der-bundeslander-morgenmeldung):
+  Das waren die "echten" Morgenmeldungen.
+
   Letzte URL <https://info.gesundheitsministerium.gv.at/data/timeline-faelle-bundeslaender.csv>
   via <https://info.gesundheitsministerium.at/opendata/>
-  oder <https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html>.
+  oder <https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html>
+  oder in Teilen, dafür mit älteren Zahlen als OTS
+  <https://www.ots.at/suche?query=Aktuelle+Zahlen+zum+Corona-Virus&from=01.01.2020&to=01.01.2023&filter=&emittentid=54&searchinpm=on>
+  oder früher täglich überschrieben bei <https://bmi.gv.at/news.aspx?id=4A7171477A51625143334D3D>.
+
+  Auch bei <https://just-the-covid-facts.neuwirth.priv.at/download_data/>
+  (via https://just-the-covid-facts.neuwirth.priv.at/) gibt es ein Archiv mit
+  älteren Daten als in der CSV enthalten sind.
 * [`timeline-faelle-ems.csv`](/data/covid/morgenmeldung/timeline-faelle-ems.csv):
   [COVID-19: Zeitverlauf der gemeldeten COVID-19 Fälle im EMS (Morgenmeldung) (gültig bis 12.09.2022)](https://www.data.gv.at/katalog/dataset/9723b0c6-48f4-418a-b301-e717b6d98c92):
   Letzte URL <https://info.gesundheitsministerium.gv.at/data/morgenmeldung/timeline-faelle-ems.csv>
@@ -51,12 +60,9 @@ Bezeichnungen von <https://www.data.gv.at/> übernehmend:
   Kein eigentlicher Teil der Morgenmeldung aber auf der selben Webseite
   und mit ähnlicher Struktur, und passt sonst nirgendwo dazu.
 
-
 All diese Dateien wurden nur im letztgültigen Datenstand archiviert, da es sich
 um Daten nach Meldedatum handelt in denen, bis auf wenige Ausnahmefälle bei
 groben und früh erkannten Eintragefehlern, nie rückwirkend korrigiert wurde.
-
-Ältere Daten können ev. über
-<https://web.archive.org/web/20210101000000*/https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html>
-rekonstruiert werden bzw. stehen bei <https://just-the-covid-facts.neuwirth.priv.at/download_data/>
-(via https://just-the-covid-facts.neuwirth.priv.at/) zur Verfügung.
+Teilweise (immer?) hat der Twitter-Account
+[@medienkontrolle](https://twitter.com/medienkontrolle) einen kleinen
+Auszug der ursprünglicheren Zahlen aus der "echten" Morgenmeldung vertwittert.
