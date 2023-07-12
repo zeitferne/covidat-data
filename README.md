@@ -27,7 +27,7 @@ Sorry fürs Denglisch!
   * [Statistik Austria Covid-Tote lt. Pressemitteilung (immer vorl. Zahlen)](data/covid/statat_yearly_covid_deaths_pr.csv) (Aus:
     [2022](https://www.statistik.at/fileadmin/announcement/2023/03/20230315Todesursachen2022vorl.pdf),
     [2021](https://www.statistik.at/fileadmin/announcement/2022/05/20220303Todesursachen2021.pdf),
-    [2020](https://web.archive.org/web/20211025205450/https://www.statistik.at/web_de/presse/125475.html))
+    [2020](https://www.statistik.at/web_de/presse/125475.html) (Web Archive!))
   * [Abwassermonitoring](data/covid/abwassermonitoring/): Archivierte Daten von
     <https://abwassermonitoring.at/dashboard/> bzw. früher <https://corona.hydro-it.com/dashboard/>.
   * ["Corona-Virus: Aktuelle Kennzahlen der Stadt Wien" Presseaussendungen](data/covid/wien-kennzahlen.tar.xz)
@@ -38,7 +38,7 @@ Sorry fürs Denglisch!
     via <https://www.land-oberoesterreich.gv.at/lksuche.htm>, zus. vereinzelt andere Landeskorrespondenzen mit CoV-Bezug.
   * [SARS-CoV-2-Variantenberichte der AGES](data/covid/ages-varianten/) via <https://www.ages.at/mensch/krankheit/krankheitserreger-von-a-bis-z/coronavirus>
     (im speziellen <https://www.ages.at/fileadmin/Corona/Wochenbericht/Varianten_Verteilung.csv> und <https://www.ages.at/fileadmin/Corona/Wochenbericht/Varianten_gesamt_KW.csv>)
-  * [Sehr unvollständige Abschrift der Konsortiums-Prognosen](data/covid/cov-prognose.csv) für die KH-Normalstation;
+  * [Sehr unvollständige Abschrift der Konsortiums-Prognosen für die KH-Normalstation](data/covid/cov-prognose-nst.csv);
     Format so gewählt dass man es durchs Kopieren vom PDF ins Excel erzeugen kann.
     Zuletzt via <https://datenplattform-covid.goeg.at/prognosen> davor <https://www.sozialministerium.at/Corona/zahlen-daten/COVID-Prognose-Konsortium-2022.html>,
     davor <https://www.sozialministerium.at/Corona/Coronavirus/COVID-Prognose-Konsortium-2022.html>, davor <https://www.sozialministerium.at/Informationen-zum-Coronavirus/COVID-Prognose-Konsortium.html>, davor <https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov)/COVID-Prognose-Konsortium.html> (jeweils ohne Redirect; Reihenfolge nach neuesten 2 ev. nicht akkurat)
