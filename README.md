@@ -50,9 +50,11 @@ interessant sind für die die Beitragen (contributen) möchten.
 * [Sterbefälle nach Todesursache, Kalenderjahre, Alter und tw. Bundesland](data/statat-todesursachen/).
   Aktuellste jeweils bei <https://www.statistik.at/statistiken/bevoelkerung-und-soziales/bevoelkerung/gestorbene/todesursachen>,
   früher bei <http://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/gesundheit/todesursachen/index.html> (Web Archive!)
-* [Grippe und ILI-Daten](data/grippe/) von <https://www.ages.at/mensch/krankheit/krankheitserreger-von-a-bis-z/grippe>.
+* [Grippe, ILI und Meldepflichtiges via AGES](data/ages-epi-misc/) von <https://www.ages.at/mensch/krankheit/krankheitserreger-von-a-bis-z/grippe> usw.
   Die Daten-Tabellen sind beim Öffnen im Browser nicht direkt sichtbar aber im HTML enthalten
   (mit Inspektor im Browser spielen oder Source ansehen).
+  Die `Masern_Tabelle.csv` kommt direkt so von der AGES, bei anderen Krankheiten
+  steht so ein Download nicht zur Verfügung.
 
 Daten für die keine weitere Aktualisierung der Quelle erwartet wird sind mit 📕
 markiert. Eine Aktualisierung bzw. Vervollständigung hier im Repository ist
