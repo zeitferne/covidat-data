@@ -1,18 +1,21 @@
-# covidat-data
+# covidat-data Datensammlung
 
-This repository aims to contain as-raw-as-sensible Austrian data from these areas:
+Dieses Repository soll Rohdaten (so unbearbeitet wie sinnvoll) mit
+Österreich-Bezug zu folgenden Gebieten sammeln:
 
-1. COVID-19 / SARS-CoV-2 (cases, tests, deaths, wastewater, etc.)
-2. Mortality (weekly deaths, cause of death, etc.)
-3. Health system & Health
+1. COVID-19 / SARS-CoV-2 (Fälle, Tests, Verstorbene, Abwasser, etc.; dies ist
+   das Kerngebiet des Repositories)
+2. Sterbefälle allgemein (Wöchentliche Todesfälle, Todesursachenstatistik, etc.)
+3. Gesundheitssystem & Gesundheit
 4. Related relevant data such as job market data, etc.
 
-Data generally was available to the public from official sources but is no
-longer (easily), or is anticipated to become unavailable.
+Daten sollten generell aus öffentlichen und offiziellen Quellen stammen die
+nicht länger abrufbar sind oder von denen anzunehmen ist, dass sie in Zukunft
+nicht mehr länger (einfach) abrufbar sein werden (der Klassiker: Nur der
+Datensatz des je aktuellsten Tages/Monats/Jahres steht zur Verfügung).
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for more general details.
-
-Sorry fürs Denglisch!
+Siehe [CONTRIBUTING.md](./CONTRIBUTING.md) für mehr generelle Details die v.a.
+interessant sind für die die Beitragen (contributen) möchten.
 
 ## Übersicht über enthaltene Daten
 
@@ -54,3 +57,12 @@ Sorry fürs Denglisch!
 Daten für die keine weitere Aktualisierung der Quelle erwartet wird sind mit 📕
 markiert. Eine Aktualisierung bzw. Vervollständigung hier im Repository ist
 trotzdem möglich.
+
+## Hinweis zu tar.xz-Dateien
+
+Bei diesen Dateien handelt es sich um komprimierte Archive, also konzeptionell
+das selbe wie ZIP-Dateien. Allerdings können tar.xz-Dateien viel kleiner werden
+als entsprechende ZIPs. Zum Entpacken unter Windows kann z.B.
+[7-Zip](https://www.7-zip.org/download.html) verwendet werden.
+
+Unter Linux sind diese Dateien mit Standard-Bordmitteln verarbeitbar.
