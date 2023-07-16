@@ -1,0 +1,23 @@
+Date: Sat, 15 Jul 2023 21:44:22 GMT
+Server: Apache
+Pragma: private
+Expires: 0
+Cache-Control: must-revalidate, post-check=0, pre-check=0
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+ blob: cdn.jsdelivr.net *.friendlycaptcha.eu;
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: same-origin
+Permissions-Policy: geolocation=(), midi=(),sync-xhr=(),accelerometer=(),
+ gyroscope=(), magnetometer=(), camera=(), fullscreen=(self)
+Feature-Policy: geolocation 'self'; vibrate 'none'
+X-UA-Compatible: IE=edge
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/plain;charset=UTF-8
+Set-Cookie: SERVERID=s2|ZLMTO|ZLMTO; path=/; HttpOnly; Secure
+Cache-control: private
+

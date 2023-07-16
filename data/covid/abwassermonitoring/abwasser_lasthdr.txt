@@ -1,0 +1,12 @@
+Date: Sat, 15 Jul 2023 20:01:21 GMT
+Server: Apache/2.4.57
+Vary: X-Forwarded-Proto
+Last-Modified: Sat, 15 Jul 2023 19:05:02 GMT
+ETag: "10cd3-6008b3e12a2d6"
+Accept-Ranges: bytes
+Content-Length: 68819
+X-Frame-Options: SAMEORIGIN
+Content-Type: application/json
+Connection: close
+Strict-Transport-Security: max-age=31536000
+
