@@ -1,0 +1,25 @@
+Content-Security-Policy: default-src 'self' *.statistik.at *.local
+ *.statcube.at 'unsafe-inline';
+ script-src 'self' 'unsafe-inline' 'unsafe-eval' *.statistik.at *.statcube.at
+ *.local; img-src 'self' data: *
+Content-Type: text/csv;charset=UTF-8
+Date: Thu, 13 Jul 2023 20:12:49 GMT
+Connection: close
+Set-Cookie: 
+ statistik_cookie=!jLjom+8acHmnWKVcV79744swhmu/AhV3phvl3hNJbgcm0ISoPwAWNmVObRietsmDVZP0az66BhpoGJKjrW1gmvcxL1S5Mk/OwrDuVaALhkI=;
+ Path=/; Version=1; Httponly
+Set-Cookie: JSESSIONID=95AA3C6871A790BEEC8B014A52D55536;
+ Path=/data.statistik.gv.at; Version=1; Httponly
+Set-Cookie: 
+ f5avraaaaaaaaaaaaaaaa_session_=BPNBOEBDHNHBKFNLMPKPBHFLBFGIHOOJBPKDPOIOLGKDAFGOEMNLDNMKHNCPHHKAJDEDIELPGKAIKFIMACNAJGGKHFIFFEGJNCLMAELLKFOLKEOPOLKCJHNAEAPLHKMP;
+ HttpOnly; secure;
+Set-Cookie: 
+ TS017b3bc9=012bdc77286cb44317831e96535b5782196148235c4fea6c4f9cd14aee7a0aa02fe893d031e2c9b8d51646acf9c5059c038abcdb655cd53a0526034217b92ab44b5a503a30e1b10b4790531a1dc3205f147eeb51c0;
+ Path=/
+Set-Cookie: 
+ TS0138c0d8=012bdc772818a1233cfb213ac101b5e7a0e3e3b5ee4fea6c4f9cd14aee7a0aa02fe893d03143d8980515aea6e063644b3db0de6377d1554b6aed8af00e16ba934849ee7edf;
+ path=/data.statistik.gv.at
+Transfer-Encoding: chunked
+x-dldata-storage-location: 
+ coronaDAT_patch\misc\OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_20230629_184614.csv
+
