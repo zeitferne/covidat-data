@@ -1,10 +1,10 @@
-Date: Sat, 22 Jul 2023 09:42:15 GMT
+Date: Wed, 26 Jul 2023 18:34:27 GMT
 Server: Apache/2.4.57
 Vary: X-Forwarded-Proto
-Last-Modified: Sat, 22 Jul 2023 07:05:02 GMT
-ETag: "db569-6010e00101dee"
+Last-Modified: Wed, 26 Jul 2023 17:05:02 GMT
+ETag: "e03f4-60166d9384a33"
 Accept-Ranges: bytes
-Content-Length: 898409
+Content-Length: 918516
 X-Frame-Options: SAMEORIGIN
 Content-Type: image/png
 Connection: close
