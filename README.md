@@ -15,7 +15,14 @@ nicht mehr länger (einfach) abrufbar sein werden (der Klassiker: Nur der
 Datensatz des je aktuellsten Tages/Monats/Jahres steht zur Verfügung).
 
 Siehe [CONTRIBUTING.md](./CONTRIBUTING.md) für mehr generelle Details die v.a.
-interessant sind für die die Beitragen (contributen) möchten.
+interessant sind für die die beitragen (contributen) möchten.
+
+Dieses Repository hat ein Schwester-Repository
+[covidat-tools](https://github.com/zeitferne/covidat-tools)
+das Werkzeuge, einen täglich ausgeführten Auto-Updater und
+auch regelmäßig aktualisierte
+[📊 Auswertungen](https://zeitferne.github.io/covidat-tools/export/monitoring.html)
+enthält.
 
 ## Übersicht über enthaltene Daten
 
