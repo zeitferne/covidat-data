@@ -1,0 +1,23 @@
+Content-Security-Policy: default-src 'self' *.statistik.at *.local
+ *.statcube.at 'unsafe-inline';
+ script-src 'self' 'unsafe-inline' 'unsafe-eval' *.statistik.at *.statcube.at
+ *.local; img-src 'self' data: *
+Content-Type: text/csv;charset=UTF-8
+Content-Length: 547
+Date: Sun, 13 Aug 2023 17:37:39 GMT
+Connection: close
+Set-Cookie: 
+ statistik_cookie=!AUjsnKSnjcQVEOtcV79744swhmu/AlQfaka9b5eOOiZUxMBRRg1a0BLf0K9+rO4Na4cC/4Cue8RrxI0ppRC+0pfnD5ZURE7J3aAxGAehVAg=;
+ Path=/; Version=1; Httponly
+Set-Cookie: JSESSIONID=99F7D9056280A97FF7DFF63BFAFF9B8F;
+ Path=/data.statistik.gv.at; Version=1; Httponly
+Set-Cookie: 
+ f5avraaaaaaaaaaaaaaaa_session_=GHLCCBJFNPICHHCIJLENIFNPCIMPONDJGEHMJMODFEJIADCCMLGLEGJJNFIJKIEMELEDPBIMIEHDHGGKKIKANFNAJBCKHCIFFGKOCICIMLANOCPIOMPCDJMAOEKIMOJL;
+ HttpOnly; secure;
+Set-Cookie: 
+ TS017b3bc9=012bdc77282fca78d8ad1f05369064a78a77e0a2a996f64aad3272932ff854664467e448b67ec224cfcdf7a4fc6954dec6215fda80948e8e328d44632a670b64fd82957faad464f90565fb5ef67359e12be02c6f03;
+ Path=/
+Set-Cookie: 
+ TS0138c0d8=012bdc77281caba148bf3313669d725f1405bd02df96f64aad3272932ff854664467e448b69f8c4705eee33541fa5632508c5332154727d5c3bed072d7c249af73e0901056;
+ path=/data.statistik.gv.at
+

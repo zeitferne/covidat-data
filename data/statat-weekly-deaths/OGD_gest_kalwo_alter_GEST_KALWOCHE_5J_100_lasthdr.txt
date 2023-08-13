@@ -2,22 +2,23 @@ Content-Security-Policy: default-src 'self' *.statistik.at *.local
  *.statcube.at 'unsafe-inline';
  script-src 'self' 'unsafe-inline' 'unsafe-eval' *.statistik.at *.statcube.at
  *.local; img-src 'self' data: *
-Content-Type: text/csv;charset=UTF-8
-Date: Thu, 27 Jul 2023 16:50:11 GMT
+vary: accept-encoding
+Content-Type: application/json;charset=UTF-8
+Content-Length: 4244
+Date: Sun, 13 Aug 2023 17:37:23 GMT
 Connection: close
 Set-Cookie: 
- statistik_cookie=!6iw/o2xeWdP7pX9cV79744swhmu/AtUuCcuhf4h4Md0oWBrxGnucSxmEhxjvG0BQ7MO74/sz5D7TRAjAD5ahn/SvqJJonmXj742kMwfmcao=;
+ statistik_cookie=!XVKOFbR6+GZV2HNcV79744swhmu/AsXHTCkkSTrXrLlfxmHtHYBdCHR4iE9lQQULlu3P5usq1vA+fpNBLNHlv9KC9fchQe9TBUd9SAih6co=;
  Path=/; Version=1; Httponly
-Set-Cookie: JSESSIONID=1E941C59E99B8F2CA9E527059728FFE2;
+Set-Cookie: JSESSIONID=2485AEB8B21BE68E226F003AA7B31AB7;
  Path=/data.statistik.gv.at; Version=1; Httponly
 Set-Cookie: 
- f5avraaaaaaaaaaaaaaaa_session_=HIPGONPKNLDCNNPMPMEIEELGGGBDIHJDIMHJHFNLIJBJKGLOILHPBCIGAEAJHFDNONADJEJGIPKJGGLGMNOACOJJPJALEMNNEBLLGIHPBIILODLACJKDLDKLIKFPPJOD;
+ f5avraaaaaaaaaaaaaaaa_session_=DAEEHCJABILDMLHFMAEHIJIDLDONNKNHJAEBPOIFJLJIKLNIFCMNAFHJBEJONDKENFADFDBGJEADIGFFPANAJOFEIBMJOOLCABCPPLEJGNBAIPEEBDBBIILKNEJLIDEP;
  HttpOnly; secure;
 Set-Cookie: 
- TS017b3bc9=012bdc772804bc9d540e1f178c8ae3d01c30fecb044232c97b8d5fd7993c1869582e3d5ff5384f0384fe9a2651122d7e045b3317ea207d3e8d7a6eff4968c3bc0e468f25e89351742d579cbe5d534a92fead427fcf;
+ TS017b3bc9=012bdc7728188e08c32a461f421d734b44981a4bddca21cad3d0b85ca210d626c08ef85e099e49e4ac137f4a9b6dba8ed7a50aad877b592bc8848d4cb239deecaa0652651d4fb2a2b81c548c264ea44d337ca43799;
  Path=/
 Set-Cookie: 
- TS0138c0d8=012bdc772877a231268bdf9300fba045d621dcfaad4232c97b8d5fd7993c1869582e3d5ff5026e9b876e239f0ca1be65add04429525b17d4d528a7bb6fad30e71a49324ef7;
+ TS0138c0d8=012bdc77282ca81c1f9724bc3dad5c022566f5b84fca21cad3d0b85ca210d626c08ef85e09472108ba14f60b2e8da8fe0a655415acd0e0eb764e8cbdae75fd4259b126a757;
  path=/data.statistik.gv.at
-Transfer-Encoding: chunked
 
