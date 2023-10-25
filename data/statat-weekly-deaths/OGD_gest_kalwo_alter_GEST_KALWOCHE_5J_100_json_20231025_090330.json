@@ -1,0 +1,104 @@
+{
+  "title":"Gestorbene in Österreich (ohne Auslandssterbefälle) ab 2000 nach Kalenderwoche und 5-Jahresgruppen",
+  "notes":"Gestorbene in Österreich (ohne Auslandssterbefälle) ab 2000 nach Kalenderwoche und 5-Jahresgruppen",
+  "tags":[
+    "Gestorbene",
+    "Kalenderwoche",
+    "Zeitreihe",
+    "5-Jahresgruppen"
+  ],
+  "maintainer":"Statistik Austria, Guglgasse 13, 1110 Wien, Austria",
+  "license":"Creative Commons Namensnennung 4.0 International",
+  "maintainer_email":"open.data@statistik.gv.at",
+  "resources":[
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100.csv",
+      "format":"csv",
+      "name":"OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100",
+      "created":"2020-04-17T20:00:00",
+      "last_modified":"2023-10-25T09:03:30",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    },
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_HEADER.csv",
+      "format":"csv",
+      "name":"OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_HEADER",
+      "created":"2020-04-17T20:00:00",
+      "last_modified":"2023-10-25T09:03:30",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    },
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_C-KALWOCHE-0.csv",
+      "format":"csv",
+      "name":"OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_C-KALWOCHE-0",
+      "created":"2020-04-17T20:00:00",
+      "last_modified":"2023-10-25T09:03:30",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    },
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_C-B00-0.csv",
+      "format":"csv",
+      "name":"OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_C-B00-0",
+      "created":"2020-04-17T20:00:00",
+      "last_modified":"2023-10-25T09:03:30",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    },
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_C-ALTER5-0.csv",
+      "format":"csv",
+      "name":"OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_C-ALTER5-0",
+      "created":"2020-04-17T20:00:00",
+      "last_modified":"2023-10-25T09:03:30",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    },
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_C-C11-0.csv",
+      "format":"csv",
+      "name":"OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100_C-C11-0",
+      "created":"2020-04-17T20:00:00",
+      "last_modified":"2023-10-25T09:03:30",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    }
+  ],
+  "extras":{
+    "metadata_identifier":"e1597b70-2f12-3ff5-8c14-50aabf7da30a",
+    "metadata_modified":"2023-10-25T09:03:30",
+    "metadata_linkage":[
+      "https://statcube.at/statcube/opendatabase?id=degest_kalwo_alter",
+      "https://www.statistik.at/statistiken/bevoelkerung-und-soziales/bevoelkerung/gestorbene/demographische-merkmale-von-gestorbenen",
+      "https://www.statistik.at/en/statistics/population-and-society/population/deaths/demographic-characterstics-of-deceased"
+    ],
+    "metadata_original_portal":"https://data.statistik.gv.at/web/meta.jsp?dataset=OGD_gest_kalwo_alter_GEST_KALWOCHE_5J_100",
+    "begin_datetime":"2020-04-17T20:00:00",
+    "end_datetime":null,
+    "categorization":[
+      "Bevölkerung",
+      "Gesellschaft und Soziales"
+    ],
+    "schema_name":"OGD Austria Metadata 2.3",
+    "schema_language":"ger",
+    "schema_characterset":"utf8",
+    "attribute_description":"C-KALWOCHE-0:Kalenderwoche des Sterbedatums;C-B00-0:Bundesland des Wohnorts des Verstorbenen;C-ALTER5-0:Altersgruppe des Verstorbenen;C-C11-0:Geschlecht des Verstorbenen;F-ANZ-1:Anzahl der Sterbefälle",
+    "maintainer_link":"https://www.statistik.at/kontakt",
+    "publisher":"Statistik Austria, Guglgasse 13, 1110 Wien, Austria",
+    "geographic_toponym":"",
+    "geographic_bbox":"",
+    "update_frequency":"monatlich",
+    "lineage_quality":"",
+    "en_title_and_desc":"Deaths in Austria from 2000 (excl. deaths abroad) by calendar week, 5-years group",
+    "license_citation":"Datenquelle: Statistik Austria - data.statistik.gv.at"
+  },
+  "state":"active"
+}
