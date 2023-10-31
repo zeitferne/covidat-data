@@ -1,16 +1,15 @@
-Content-Length: 302187
-Content-Type: text/csv
-Content-MD5: w1usE1CRQWRROZaGZS1dKg==
-Last-Modified: Wed, 25 Oct 2023 09:53:22 GMT
-ETag: 0x8DBD54039D9EC18
-x-ms-request-id: 25c08dbb-b01e-002c-322b-078c93000000
+Date: Tue, 31 Oct 2023 11:07:49 GMT
+Content-Type: application/octet-stream
+Content-Length: 314779
+Connection: close
+Last-Modified: Tue, 31 Oct 2023 11:00:08 GMT
+ETag: 0x8DBDA008BA30743
+x-ms-request-id: ddbcd312-c01e-008f-19ea-0be956000000
 x-ms-version: 2009-09-19
 x-ms-lease-status: unlocked
 x-ms-blob-type: BlockBlob
 Access-Control-Allow-Origin: *
-X-Cache: CONFIG_NOCACHE
-X-Azure-Ref: 
- 0OOk4ZQAAAABS8r13jCChRqqBIZ9E6YKGTU5aMjIxMDYwNjEzMDI1ADc4MGY1ZTRmLWMyOWQtNGY3MC1hNGMzLTIxYzNiNDlmYWVmYw==
-Date: Wed, 25 Oct 2023 10:08:56 GMT
-Connection: close
+x-azure-ref: 20231031T110748Z-qtde8yzynx3f1a4z5qxey957hs00000005a000000000dfd5
+X-Cache: TCP_MISS
+Accept-Ranges: bytes
 
