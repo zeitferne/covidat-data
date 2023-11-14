@@ -1,11 +1,11 @@
-Date: Fri, 10 Nov 2023 17:27:46 GMT
+Date: Tue, 14 Nov 2023 11:15:48 GMT
 Server: Apache
 Pragma: private
 Expires: 0
 Cache-Control: must-revalidate, post-check=0, pre-check=0
 Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
  blob: cdn.jsdelivr.net *.friendlycaptcha.eu;
-Content-Length: 1152
+Content-Length: 1176
 Vary: Accept-Encoding
 Strict-Transport-Security: max-age=31536000
 X-XSS-Protection: 1; mode=block
@@ -18,6 +18,6 @@ Feature-Policy: geolocation 'self'; vibrate 'none'
 X-UA-Compatible: IE=edge
 Connection: close
 Content-Type: text/plain;charset=UTF-8
-Set-Cookie: SERVERID=s1|ZU5oF|ZU5oF; path=/; HttpOnly; Secure
+Set-Cookie: SERVERID=s2|ZVNW5|ZVNW5; path=/; HttpOnly; Secure
 Cache-control: private
 
