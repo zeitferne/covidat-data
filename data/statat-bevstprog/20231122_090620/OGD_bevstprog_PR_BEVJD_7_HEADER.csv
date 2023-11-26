@@ -1,0 +1,16 @@
+code;name;en_name;;;;;;;
+C-B00-0;Bundesland;Province <9>;;;;;;;
+C-A10-0;Jahr;Year (1952-2075);;;;;;;
+C-GALT5J99-0;Alter in 5-Jahresgruppen;;;;;;;;
+C-C11-0;Geschlecht;Sex <2>;;;;;;;
+F-S25V1;Hauptvariante;Main scenario (mean fertility, life expectancy, immigration);;;;;;;
+F-S25V2;Wachstumsszenario;Growth scenario (high fertility, life expect., immigr.);;;;;;;
+F-S25V3;Alterungsszenario;Ageing scenario (low fert./immigr., high life expect.);;;;;;;
+F-S25V4;Hohe Wanderung;High migration variant (middle fertility and life expect.);;;;;;;
+F-S25V5;Niedrige Wanderung;Low migration variant (middle fertility and life expect.);;;;;;;
+F-S25V6;Hohe Fertilität;Fertility variant (high fert., middle life expect./immigration);;;;;;;
+F-S25V7;Niedrige Fertilität;Low fertility variant (low fert., middle life expect./immigration);;;;;;;
+F-S25V8;Hohe Lebenserwartung;High life expectancy variant (middle fert. and immigration);;;;;;;
+F-S25V9;Niedrige Lebenserwartung;Low life expectancy variant (middle fert. and immigration);;;;;;;
+F-S25V10;Konstante Variante;Benchmark variant (constant fert., life expect. and immigr.);;;;;;;
+F-S25V11;Keine Wanderung;Main variant exc. migration;;;;;;;

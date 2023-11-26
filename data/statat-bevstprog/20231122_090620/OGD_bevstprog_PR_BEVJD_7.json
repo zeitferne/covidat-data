@@ -1,0 +1,109 @@
+{
+  "title":"Bevölkerung zum Jahresanfang 1952 bis 2101",
+  "notes":"Prognose zur Bevölkerung zum Jahresanfang 1952 bis 2101 nach Alter in 5-Jahresgruppen, Geschlecht und Hauptszenario",
+  "tags":[
+    "Prognose Bevölkerung",
+    "Jahresbeginn",
+    "Jahr",
+    "Alter in 5-Jahresgruppen",
+    "Geschlecht",
+    "Hauptszenario",
+    "Wachstum",
+    "Alterung",
+    "Fertilität",
+    "Wanderung"
+  ],
+  "maintainer":"Statistik Austria, Guglgasse 13, 1110 Wien, Austria",
+  "license":"Creative Commons Namensnennung 4.0 International",
+  "maintainer_email":"open.data@statistik.gv.at",
+  "resources":[
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_bevstprog_PR_BEVJD_7.csv",
+      "format":"csv",
+      "name":"OGD_bevstprog_PR_BEVJD_7",
+      "created":"2022-12-14T09:09:10",
+      "last_modified":"2023-11-22T09:06:20",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    },
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_bevstprog_PR_BEVJD_7_HEADER.csv",
+      "format":"csv",
+      "name":"OGD_bevstprog_PR_BEVJD_7_HEADER",
+      "created":"2022-12-14T09:09:10",
+      "last_modified":"2023-11-22T09:06:20",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    },
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_bevstprog_PR_BEVJD_7_C-B00-0.csv",
+      "format":"csv",
+      "name":"OGD_bevstprog_PR_BEVJD_7_C-B00-0",
+      "created":"2022-12-14T09:09:10",
+      "last_modified":"2023-11-22T09:06:20",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    },
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_bevstprog_PR_BEVJD_7_C-A10-0.csv",
+      "format":"csv",
+      "name":"OGD_bevstprog_PR_BEVJD_7_C-A10-0",
+      "created":"2022-12-14T09:09:10",
+      "last_modified":"2023-11-22T09:06:20",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    },
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_bevstprog_PR_BEVJD_7_C-GALT5J99-0.csv",
+      "format":"csv",
+      "name":"OGD_bevstprog_PR_BEVJD_7_C-GALT5J99-0",
+      "created":"2022-12-14T09:09:10",
+      "last_modified":"2023-11-22T09:06:20",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    },
+    {
+      "url":"https://data.statistik.gv.at/data/OGD_bevstprog_PR_BEVJD_7_C-C11-0.csv",
+      "format":"csv",
+      "name":"OGD_bevstprog_PR_BEVJD_7_C-C11-0",
+      "created":"2022-12-14T09:09:10",
+      "last_modified":"2023-11-22T09:06:20",
+      "size":"",
+      "language":"ger",
+      "characterset":"utf8"
+    }
+  ],
+  "extras":{
+    "metadata_identifier":"24c3e54c-22bc-3629-9763-beb668b6ad67",
+    "metadata_modified":"2023-11-22T09:06:20",
+    "metadata_linkage":[
+      "https://statcube.at/statcube/opendatabase?id=debevstprog",
+      "https://www.statistik.at/statistiken/bevoelkerung-und-soziales/bevoelkerung/demographische-prognosen",
+      "https://www.statistik.at/en/statistics/population-and-society/population/demographische-prognosen"
+    ],
+    "metadata_original_portal":"https://data.statistik.gv.at/web/meta.jsp?dataset=OGD_bevstprog_PR_BEVJD_7",
+    "begin_datetime":"2022-12-14T09:09:10",
+    "end_datetime":null,
+    "categorization":[
+      "Bevölkerung"
+    ],
+    "schema_name":"OGD Austria Metadata 2.3",
+    "schema_language":"ger",
+    "schema_characterset":"utf8",
+    "attribute_description":"C-B00-0:Bundesland;C-A10-0:Jahr;C-GALT5J99-0:Alter in 5-Jahresgruppen;C-C11-0:Geschlecht;F-S25V1:Hauptvariante;F-S25V2:Wachstumsszenario;F-S25V3:Alterungsszenario;F-S25V4:Hohe Wanderung;F-S25V5:Niedrige Wanderung;F-S25V6:Hohe Fertilität;F-S25V7:Niedrige Fertilität;F-S25V8:Hohe Lebenserwartung;F-S25V9:Niedrige Lebenserwartung;F-S25V10:Konstante Variante;F-S25V11:Keine Wanderung",
+    "maintainer_link":"https://www.statistik.at/kontakt",
+    "publisher":"Statistik Austria, Guglgasse 13, 1110 Wien, Austria",
+    "geographic_toponym":"",
+    "geographic_bbox":"",
+    "update_frequency":"jährlich",
+    "lineage_quality":"",
+    "en_title_and_desc":"Beginning-of-the-year population from 1952 to 2101",
+    "license_citation":"Datenquelle: Statistik Austria - data.statistik.gv.at"
+  },
+  "state":"active"
+}
