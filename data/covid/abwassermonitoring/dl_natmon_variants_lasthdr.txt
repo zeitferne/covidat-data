@@ -1,9 +1,9 @@
-Date: Wed, 29 Nov 2023 09:31:51 GMT
+Date: Mon, 04 Dec 2023 17:28:52 GMT
 Server: Apache/2.4.41 (Ubuntu)
-Last-Modified: Wed, 29 Nov 2023 08:41:33 GMT
-ETag: "f170-60b468099dd27"
+Last-Modified: Mon, 04 Dec 2023 16:08:08 GMT
+ETag: "e027-60bb152eb3d7e"
 Accept-Ranges: bytes
-Content-Length: 61808
+Content-Length: 57383
 Connection: close
 Content-Type: text/csv
 
