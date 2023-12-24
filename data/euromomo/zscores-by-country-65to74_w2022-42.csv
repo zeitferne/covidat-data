@@ -1,0 +1,5825 @@
+country;group;week;zscore
+Austria;65to74;2018-44;-0.04
+Austria;65to74;2018-45;0.23
+Austria;65to74;2018-46;0.44
+Austria;65to74;2018-47;2.15
+Austria;65to74;2018-48;0.89
+Austria;65to74;2018-49;-0.33
+Austria;65to74;2018-50;0.42
+Austria;65to74;2018-51;0.28
+Austria;65to74;2018-52;2.72
+Austria;65to74;2019-01;-0.1
+Austria;65to74;2019-02;1.08
+Austria;65to74;2019-03;-0.75
+Austria;65to74;2019-04;2.19
+Austria;65to74;2019-05;1.55
+Austria;65to74;2019-06;1.38
+Austria;65to74;2019-07;3.22
+Austria;65to74;2019-08;2.52
+Austria;65to74;2019-09;2.17
+Austria;65to74;2019-10;1.71
+Austria;65to74;2019-11;2.44
+Austria;65to74;2019-12;2.2
+Austria;65to74;2019-13;1.36
+Austria;65to74;2019-14;0.15
+Austria;65to74;2019-15;0.66
+Austria;65to74;2019-16;0.96
+Austria;65to74;2019-17;-0.54
+Austria;65to74;2019-18;0.3
+Austria;65to74;2019-19;0.31
+Austria;65to74;2019-20;0.62
+Austria;65to74;2019-21;-0.12
+Austria;65to74;2019-22;0.9
+Austria;65to74;2019-23;0.86
+Austria;65to74;2019-24;0.71
+Austria;65to74;2019-25;0.21
+Austria;65to74;2019-26;0.69
+Austria;65to74;2019-27;1.74
+Austria;65to74;2019-28;-2.04
+Austria;65to74;2019-29;-1.28
+Austria;65to74;2019-30;-0.19
+Austria;65to74;2019-31;-0.82
+Austria;65to74;2019-32;-1.1
+Austria;65to74;2019-33;-0.66
+Austria;65to74;2019-34;-1.37
+Austria;65to74;2019-35;1.63
+Austria;65to74;2019-36;-0.87
+Austria;65to74;2019-37;-1.66
+Austria;65to74;2019-38;-0.69
+Austria;65to74;2019-39;0.92
+Austria;65to74;2019-40;-0.15
+Austria;65to74;2019-41;-0.33
+Austria;65to74;2019-42;0.49
+Austria;65to74;2019-43;-0.3
+Austria;65to74;2019-44;-1.57
+Austria;65to74;2019-45;-0.03
+Austria;65to74;2019-46;0.12
+Austria;65to74;2019-47;0.03
+Austria;65to74;2019-48;0.84
+Austria;65to74;2019-49;1.02
+Austria;65to74;2019-50;1.3
+Austria;65to74;2019-51;0.3
+Austria;65to74;2019-52;0.48
+Austria;65to74;2020-01;-1.1
+Austria;65to74;2020-02;1.24
+Austria;65to74;2020-03;2.06
+Austria;65to74;2020-04;0.97
+Austria;65to74;2020-05;2.04
+Austria;65to74;2020-06;1.02
+Austria;65to74;2020-07;2.05
+Austria;65to74;2020-08;1.34
+Austria;65to74;2020-09;0.72
+Austria;65to74;2020-10;1.48
+Austria;65to74;2020-11;1.95
+Austria;65to74;2020-12;1.8
+Austria;65to74;2020-13;0.22
+Austria;65to74;2020-14;0.82
+Austria;65to74;2020-15;1.26
+Austria;65to74;2020-16;1.17
+Austria;65to74;2020-17;0.52
+Austria;65to74;2020-18;-2.15
+Austria;65to74;2020-19;-0.37
+Austria;65to74;2020-20;0.05
+Austria;65to74;2020-21;-0.11
+Austria;65to74;2020-22;-1.55
+Austria;65to74;2020-23;-0.47
+Austria;65to74;2020-24;-0.62
+Austria;65to74;2020-25;-1.47
+Austria;65to74;2020-26;-0.85
+Austria;65to74;2020-27;1.66
+Austria;65to74;2020-28;-1.08
+Austria;65to74;2020-29;0.59
+Austria;65to74;2020-30;-0.92
+Austria;65to74;2020-31;0.08
+Austria;65to74;2020-32;-1.4
+Austria;65to74;2020-33;0.79
+Austria;65to74;2020-34;-0.38
+Austria;65to74;2020-35;-1.25
+Austria;65to74;2020-36;-0.07
+Austria;65to74;2020-37;-1.3
+Austria;65to74;2020-38;1.59
+Austria;65to74;2020-39;0.12
+Austria;65to74;2020-40;1.88
+Austria;65to74;2020-41;0.4
+Austria;65to74;2020-42;1.01
+Austria;65to74;2020-43;1.05
+Austria;65to74;2020-44;2.69
+Austria;65to74;2020-45;2.65
+Austria;65to74;2020-46;5.44
+Austria;65to74;2020-47;4.4
+Austria;65to74;2020-48;4.72
+Austria;65to74;2020-49;6.89
+Austria;65to74;2020-50;5.75
+Austria;65to74;2020-51;4.13
+Austria;65to74;2020-52;3.77
+Austria;65to74;2020-53;1.72
+Austria;65to74;2021-01;2.31
+Austria;65to74;2021-02;3.31
+Austria;65to74;2021-03;3.46
+Austria;65to74;2021-04;1.48
+Austria;65to74;2021-05;1.16
+Austria;65to74;2021-06;0.45
+Austria;65to74;2021-07;1.07
+Austria;65to74;2021-08;-0.3
+Austria;65to74;2021-09;0.96
+Austria;65to74;2021-10;2
+Austria;65to74;2021-11;1.76
+Austria;65to74;2021-12;2.52
+Austria;65to74;2021-13;1.43
+Austria;65to74;2021-14;1.44
+Austria;65to74;2021-15;1.62
+Austria;65to74;2021-16;2.88
+Austria;65to74;2021-17;2.18
+Austria;65to74;2021-18;1.35
+Austria;65to74;2021-19;1.21
+Austria;65to74;2021-20;0.63
+Austria;65to74;2021-21;-0.91
+Austria;65to74;2021-22;2.18
+Austria;65to74;2021-23;1.88
+Austria;65to74;2021-24;0.98
+Austria;65to74;2021-25;2.28
+Austria;65to74;2021-26;1.08
+Austria;65to74;2021-27;-1.15
+Austria;65to74;2021-28;0.21
+Austria;65to74;2021-29;0.66
+Austria;65to74;2021-30;-0.24
+Austria;65to74;2021-31;0
+Austria;65to74;2021-32;1.26
+Austria;65to74;2021-33;0.8
+Austria;65to74;2021-34;0.98
+Austria;65to74;2021-35;1.26
+Austria;65to74;2021-36;1.87
+Austria;65to74;2021-37;1.12
+Austria;65to74;2021-38;0.85
+Austria;65to74;2021-39;1.18
+Austria;65to74;2021-40;2.74
+Austria;65to74;2021-41;0.56
+Austria;65to74;2021-42;1.8
+Austria;65to74;2021-43;3.45
+Austria;65to74;2021-44;3.15
+Austria;65to74;2021-45;4.85
+Austria;65to74;2021-46;3.99
+Austria;65to74;2021-47;6.35
+Austria;65to74;2021-48;6.06
+Austria;65to74;2021-49;5.45
+Austria;65to74;2021-50;3.56
+Austria;65to74;2021-51;1.78
+Austria;65to74;2021-52;3.01
+Austria;65to74;2022-01;2.02
+Austria;65to74;2022-02;0.4
+Austria;65to74;2022-03;2.36
+Austria;65to74;2022-04;1.86
+Austria;65to74;2022-05;1.09
+Austria;65to74;2022-06;2
+Austria;65to74;2022-07;1.76
+Austria;65to74;2022-08;1.09
+Austria;65to74;2022-09;3.32
+Austria;65to74;2022-10;1.36
+Austria;65to74;2022-11;0.88
+Austria;65to74;2022-12;3.61
+Austria;65to74;2022-13;0.83
+Austria;65to74;2022-14;2.72
+Austria;65to74;2022-15;1.05
+Austria;65to74;2022-16;0.24
+Austria;65to74;2022-17;2.25
+Austria;65to74;2022-18;0.42
+Austria;65to74;2022-19;0.07
+Austria;65to74;2022-20;1.45
+Austria;65to74;2022-21;0.63
+Austria;65to74;2022-22;0.81
+Austria;65to74;2022-23;1.3
+Austria;65to74;2022-24;2.43
+Austria;65to74;2022-25;2.09
+Austria;65to74;2022-26;-0.2
+Austria;65to74;2022-27;-0.6
+Austria;65to74;2022-28;-0.95
+Austria;65to74;2022-29;1.31
+Austria;65to74;2022-30;2.09
+Austria;65to74;2022-31;0.95
+Austria;65to74;2022-32;0.35
+Austria;65to74;2022-33;1.24
+Austria;65to74;2022-34;0.01
+Austria;65to74;2022-35;-0.84
+Austria;65to74;2022-36;-0.08
+Austria;65to74;2022-37;0.78
+Austria;65to74;2022-38;0.55
+Austria;65to74;2022-39;1.73
+Austria;65to74;2022-40;1.78
+Austria;65to74;2022-41;1.25
+Austria;65to74;2022-42;0.82
+Belgium;65to74;2018-44;-0.81
+Belgium;65to74;2018-45;-0.51
+Belgium;65to74;2018-46;-1.82
+Belgium;65to74;2018-47;-0.7
+Belgium;65to74;2018-48;0.32
+Belgium;65to74;2018-49;1.1
+Belgium;65to74;2018-50;1.42
+Belgium;65to74;2018-51;1.72
+Belgium;65to74;2018-52;1.94
+Belgium;65to74;2019-01;0.7
+Belgium;65to74;2019-02;1.73
+Belgium;65to74;2019-03;2.45
+Belgium;65to74;2019-04;0.2
+Belgium;65to74;2019-05;-0.38
+Belgium;65to74;2019-06;3.33
+Belgium;65to74;2019-07;1.29
+Belgium;65to74;2019-08;0.81
+Belgium;65to74;2019-09;1.12
+Belgium;65to74;2019-10;1.39
+Belgium;65to74;2019-11;0.43
+Belgium;65to74;2019-12;0.04
+Belgium;65to74;2019-13;0.16
+Belgium;65to74;2019-14;1.62
+Belgium;65to74;2019-15;-0.64
+Belgium;65to74;2019-16;1.22
+Belgium;65to74;2019-17;0.44
+Belgium;65to74;2019-18;1.63
+Belgium;65to74;2019-19;-0.57
+Belgium;65to74;2019-20;-0.32
+Belgium;65to74;2019-21;-0.18
+Belgium;65to74;2019-22;-1.65
+Belgium;65to74;2019-23;0.2
+Belgium;65to74;2019-24;-0.65
+Belgium;65to74;2019-25;2.09
+Belgium;65to74;2019-26;1.69
+Belgium;65to74;2019-27;0.74
+Belgium;65to74;2019-28;-0.49
+Belgium;65to74;2019-29;1.44
+Belgium;65to74;2019-30;1.89
+Belgium;65to74;2019-31;-0.6
+Belgium;65to74;2019-32;-1.65
+Belgium;65to74;2019-33;0.27
+Belgium;65to74;2019-34;-1.93
+Belgium;65to74;2019-35;1.34
+Belgium;65to74;2019-36;-0.02
+Belgium;65to74;2019-37;-1.38
+Belgium;65to74;2019-38;0.55
+Belgium;65to74;2019-39;-0.1
+Belgium;65to74;2019-40;1.37
+Belgium;65to74;2019-41;-1.12
+Belgium;65to74;2019-42;-0.55
+Belgium;65to74;2019-43;0.2
+Belgium;65to74;2019-44;0.24
+Belgium;65to74;2019-45;0.57
+Belgium;65to74;2019-46;-1.11
+Belgium;65to74;2019-47;0.3
+Belgium;65to74;2019-48;0.29
+Belgium;65to74;2019-49;-0.08
+Belgium;65to74;2019-50;0.7
+Belgium;65to74;2019-51;1.1
+Belgium;65to74;2019-52;0.5
+Belgium;65to74;2020-01;0.57
+Belgium;65to74;2020-02;1.32
+Belgium;65to74;2020-03;2.69
+Belgium;65to74;2020-04;0.41
+Belgium;65to74;2020-05;0.49
+Belgium;65to74;2020-06;0.28
+Belgium;65to74;2020-07;1.18
+Belgium;65to74;2020-08;0.99
+Belgium;65to74;2020-09;0.44
+Belgium;65to74;2020-10;0.22
+Belgium;65to74;2020-11;0.54
+Belgium;65to74;2020-12;3.99
+Belgium;65to74;2020-13;7.19
+Belgium;65to74;2020-14;10.13
+Belgium;65to74;2020-15;8.61
+Belgium;65to74;2020-16;8.05
+Belgium;65to74;2020-17;3.82
+Belgium;65to74;2020-18;1.77
+Belgium;65to74;2020-19;1.35
+Belgium;65to74;2020-20;-0.36
+Belgium;65to74;2020-21;-1.23
+Belgium;65to74;2020-22;-0.93
+Belgium;65to74;2020-23;-1.72
+Belgium;65to74;2020-24;-0.92
+Belgium;65to74;2020-25;-1.26
+Belgium;65to74;2020-26;1.66
+Belgium;65to74;2020-27;-1.6
+Belgium;65to74;2020-28;-1.36
+Belgium;65to74;2020-29;-0.88
+Belgium;65to74;2020-30;-0.66
+Belgium;65to74;2020-31;-0.11
+Belgium;65to74;2020-32;0.66
+Belgium;65to74;2020-33;6.09
+Belgium;65to74;2020-34;1.52
+Belgium;65to74;2020-35;-0.92
+Belgium;65to74;2020-36;-1.29
+Belgium;65to74;2020-37;-0.3
+Belgium;65to74;2020-38;1.05
+Belgium;65to74;2020-39;-0.71
+Belgium;65to74;2020-40;-0.5
+Belgium;65to74;2020-41;1.31
+Belgium;65to74;2020-42;1.06
+Belgium;65to74;2020-43;1.66
+Belgium;65to74;2020-44;8.15
+Belgium;65to74;2020-45;10.7
+Belgium;65to74;2020-46;6.18
+Belgium;65to74;2020-47;6.99
+Belgium;65to74;2020-48;5.82
+Belgium;65to74;2020-49;2.95
+Belgium;65to74;2020-50;3.16
+Belgium;65to74;2020-51;2.59
+Belgium;65to74;2020-52;2.49
+Belgium;65to74;2020-53;2.25
+Belgium;65to74;2021-01;0.88
+Belgium;65to74;2021-02;-0.37
+Belgium;65to74;2021-03;1.05
+Belgium;65to74;2021-04;0.96
+Belgium;65to74;2021-05;0.18
+Belgium;65to74;2021-06;-0.35
+Belgium;65to74;2021-07;0.5
+Belgium;65to74;2021-08;0.33
+Belgium;65to74;2021-09;-0.18
+Belgium;65to74;2021-10;-0.04
+Belgium;65to74;2021-11;0.15
+Belgium;65to74;2021-12;0.83
+Belgium;65to74;2021-13;1.92
+Belgium;65to74;2021-14;3.06
+Belgium;65to74;2021-15;2.27
+Belgium;65to74;2021-16;3.31
+Belgium;65to74;2021-17;1.41
+Belgium;65to74;2021-18;2.02
+Belgium;65to74;2021-19;2.71
+Belgium;65to74;2021-20;2.08
+Belgium;65to74;2021-21;0.92
+Belgium;65to74;2021-22;-0.28
+Belgium;65to74;2021-23;-0.4
+Belgium;65to74;2021-24;0.85
+Belgium;65to74;2021-25;-0.27
+Belgium;65to74;2021-26;0.16
+Belgium;65to74;2021-27;-0.38
+Belgium;65to74;2021-28;1.11
+Belgium;65to74;2021-29;0.98
+Belgium;65to74;2021-30;-0.57
+Belgium;65to74;2021-31;0.09
+Belgium;65to74;2021-32;0.87
+Belgium;65to74;2021-33;0.14
+Belgium;65to74;2021-34;-1.2
+Belgium;65to74;2021-35;-0.43
+Belgium;65to74;2021-36;1.72
+Belgium;65to74;2021-37;0
+Belgium;65to74;2021-38;-1.14
+Belgium;65to74;2021-39;0.07
+Belgium;65to74;2021-40;0.59
+Belgium;65to74;2021-41;2.24
+Belgium;65to74;2021-42;1.4
+Belgium;65to74;2021-43;0.6
+Belgium;65to74;2021-44;1.75
+Belgium;65to74;2021-45;2.93
+Belgium;65to74;2021-46;1.63
+Belgium;65to74;2021-47;4.22
+Belgium;65to74;2021-48;4.83
+Belgium;65to74;2021-49;3.22
+Belgium;65to74;2021-50;4.81
+Belgium;65to74;2021-51;3.65
+Belgium;65to74;2021-52;1.3
+Belgium;65to74;2022-01;0.69
+Belgium;65to74;2022-02;1.35
+Belgium;65to74;2022-03;0.77
+Belgium;65to74;2022-04;1.92
+Belgium;65to74;2022-05;1.18
+Belgium;65to74;2022-06;-0.23
+Belgium;65to74;2022-07;1.06
+Belgium;65to74;2022-08;0.9
+Belgium;65to74;2022-09;-0.1
+Belgium;65to74;2022-10;1
+Belgium;65to74;2022-11;1.03
+Belgium;65to74;2022-12;0.28
+Belgium;65to74;2022-13;1.15
+Belgium;65to74;2022-14;1.87
+Belgium;65to74;2022-15;0.4
+Belgium;65to74;2022-16;1.53
+Belgium;65to74;2022-17;-0.12
+Belgium;65to74;2022-18;-0.08
+Belgium;65to74;2022-19;-1.69
+Belgium;65to74;2022-20;0.38
+Belgium;65to74;2022-21;-1.99
+Belgium;65to74;2022-22;0.18
+Belgium;65to74;2022-23;-0.29
+Belgium;65to74;2022-24;2.4
+Belgium;65to74;2022-25;-0.49
+Belgium;65to74;2022-26;-0.94
+Belgium;65to74;2022-27;0.19
+Belgium;65to74;2022-28;1.16
+Belgium;65to74;2022-29;0.01
+Belgium;65to74;2022-30;-0.66
+Belgium;65to74;2022-31;-0.58
+Belgium;65to74;2022-32;0.94
+Belgium;65to74;2022-33;0.2
+Belgium;65to74;2022-34;0.38
+Belgium;65to74;2022-35;-0.9
+Belgium;65to74;2022-36;-0.82
+Belgium;65to74;2022-37;-1.69
+Belgium;65to74;2022-38;-0.49
+Belgium;65to74;2022-39;-0.43
+Belgium;65to74;2022-40;1.39
+Belgium;65to74;2022-41;0.68
+Belgium;65to74;2022-42;0.58
+Cyprus;65to74;2018-44;-0.05
+Cyprus;65to74;2018-45;-0.11
+Cyprus;65to74;2018-46;1.19
+Cyprus;65to74;2018-47;-1.7
+Cyprus;65to74;2018-48;-0.46
+Cyprus;65to74;2018-49;-0.7
+Cyprus;65to74;2018-50;-0.53
+Cyprus;65to74;2018-51;0.54
+Cyprus;65to74;2018-52;-0.58
+Cyprus;65to74;2019-01;-1.58
+Cyprus;65to74;2019-02;-0.61
+Cyprus;65to74;2019-03;-0.25
+Cyprus;65to74;2019-04;0.94
+Cyprus;65to74;2019-05;1.43
+Cyprus;65to74;2019-06;0.28
+Cyprus;65to74;2019-07;-0.79
+Cyprus;65to74;2019-08;0.84
+Cyprus;65to74;2019-09;-0.56
+Cyprus;65to74;2019-10;0.57
+Cyprus;65to74;2019-11;-0.12
+Cyprus;65to74;2019-12;-0.67
+Cyprus;65to74;2019-13;0.16
+Cyprus;65to74;2019-14;-1.44
+Cyprus;65to74;2019-15;-3.99
+Cyprus;65to74;2019-16;-0.08
+Cyprus;65to74;2019-17;-0.03
+Cyprus;65to74;2019-18;0.43
+Cyprus;65to74;2019-19;-1.01
+Cyprus;65to74;2019-20;-0.3
+Cyprus;65to74;2019-21;-0.04
+Cyprus;65to74;2019-22;-0.43
+Cyprus;65to74;2019-23;-1.07
+Cyprus;65to74;2019-24;1.88
+Cyprus;65to74;2019-25;0.73
+Cyprus;65to74;2019-26;-1.21
+Cyprus;65to74;2019-27;0.97
+Cyprus;65to74;2019-28;0.78
+Cyprus;65to74;2019-29;0.37
+Cyprus;65to74;2019-30;-1.41
+Cyprus;65to74;2019-31;-2.43
+Cyprus;65to74;2019-32;0.35
+Cyprus;65to74;2019-33;-1.95
+Cyprus;65to74;2019-34;0.3
+Cyprus;65to74;2019-35;-0.37
+Cyprus;65to74;2019-36;0.84
+Cyprus;65to74;2019-37;0.99
+Cyprus;65to74;2019-38;0.13
+Cyprus;65to74;2019-39;-0.34
+Cyprus;65to74;2019-40;0.44
+Cyprus;65to74;2019-41;0.58
+Cyprus;65to74;2019-42;-1.63
+Cyprus;65to74;2019-43;-0.79
+Cyprus;65to74;2019-44;-0.01
+Cyprus;65to74;2019-45;0.51
+Cyprus;65to74;2019-46;-1.15
+Cyprus;65to74;2019-47;0.75
+Cyprus;65to74;2019-48;0.33
+Cyprus;65to74;2019-49;-2.1
+Cyprus;65to74;2019-50;-1.48
+Cyprus;65to74;2019-51;0.88
+Cyprus;65to74;2019-52;-1.51
+Cyprus;65to74;2020-01;-0.04
+Cyprus;65to74;2020-02;-1.33
+Cyprus;65to74;2020-03;0.44
+Cyprus;65to74;2020-04;1.39
+Cyprus;65to74;2020-05;-0.6
+Cyprus;65to74;2020-06;-0.95
+Cyprus;65to74;2020-07;-1.71
+Cyprus;65to74;2020-08;-1.12
+Cyprus;65to74;2020-09;0
+Cyprus;65to74;2020-10;-1.68
+Cyprus;65to74;2020-11;-0.48
+Cyprus;65to74;2020-12;0.82
+Cyprus;65to74;2020-13;1.05
+Cyprus;65to74;2020-14;-1.59
+Cyprus;65to74;2020-15;-2.24
+Cyprus;65to74;2020-16;0.13
+Cyprus;65to74;2020-17;-1.26
+Cyprus;65to74;2020-18;0.24
+Cyprus;65to74;2020-19;-0.74
+Cyprus;65to74;2020-20;2.04
+Cyprus;65to74;2020-21;0.98
+Cyprus;65to74;2020-22;-1.04
+Cyprus;65to74;2020-23;-0.34
+Cyprus;65to74;2020-24;-1.19
+Cyprus;65to74;2020-25;-0.28
+Cyprus;65to74;2020-26;-0.04
+Cyprus;65to74;2020-27;0.58
+Cyprus;65to74;2020-28;-2.04
+Cyprus;65to74;2020-29;-0.43
+Cyprus;65to74;2020-30;0.98
+Cyprus;65to74;2020-31;-0.87
+Cyprus;65to74;2020-32;-3.11
+Cyprus;65to74;2020-33;-1.13
+Cyprus;65to74;2020-34;-2.61
+Cyprus;65to74;2020-35;-0.75
+Cyprus;65to74;2020-36;0.26
+Cyprus;65to74;2020-37;-1.27
+Cyprus;65to74;2020-38;-2.03
+Cyprus;65to74;2020-39;0.32
+Cyprus;65to74;2020-40;1.4
+Cyprus;65to74;2020-41;0.59
+Cyprus;65to74;2020-42;-0.47
+Cyprus;65to74;2020-43;-1.37
+Cyprus;65to74;2020-44;-1.64
+Cyprus;65to74;2020-45;-0.44
+Cyprus;65to74;2020-46;0.08
+Cyprus;65to74;2020-47;0.03
+Cyprus;65to74;2020-48;-0.77
+Cyprus;65to74;2020-49;-1.39
+Cyprus;65to74;2020-50;-1.22
+Cyprus;65to74;2020-51;-0.87
+Cyprus;65to74;2020-52;-0.35
+Cyprus;65to74;2020-53;0.46
+Cyprus;65to74;2021-01;0.27
+Cyprus;65to74;2021-02;-2.25
+Cyprus;65to74;2021-03;-1.28
+Cyprus;65to74;2021-04;1.77
+Cyprus;65to74;2021-05;0.26
+Cyprus;65to74;2021-06;-0.91
+Cyprus;65to74;2021-07;-1.63
+Cyprus;65to74;2021-08;0.65
+Cyprus;65to74;2021-09;0.02
+Cyprus;65to74;2021-10;0.73
+Cyprus;65to74;2021-11;0.1
+Cyprus;65to74;2021-12;-1.55
+Cyprus;65to74;2021-13;0.55
+Cyprus;65to74;2021-14;-0.3
+Cyprus;65to74;2021-15;0.12
+Cyprus;65to74;2021-16;0.36
+Cyprus;65to74;2021-17;-0.15
+Cyprus;65to74;2021-18;3.23
+Cyprus;65to74;2021-19;1.8
+Cyprus;65to74;2021-20;-1.68
+Cyprus;65to74;2021-21;-0.77
+Cyprus;65to74;2021-22;1.04
+Cyprus;65to74;2021-23;1.97
+Cyprus;65to74;2021-24;-1.99
+Cyprus;65to74;2021-25;-0.42
+Cyprus;65to74;2021-26;-1.03
+Cyprus;65to74;2021-27;-1.92
+Cyprus;65to74;2021-28;3.05
+Cyprus;65to74;2021-29;0.98
+Cyprus;65to74;2021-30;3.53
+Cyprus;65to74;2021-31;3.03
+Cyprus;65to74;2021-32;1.48
+Cyprus;65to74;2021-33;-0.24
+Cyprus;65to74;2021-34;0.51
+Cyprus;65to74;2021-35;2.26
+Cyprus;65to74;2021-36;1.71
+Cyprus;65to74;2021-37;0.94
+Cyprus;65to74;2021-38;-1.29
+Cyprus;65to74;2021-39;0.46
+Cyprus;65to74;2021-40;-0.56
+Cyprus;65to74;2021-41;0.16
+Cyprus;65to74;2021-42;-0.1
+Cyprus;65to74;2021-43;-0.35
+Cyprus;65to74;2021-44;-0.79
+Cyprus;65to74;2021-45;1.3
+Cyprus;65to74;2021-46;1.39
+Cyprus;65to74;2021-47;-1.11
+Cyprus;65to74;2021-48;0.27
+Cyprus;65to74;2021-49;-0.63
+Cyprus;65to74;2021-50;-0.48
+Cyprus;65to74;2021-51;0.47
+Cyprus;65to74;2021-52;-0.2
+Cyprus;65to74;2022-01;0.86
+Cyprus;65to74;2022-02;-1.06
+Cyprus;65to74;2022-03;-0.08
+Cyprus;65to74;2022-04;-0.4
+Cyprus;65to74;2022-05;-0.39
+Cyprus;65to74;2022-06;-0.54
+Cyprus;65to74;2022-07;-0.2
+Cyprus;65to74;2022-08;-0.02
+Cyprus;65to74;2022-09;0.64
+Cyprus;65to74;2022-10;-0.29
+Cyprus;65to74;2022-11;0.89
+Cyprus;65to74;2022-12;1.26
+Cyprus;65to74;2022-13;0.68
+Cyprus;65to74;2022-14;0.06
+Cyprus;65to74;2022-15;-0.07
+Cyprus;65to74;2022-16;-1.75
+Cyprus;65to74;2022-17;0.92
+Cyprus;65to74;2022-18;-0.28
+Cyprus;65to74;2022-19;-1.42
+Cyprus;65to74;2022-20;0.56
+Cyprus;65to74;2022-21;-1.99
+Cyprus;65to74;2022-22;-1.95
+Cyprus;65to74;2022-23;-1.05
+Cyprus;65to74;2022-24;1.07
+Cyprus;65to74;2022-25;-0.78
+Cyprus;65to74;2022-26;-0.36
+Cyprus;65to74;2022-27;-0.54
+Cyprus;65to74;2022-28;0.78
+Cyprus;65to74;2022-29;-1.14
+Cyprus;65to74;2022-30;1.47
+Cyprus;65to74;2022-31;-0.95
+Cyprus;65to74;2022-32;-0.57
+Cyprus;65to74;2022-33;-1.62
+Cyprus;65to74;2022-34;-0.82
+Cyprus;65to74;2022-35;-0.86
+Cyprus;65to74;2022-36;-1.1
+Cyprus;65to74;2022-37;0.39
+Cyprus;65to74;2022-38;-0.22
+Cyprus;65to74;2022-39;-1.67
+Cyprus;65to74;2022-40;-0.33
+Cyprus;65to74;2022-41;-2.9
+Cyprus;65to74;2022-42;-2.25
+Denmark;65to74;2018-44;0.32
+Denmark;65to74;2018-45;0.26
+Denmark;65to74;2018-46;-0.85
+Denmark;65to74;2018-47;-0.44
+Denmark;65to74;2018-48;0.4
+Denmark;65to74;2018-49;0.4
+Denmark;65to74;2018-50;-0.05
+Denmark;65to74;2018-51;1.42
+Denmark;65to74;2018-52;1.46
+Denmark;65to74;2019-01;3.64
+Denmark;65to74;2019-02;1.72
+Denmark;65to74;2019-03;0.71
+Denmark;65to74;2019-04;1.34
+Denmark;65to74;2019-05;3.5
+Denmark;65to74;2019-06;3.27
+Denmark;65to74;2019-07;0.24
+Denmark;65to74;2019-08;3.26
+Denmark;65to74;2019-09;1.35
+Denmark;65to74;2019-10;1.23
+Denmark;65to74;2019-11;-0.01
+Denmark;65to74;2019-12;0.35
+Denmark;65to74;2019-13;-1.07
+Denmark;65to74;2019-14;0.9
+Denmark;65to74;2019-15;0
+Denmark;65to74;2019-16;-0.28
+Denmark;65to74;2019-17;-0.62
+Denmark;65to74;2019-18;0.22
+Denmark;65to74;2019-19;0.08
+Denmark;65to74;2019-20;0.53
+Denmark;65to74;2019-21;-0.87
+Denmark;65to74;2019-22;-1.41
+Denmark;65to74;2019-23;0.52
+Denmark;65to74;2019-24;0.06
+Denmark;65to74;2019-25;0.26
+Denmark;65to74;2019-26;1.79
+Denmark;65to74;2019-27;-2.26
+Denmark;65to74;2019-28;-1.98
+Denmark;65to74;2019-29;0.47
+Denmark;65to74;2019-30;-1.15
+Denmark;65to74;2019-31;-0.28
+Denmark;65to74;2019-32;0.51
+Denmark;65to74;2019-33;-0.98
+Denmark;65to74;2019-34;-1.77
+Denmark;65to74;2019-35;1.58
+Denmark;65to74;2019-36;-0.21
+Denmark;65to74;2019-37;-0.39
+Denmark;65to74;2019-38;-1.32
+Denmark;65to74;2019-39;-0.97
+Denmark;65to74;2019-40;-0.35
+Denmark;65to74;2019-41;0.53
+Denmark;65to74;2019-42;-0.05
+Denmark;65to74;2019-43;1.26
+Denmark;65to74;2019-44;-0.16
+Denmark;65to74;2019-45;0.3
+Denmark;65to74;2019-46;-1.33
+Denmark;65to74;2019-47;1.44
+Denmark;65to74;2019-48;1.98
+Denmark;65to74;2019-49;0.5
+Denmark;65to74;2019-50;0.55
+Denmark;65to74;2019-51;0.24
+Denmark;65to74;2019-52;0.05
+Denmark;65to74;2020-01;2.46
+Denmark;65to74;2020-02;0.45
+Denmark;65to74;2020-03;0.8
+Denmark;65to74;2020-04;0.55
+Denmark;65to74;2020-05;-0.12
+Denmark;65to74;2020-06;-0.37
+Denmark;65to74;2020-07;0.22
+Denmark;65to74;2020-08;0.38
+Denmark;65to74;2020-09;0.43
+Denmark;65to74;2020-10;0.05
+Denmark;65to74;2020-11;1.54
+Denmark;65to74;2020-12;0.7
+Denmark;65to74;2020-13;1.18
+Denmark;65to74;2020-14;2.32
+Denmark;65to74;2020-15;2.21
+Denmark;65to74;2020-16;-0.04
+Denmark;65to74;2020-17;1.03
+Denmark;65to74;2020-18;-1.92
+Denmark;65to74;2020-19;-0.86
+Denmark;65to74;2020-20;-0.61
+Denmark;65to74;2020-21;-0.81
+Denmark;65to74;2020-22;-0.22
+Denmark;65to74;2020-23;-1.68
+Denmark;65to74;2020-24;-0.75
+Denmark;65to74;2020-25;-1.94
+Denmark;65to74;2020-26;-1.4
+Denmark;65to74;2020-27;-1.32
+Denmark;65to74;2020-28;-1.24
+Denmark;65to74;2020-29;-0.32
+Denmark;65to74;2020-30;-1.88
+Denmark;65to74;2020-31;0.08
+Denmark;65to74;2020-32;-2.13
+Denmark;65to74;2020-33;0.17
+Denmark;65to74;2020-34;-1.37
+Denmark;65to74;2020-35;-0.51
+Denmark;65to74;2020-36;-0.43
+Denmark;65to74;2020-37;-2.22
+Denmark;65to74;2020-38;-0.86
+Denmark;65to74;2020-39;-0.25
+Denmark;65to74;2020-40;-0.76
+Denmark;65to74;2020-41;-1.22
+Denmark;65to74;2020-42;0.51
+Denmark;65to74;2020-43;-1.06
+Denmark;65to74;2020-44;-1.24
+Denmark;65to74;2020-45;-1.62
+Denmark;65to74;2020-46;1.1
+Denmark;65to74;2020-47;0.28
+Denmark;65to74;2020-48;0.03
+Denmark;65to74;2020-49;0.59
+Denmark;65to74;2020-50;-0.77
+Denmark;65to74;2020-51;2.75
+Denmark;65to74;2020-52;2.43
+Denmark;65to74;2020-53;2.07
+Denmark;65to74;2021-01;1.01
+Denmark;65to74;2021-02;2.31
+Denmark;65to74;2021-03;1.84
+Denmark;65to74;2021-04;2.67
+Denmark;65to74;2021-05;1.71
+Denmark;65to74;2021-06;0.66
+Denmark;65to74;2021-07;-0.53
+Denmark;65to74;2021-08;-3.58
+Denmark;65to74;2021-09;-1.25
+Denmark;65to74;2021-10;1.03
+Denmark;65to74;2021-11;-0.43
+Denmark;65to74;2021-12;-0.88
+Denmark;65to74;2021-13;-0.91
+Denmark;65to74;2021-14;-0.74
+Denmark;65to74;2021-15;-0.95
+Denmark;65to74;2021-16;0.24
+Denmark;65to74;2021-17;-0.47
+Denmark;65to74;2021-18;1.84
+Denmark;65to74;2021-19;-0.75
+Denmark;65to74;2021-20;0.53
+Denmark;65to74;2021-21;-1.48
+Denmark;65to74;2021-22;-2.28
+Denmark;65to74;2021-23;-0.76
+Denmark;65to74;2021-24;-1.73
+Denmark;65to74;2021-25;-0.88
+Denmark;65to74;2021-26;0.15
+Denmark;65to74;2021-27;-2.3
+Denmark;65to74;2021-28;-0.53
+Denmark;65to74;2021-29;0.11
+Denmark;65to74;2021-30;-1.21
+Denmark;65to74;2021-31;0.13
+Denmark;65to74;2021-32;-1.06
+Denmark;65to74;2021-33;-1.11
+Denmark;65to74;2021-34;0.74
+Denmark;65to74;2021-35;0.38
+Denmark;65to74;2021-36;-0.62
+Denmark;65to74;2021-37;-0.67
+Denmark;65to74;2021-38;0.18
+Denmark;65to74;2021-39;0.95
+Denmark;65to74;2021-40;0.59
+Denmark;65to74;2021-41;0.41
+Denmark;65to74;2021-42;-0.8
+Denmark;65to74;2021-43;-0.59
+Denmark;65to74;2021-44;-1.03
+Denmark;65to74;2021-45;0.69
+Denmark;65to74;2021-46;-0.49
+Denmark;65to74;2021-47;0.93
+Denmark;65to74;2021-48;0.68
+Denmark;65to74;2021-49;2.65
+Denmark;65to74;2021-50;-0.53
+Denmark;65to74;2021-51;1.12
+Denmark;65to74;2021-52;2.52
+Denmark;65to74;2022-01;2.05
+Denmark;65to74;2022-02;-1.26
+Denmark;65to74;2022-03;0.44
+Denmark;65to74;2022-04;0.31
+Denmark;65to74;2022-05;1.49
+Denmark;65to74;2022-06;1.26
+Denmark;65to74;2022-07;0.62
+Denmark;65to74;2022-08;0.72
+Denmark;65to74;2022-09;1.46
+Denmark;65to74;2022-10;-0.18
+Denmark;65to74;2022-11;0.87
+Denmark;65to74;2022-12;0.92
+Denmark;65to74;2022-13;1.73
+Denmark;65to74;2022-14;0.36
+Denmark;65to74;2022-15;0.23
+Denmark;65to74;2022-16;-0.46
+Denmark;65to74;2022-17;-0.92
+Denmark;65to74;2022-18;-0.05
+Denmark;65to74;2022-19;-2.24
+Denmark;65to74;2022-20;-0.38
+Denmark;65to74;2022-21;-1.27
+Denmark;65to74;2022-22;-0.76
+Denmark;65to74;2022-23;-0.7
+Denmark;65to74;2022-24;-1.85
+Denmark;65to74;2022-25;0.61
+Denmark;65to74;2022-26;-0.19
+Denmark;65to74;2022-27;-0.74
+Denmark;65to74;2022-28;-2
+Denmark;65to74;2022-29;-0.66
+Denmark;65to74;2022-30;-0.65
+Denmark;65to74;2022-31;-0.66
+Denmark;65to74;2022-32;-0.8
+Denmark;65to74;2022-33;-0.14
+Denmark;65to74;2022-34;-0.45
+Denmark;65to74;2022-35;-1.17
+Denmark;65to74;2022-36;-0.53
+Denmark;65to74;2022-37;-1.64
+Denmark;65to74;2022-38;-1.06
+Denmark;65to74;2022-39;-0.2
+Denmark;65to74;2022-40;1.33
+Denmark;65to74;2022-41;0.08
+Denmark;65to74;2022-42;-0.02
+Estonia;65to74;2018-44;-1.54
+Estonia;65to74;2018-45;-1.6
+Estonia;65to74;2018-46;-0.2
+Estonia;65to74;2018-47;-1.17
+Estonia;65to74;2018-48;-0.58
+Estonia;65to74;2018-49;1.81
+Estonia;65to74;2018-50;0.5
+Estonia;65to74;2018-51;0.89
+Estonia;65to74;2018-52;0.72
+Estonia;65to74;2019-01;0.57
+Estonia;65to74;2019-02;0.75
+Estonia;65to74;2019-03;1.67
+Estonia;65to74;2019-04;0.61
+Estonia;65to74;2019-05;-0.16
+Estonia;65to74;2019-06;0.28
+Estonia;65to74;2019-07;0.3
+Estonia;65to74;2019-08;-0.24
+Estonia;65to74;2019-09;0.46
+Estonia;65to74;2019-10;0.39
+Estonia;65to74;2019-11;-1.73
+Estonia;65to74;2019-12;-1.07
+Estonia;65to74;2019-13;0.9
+Estonia;65to74;2019-14;-0.6
+Estonia;65to74;2019-15;-1.2
+Estonia;65to74;2019-16;-0.1
+Estonia;65to74;2019-17;0.22
+Estonia;65to74;2019-18;0.17
+Estonia;65to74;2019-19;1.5
+Estonia;65to74;2019-20;1.45
+Estonia;65to74;2019-21;0.89
+Estonia;65to74;2019-22;-1.33
+Estonia;65to74;2019-23;0.62
+Estonia;65to74;2019-24;-0.25
+Estonia;65to74;2019-25;1.1
+Estonia;65to74;2019-26;-1.13
+Estonia;65to74;2019-27;0.13
+Estonia;65to74;2019-28;-1.06
+Estonia;65to74;2019-29;0.69
+Estonia;65to74;2019-30;-0.9
+Estonia;65to74;2019-31;-1.32
+Estonia;65to74;2019-32;0.56
+Estonia;65to74;2019-33;1.42
+Estonia;65to74;2019-34;-0.27
+Estonia;65to74;2019-35;-0.72
+Estonia;65to74;2019-36;0.83
+Estonia;65to74;2019-37;-0.26
+Estonia;65to74;2019-38;-0.05
+Estonia;65to74;2019-39;-1.35
+Estonia;65to74;2019-40;0.22
+Estonia;65to74;2019-41;-0.65
+Estonia;65to74;2019-42;-0.32
+Estonia;65to74;2019-43;-0.4
+Estonia;65to74;2019-44;-0.86
+Estonia;65to74;2019-45;-0.67
+Estonia;65to74;2019-46;1.8
+Estonia;65to74;2019-47;-0.42
+Estonia;65to74;2019-48;-0.85
+Estonia;65to74;2019-49;-0.66
+Estonia;65to74;2019-50;-0.82
+Estonia;65to74;2019-51;0.06
+Estonia;65to74;2019-52;-1.85
+Estonia;65to74;2020-01;-0.92
+Estonia;65to74;2020-02;0.69
+Estonia;65to74;2020-03;-2.01
+Estonia;65to74;2020-04;-0.86
+Estonia;65to74;2020-05;-0.97
+Estonia;65to74;2020-06;-2.88
+Estonia;65to74;2020-07;-0.52
+Estonia;65to74;2020-08;-0.95
+Estonia;65to74;2020-09;-0.82
+Estonia;65to74;2020-10;-0.57
+Estonia;65to74;2020-11;1.86
+Estonia;65to74;2020-12;0.42
+Estonia;65to74;2020-13;0.14
+Estonia;65to74;2020-14;0.77
+Estonia;65to74;2020-15;1.19
+Estonia;65to74;2020-16;0.57
+Estonia;65to74;2020-17;0.04
+Estonia;65to74;2020-18;0.23
+Estonia;65to74;2020-19;0.05
+Estonia;65to74;2020-20;-0.01
+Estonia;65to74;2020-21;0.31
+Estonia;65to74;2020-22;-1.2
+Estonia;65to74;2020-23;-1.97
+Estonia;65to74;2020-24;-0.81
+Estonia;65to74;2020-25;0.65
+Estonia;65to74;2020-26;0.94
+Estonia;65to74;2020-27;0.47
+Estonia;65to74;2020-28;-0.27
+Estonia;65to74;2020-29;-0.25
+Estonia;65to74;2020-30;-0.63
+Estonia;65to74;2020-31;0.65
+Estonia;65to74;2020-32;1.25
+Estonia;65to74;2020-33;-0.53
+Estonia;65to74;2020-34;0.1
+Estonia;65to74;2020-35;-0.32
+Estonia;65to74;2020-36;-0.36
+Estonia;65to74;2020-37;-0.67
+Estonia;65to74;2020-38;1.42
+Estonia;65to74;2020-39;0.87
+Estonia;65to74;2020-40;-0.72
+Estonia;65to74;2020-41;0.74
+Estonia;65to74;2020-42;-0.6
+Estonia;65to74;2020-43;-0.16
+Estonia;65to74;2020-44;-1.65
+Estonia;65to74;2020-45;-0.68
+Estonia;65to74;2020-46;-0.13
+Estonia;65to74;2020-47;0.03
+Estonia;65to74;2020-48;1.95
+Estonia;65to74;2020-49;0.13
+Estonia;65to74;2020-50;0.94
+Estonia;65to74;2020-51;1.59
+Estonia;65to74;2020-52;1.82
+Estonia;65to74;2020-53;-0.6
+Estonia;65to74;2021-01;1.33
+Estonia;65to74;2021-02;2.06
+Estonia;65to74;2021-03;1.94
+Estonia;65to74;2021-04;0.57
+Estonia;65to74;2021-05;0.67
+Estonia;65to74;2021-06;1.18
+Estonia;65to74;2021-07;-0.32
+Estonia;65to74;2021-08;2.49
+Estonia;65to74;2021-09;2.26
+Estonia;65to74;2021-10;2.23
+Estonia;65to74;2021-11;2.69
+Estonia;65to74;2021-12;2.68
+Estonia;65to74;2021-13;3.37
+Estonia;65to74;2021-14;2.36
+Estonia;65to74;2021-15;2.66
+Estonia;65to74;2021-16;3.17
+Estonia;65to74;2021-17;0.98
+Estonia;65to74;2021-18;1.29
+Estonia;65to74;2021-19;0.66
+Estonia;65to74;2021-20;1.08
+Estonia;65to74;2021-21;0.07
+Estonia;65to74;2021-22;0.49
+Estonia;65to74;2021-23;0.9
+Estonia;65to74;2021-24;-0.02
+Estonia;65to74;2021-25;2.02
+Estonia;65to74;2021-26;1.59
+Estonia;65to74;2021-27;2.62
+Estonia;65to74;2021-28;-0.91
+Estonia;65to74;2021-29;-0.77
+Estonia;65to74;2021-30;-0.77
+Estonia;65to74;2021-31;0.94
+Estonia;65to74;2021-32;1.16
+Estonia;65to74;2021-33;0.79
+Estonia;65to74;2021-34;0.52
+Estonia;65to74;2021-35;0.48
+Estonia;65to74;2021-36;0.68
+Estonia;65to74;2021-37;-0.85
+Estonia;65to74;2021-38;1.05
+Estonia;65to74;2021-39;2.89
+Estonia;65to74;2021-40;1.15
+Estonia;65to74;2021-41;0.49
+Estonia;65to74;2021-42;1.67
+Estonia;65to74;2021-43;2.02
+Estonia;65to74;2021-44;1.71
+Estonia;65to74;2021-45;2.66
+Estonia;65to74;2021-46;1.73
+Estonia;65to74;2021-47;2.64
+Estonia;65to74;2021-48;0.09
+Estonia;65to74;2021-49;2.72
+Estonia;65to74;2021-50;1.39
+Estonia;65to74;2021-51;0.24
+Estonia;65to74;2021-52;0.6
+Estonia;65to74;2022-01;1.32
+Estonia;65to74;2022-02;1.2
+Estonia;65to74;2022-03;-0.68
+Estonia;65to74;2022-04;0.21
+Estonia;65to74;2022-05;0.31
+Estonia;65to74;2022-06;0.98
+Estonia;65to74;2022-07;2.46
+Estonia;65to74;2022-08;1.03
+Estonia;65to74;2022-09;1.17
+Estonia;65to74;2022-10;0.73
+Estonia;65to74;2022-11;1.18
+Estonia;65to74;2022-12;0.84
+Estonia;65to74;2022-13;0.7
+Estonia;65to74;2022-14;0.87
+Estonia;65to74;2022-15;-0.36
+Estonia;65to74;2022-16;-0.19
+Estonia;65to74;2022-17;-1.42
+Estonia;65to74;2022-18;-0.4
+Estonia;65to74;2022-19;-0.11
+Estonia;65to74;2022-20;-0.87
+Estonia;65to74;2022-21;0.59
+Estonia;65to74;2022-22;-0.4
+Estonia;65to74;2022-23;0.92
+Estonia;65to74;2022-24;-0.3
+Estonia;65to74;2022-25;2.09
+Estonia;65to74;2022-26;0.59
+Estonia;65to74;2022-27;0.27
+Estonia;65to74;2022-28;1.08
+Estonia;65to74;2022-29;0.86
+Estonia;65to74;2022-30;-0.52
+Estonia;65to74;2022-31;-0.29
+Estonia;65to74;2022-32;-0.3
+Estonia;65to74;2022-33;0.83
+Estonia;65to74;2022-34;-0.83
+Estonia;65to74;2022-35;0.32
+Estonia;65to74;2022-36;-1.03
+Estonia;65to74;2022-37;0.57
+Estonia;65to74;2022-38;1.52
+Estonia;65to74;2022-39;-0.12
+Estonia;65to74;2022-40;1
+Estonia;65to74;2022-41;0.72
+Estonia;65to74;2022-42;-1.29
+Finland;65to74;2018-44;-0.29
+Finland;65to74;2018-45;0.1
+Finland;65to74;2018-46;-0.91
+Finland;65to74;2018-47;-1.38
+Finland;65to74;2018-48;0.09
+Finland;65to74;2018-49;-0.49
+Finland;65to74;2018-50;0.67
+Finland;65to74;2018-51;-1.17
+Finland;65to74;2018-52;1.48
+Finland;65to74;2019-01;0.71
+Finland;65to74;2019-02;0.05
+Finland;65to74;2019-03;3.17
+Finland;65to74;2019-04;0.96
+Finland;65to74;2019-05;1.23
+Finland;65to74;2019-06;0.42
+Finland;65to74;2019-07;0.39
+Finland;65to74;2019-08;0.67
+Finland;65to74;2019-09;0.02
+Finland;65to74;2019-10;1.25
+Finland;65to74;2019-11;1.72
+Finland;65to74;2019-12;0.88
+Finland;65to74;2019-13;0.59
+Finland;65to74;2019-14;-0.45
+Finland;65to74;2019-15;0.04
+Finland;65to74;2019-16;-0.77
+Finland;65to74;2019-17;0.2
+Finland;65to74;2019-18;-0.21
+Finland;65to74;2019-19;0.41
+Finland;65to74;2019-20;0.61
+Finland;65to74;2019-21;-1
+Finland;65to74;2019-22;-0.24
+Finland;65to74;2019-23;0.36
+Finland;65to74;2019-24;-0.63
+Finland;65to74;2019-25;-1.08
+Finland;65to74;2019-26;-2.46
+Finland;65to74;2019-27;-0.25
+Finland;65to74;2019-28;-0.29
+Finland;65to74;2019-29;-1.57
+Finland;65to74;2019-30;-0.25
+Finland;65to74;2019-31;-2.22
+Finland;65to74;2019-32;-0.69
+Finland;65to74;2019-33;-1.98
+Finland;65to74;2019-34;-0.99
+Finland;65to74;2019-35;-1.6
+Finland;65to74;2019-36;-2
+Finland;65to74;2019-37;-0.54
+Finland;65to74;2019-38;-0.86
+Finland;65to74;2019-39;1.1
+Finland;65to74;2019-40;1.45
+Finland;65to74;2019-41;0.57
+Finland;65to74;2019-42;0.27
+Finland;65to74;2019-43;1.35
+Finland;65to74;2019-44;0.22
+Finland;65to74;2019-45;-1.05
+Finland;65to74;2019-46;-1.93
+Finland;65to74;2019-47;-1.05
+Finland;65to74;2019-48;-0.01
+Finland;65to74;2019-49;0.49
+Finland;65to74;2019-50;-0.63
+Finland;65to74;2019-51;0.26
+Finland;65to74;2019-52;-0.84
+Finland;65to74;2020-01;-0.07
+Finland;65to74;2020-02;-1.09
+Finland;65to74;2020-03;-0.69
+Finland;65to74;2020-04;1.02
+Finland;65to74;2020-05;-0.69
+Finland;65to74;2020-06;1.32
+Finland;65to74;2020-07;-0.38
+Finland;65to74;2020-08;-0.35
+Finland;65to74;2020-09;0.17
+Finland;65to74;2020-10;0.02
+Finland;65to74;2020-11;0.8
+Finland;65to74;2020-12;0.33
+Finland;65to74;2020-13;0.61
+Finland;65to74;2020-14;-0.39
+Finland;65to74;2020-15;2.13
+Finland;65to74;2020-16;-1.93
+Finland;65to74;2020-17;1.35
+Finland;65to74;2020-18;0.45
+Finland;65to74;2020-19;0.78
+Finland;65to74;2020-20;1.76
+Finland;65to74;2020-21;0.1
+Finland;65to74;2020-22;-0.46
+Finland;65to74;2020-23;0.26
+Finland;65to74;2020-24;-0.03
+Finland;65to74;2020-25;0.8
+Finland;65to74;2020-26;1.08
+Finland;65to74;2020-27;-0.8
+Finland;65to74;2020-28;-1.99
+Finland;65to74;2020-29;-1.08
+Finland;65to74;2020-30;-0.07
+Finland;65to74;2020-31;-0.7
+Finland;65to74;2020-32;-0.49
+Finland;65to74;2020-33;-2.01
+Finland;65to74;2020-34;-1.73
+Finland;65to74;2020-35;-2.47
+Finland;65to74;2020-36;-0.83
+Finland;65to74;2020-37;1
+Finland;65to74;2020-38;-1.2
+Finland;65to74;2020-39;2.41
+Finland;65to74;2020-40;-2.51
+Finland;65to74;2020-41;-2.96
+Finland;65to74;2020-42;-2.5
+Finland;65to74;2020-43;-0.98
+Finland;65to74;2020-44;-1.26
+Finland;65to74;2020-45;-1.33
+Finland;65to74;2020-46;-1.27
+Finland;65to74;2020-47;0.19
+Finland;65to74;2020-48;-0.31
+Finland;65to74;2020-49;-1.11
+Finland;65to74;2020-50;0.08
+Finland;65to74;2020-51;-0.82
+Finland;65to74;2020-52;1.45
+Finland;65to74;2020-53;-1.75
+Finland;65to74;2021-01;-2.4
+Finland;65to74;2021-02;1.55
+Finland;65to74;2021-03;-0.56
+Finland;65to74;2021-04;1.66
+Finland;65to74;2021-05;0.61
+Finland;65to74;2021-06;-2.56
+Finland;65to74;2021-07;1.2
+Finland;65to74;2021-08;-0.29
+Finland;65to74;2021-09;-0.14
+Finland;65to74;2021-10;-0.54
+Finland;65to74;2021-11;0.28
+Finland;65to74;2021-12;0.19
+Finland;65to74;2021-13;-0.23
+Finland;65to74;2021-14;1.05
+Finland;65to74;2021-15;-2.38
+Finland;65to74;2021-16;-0.84
+Finland;65to74;2021-17;-1.91
+Finland;65to74;2021-18;1.24
+Finland;65to74;2021-19;-0.12
+Finland;65to74;2021-20;0
+Finland;65to74;2021-21;-2.16
+Finland;65to74;2021-22;-1.56
+Finland;65to74;2021-23;-0.64
+Finland;65to74;2021-24;-2.28
+Finland;65to74;2021-25;0.2
+Finland;65to74;2021-26;-0.28
+Finland;65to74;2021-27;-0.19
+Finland;65to74;2021-28;1.01
+Finland;65to74;2021-29;-2.64
+Finland;65to74;2021-30;-2.15
+Finland;65to74;2021-31;-0.96
+Finland;65to74;2021-32;-1.59
+Finland;65to74;2021-33;-2.04
+Finland;65to74;2021-34;-1.5
+Finland;65to74;2021-35;-0.4
+Finland;65to74;2021-36;-2.47
+Finland;65to74;2021-37;-2.72
+Finland;65to74;2021-38;-1.57
+Finland;65to74;2021-39;-1.49
+Finland;65to74;2021-40;-2.25
+Finland;65to74;2021-41;0.72
+Finland;65to74;2021-42;-1.64
+Finland;65to74;2021-43;-1.59
+Finland;65to74;2021-44;-4.6
+Finland;65to74;2021-45;-0.84
+Finland;65to74;2021-46;-0.17
+Finland;65to74;2021-47;-1.89
+Finland;65to74;2021-48;-0.11
+Finland;65to74;2021-49;0.54
+Finland;65to74;2021-50;0.14
+Finland;65to74;2021-51;-1.18
+Finland;65to74;2021-52;1.96
+Finland;65to74;2022-01;-0.83
+Finland;65to74;2022-02;0.45
+Finland;65to74;2022-03;0.08
+Finland;65to74;2022-04;-0.17
+Finland;65to74;2022-05;0.26
+Finland;65to74;2022-06;1.35
+Finland;65to74;2022-07;0.72
+Finland;65to74;2022-08;-0.86
+Finland;65to74;2022-09;-0.48
+Finland;65to74;2022-10;-0.93
+Finland;65to74;2022-11;-1.84
+Finland;65to74;2022-12;0.67
+Finland;65to74;2022-13;0.94
+Finland;65to74;2022-14;-0.25
+Finland;65to74;2022-15;0.14
+Finland;65to74;2022-16;-0.29
+Finland;65to74;2022-17;0.22
+Finland;65to74;2022-18;0.97
+Finland;65to74;2022-19;-1.31
+Finland;65to74;2022-20;-1.91
+Finland;65to74;2022-21;-1.99
+Finland;65to74;2022-22;-1.67
+Finland;65to74;2022-23;-2.22
+Finland;65to74;2022-24;-2.5
+Finland;65to74;2022-25;-1.74
+Finland;65to74;2022-26;-1.07
+Finland;65to74;2022-27;-0.91
+Finland;65to74;2022-28;-2.42
+Finland;65to74;2022-29;-1.25
+Finland;65to74;2022-30;-1.1
+Finland;65to74;2022-31;-0.78
+Finland;65to74;2022-32;-0.52
+Finland;65to74;2022-33;-1.82
+Finland;65to74;2022-34;-3.56
+Finland;65to74;2022-35;-2.31
+Finland;65to74;2022-36;-1.05
+Finland;65to74;2022-37;-0.68
+Finland;65to74;2022-38;-0.39
+Finland;65to74;2022-39;-2.02
+Finland;65to74;2022-40;-1.66
+Finland;65to74;2022-41;-2.71
+Finland;65to74;2022-42;-2.2
+France;65to74;2018-44;0.92
+France;65to74;2018-45;1.62
+France;65to74;2018-46;-0.38
+France;65to74;2018-47;0.6
+France;65to74;2018-48;1.55
+France;65to74;2018-49;-0.22
+France;65to74;2018-50;-0.21
+France;65to74;2018-51;1.76
+France;65to74;2018-52;0.45
+France;65to74;2019-01;1.35
+France;65to74;2019-02;2.52
+France;65to74;2019-03;3.1
+France;65to74;2019-04;3.38
+France;65to74;2019-05;4.49
+France;65to74;2019-06;4.2
+France;65to74;2019-07;4.16
+France;65to74;2019-08;4.69
+France;65to74;2019-09;2.99
+France;65to74;2019-10;3.69
+France;65to74;2019-11;1.83
+France;65to74;2019-12;1.54
+France;65to74;2019-13;-1.21
+France;65to74;2019-14;1.61
+France;65to74;2019-15;-0.47
+France;65to74;2019-16;-0.28
+France;65to74;2019-17;-0.46
+France;65to74;2019-18;-2.2
+France;65to74;2019-19;0.47
+France;65to74;2019-20;-0.26
+France;65to74;2019-21;-0.09
+France;65to74;2019-22;-1.04
+France;65to74;2019-23;1.2
+France;65to74;2019-24;0.25
+France;65to74;2019-25;-0.08
+France;65to74;2019-26;2.39
+France;65to74;2019-27;1.1
+France;65to74;2019-28;-0.25
+France;65to74;2019-29;-0.8
+France;65to74;2019-30;2.32
+France;65to74;2019-31;-2.12
+France;65to74;2019-32;-0.36
+France;65to74;2019-33;-0.57
+France;65to74;2019-34;-2.25
+France;65to74;2019-35;-0.62
+France;65to74;2019-36;-1.1
+France;65to74;2019-37;-0.61
+France;65to74;2019-38;0.09
+France;65to74;2019-39;-0.32
+France;65to74;2019-40;1.84
+France;65to74;2019-41;0.94
+France;65to74;2019-42;0.89
+France;65to74;2019-43;-0.34
+France;65to74;2019-44;0.24
+France;65to74;2019-45;0.4
+France;65to74;2019-46;0.74
+France;65to74;2019-47;1.26
+France;65to74;2019-48;0.29
+France;65to74;2019-49;3
+France;65to74;2019-50;1.55
+France;65to74;2019-51;1.24
+France;65to74;2019-52;2.62
+France;65to74;2020-01;2.1
+France;65to74;2020-02;4
+France;65to74;2020-03;1.46
+France;65to74;2020-04;0.39
+France;65to74;2020-05;2.66
+France;65to74;2020-06;2.3
+France;65to74;2020-07;0.85
+France;65to74;2020-08;0.43
+France;65to74;2020-09;2.09
+France;65to74;2020-10;0.48
+France;65to74;2020-11;3.05
+France;65to74;2020-12;7.83
+France;65to74;2020-13;11.21
+France;65to74;2020-14;15.77
+France;65to74;2020-15;12.01
+France;65to74;2020-16;7.41
+France;65to74;2020-17;2.59
+France;65to74;2020-18;0.1
+France;65to74;2020-19;-0.81
+France;65to74;2020-20;-1.38
+France;65to74;2020-21;-1.14
+France;65to74;2020-22;-1.7
+France;65to74;2020-23;-2
+France;65to74;2020-24;-0.58
+France;65to74;2020-25;-1.28
+France;65to74;2020-26;1.51
+France;65to74;2020-27;-0.95
+France;65to74;2020-28;-1.43
+France;65to74;2020-29;-1.68
+France;65to74;2020-30;0.31
+France;65to74;2020-31;-0.32
+France;65to74;2020-32;0.85
+France;65to74;2020-33;2.32
+France;65to74;2020-34;-0.61
+France;65to74;2020-35;0.74
+France;65to74;2020-36;0.75
+France;65to74;2020-37;0.93
+France;65to74;2020-38;0.64
+France;65to74;2020-39;0.47
+France;65to74;2020-40;3.42
+France;65to74;2020-41;2.53
+France;65to74;2020-42;2.25
+France;65to74;2020-43;5.94
+France;65to74;2020-44;6.44
+France;65to74;2020-45;8.73
+France;65to74;2020-46;7.16
+France;65to74;2020-47;7.17
+France;65to74;2020-48;5.59
+France;65to74;2020-49;7.32
+France;65to74;2020-50;7.36
+France;65to74;2020-51;5.14
+France;65to74;2020-52;3.89
+France;65to74;2020-53;2.71
+France;65to74;2021-01;2.64
+France;65to74;2021-02;3.84
+France;65to74;2021-03;3.67
+France;65to74;2021-04;3.91
+France;65to74;2021-05;3.82
+France;65to74;2021-06;3.01
+France;65to74;2021-07;5.34
+France;65to74;2021-08;1.95
+France;65to74;2021-09;2.47
+France;65to74;2021-10;3.91
+France;65to74;2021-11;5.18
+France;65to74;2021-12;3.71
+France;65to74;2021-13;5.6
+France;65to74;2021-14;5.53
+France;65to74;2021-15;5.17
+France;65to74;2021-16;8.22
+France;65to74;2021-17;6.63
+France;65to74;2021-18;6.68
+France;65to74;2021-19;2.61
+France;65to74;2021-20;1.69
+France;65to74;2021-21;0.19
+France;65to74;2021-22;0.89
+France;65to74;2021-23;0.98
+France;65to74;2021-24;0.63
+France;65to74;2021-25;-2.27
+France;65to74;2021-26;-2.65
+France;65to74;2021-27;1.12
+France;65to74;2021-28;-1.29
+France;65to74;2021-29;2.36
+France;65to74;2021-30;-0.4
+France;65to74;2021-31;-0.31
+France;65to74;2021-32;1.99
+France;65to74;2021-33;2.09
+France;65to74;2021-34;2.66
+France;65to74;2021-35;1.96
+France;65to74;2021-36;2.29
+France;65to74;2021-37;0.81
+France;65to74;2021-38;-0.1
+France;65to74;2021-39;-0.48
+France;65to74;2021-40;-0.37
+France;65to74;2021-41;2.96
+France;65to74;2021-42;1.16
+France;65to74;2021-43;1.22
+France;65to74;2021-44;0.92
+France;65to74;2021-45;-0.16
+France;65to74;2021-46;1.08
+France;65to74;2021-47;3.08
+France;65to74;2021-48;4.55
+France;65to74;2021-49;4.78
+France;65to74;2021-50;5.06
+France;65to74;2021-51;7.18
+France;65to74;2021-52;5.93
+France;65to74;2022-01;5.21
+France;65to74;2022-02;4.41
+France;65to74;2022-03;3.32
+France;65to74;2022-04;6.22
+France;65to74;2022-05;5.18
+France;65to74;2022-06;3.21
+France;65to74;2022-07;1.46
+France;65to74;2022-08;-0.18
+France;65to74;2022-09;-0.04
+France;65to74;2022-10;0.57
+France;65to74;2022-11;1.04
+France;65to74;2022-12;0.22
+France;65to74;2022-13;0.01
+France;65to74;2022-14;1.44
+France;65to74;2022-15;1.64
+France;65to74;2022-16;0.11
+France;65to74;2022-17;-0.31
+France;65to74;2022-18;-0.28
+France;65to74;2022-19;0.41
+France;65to74;2022-20;-1.3
+France;65to74;2022-21;-2.84
+France;65to74;2022-22;-0.88
+France;65to74;2022-23;-2.1
+France;65to74;2022-24;-1.32
+France;65to74;2022-25;-0.97
+France;65to74;2022-26;-2.95
+France;65to74;2022-27;-1.6
+France;65to74;2022-28;1.5
+France;65to74;2022-29;3.41
+France;65to74;2022-30;0.6
+France;65to74;2022-31;0.99
+France;65to74;2022-32;0.33
+France;65to74;2022-33;-1.17
+France;65to74;2022-34;-2.2
+France;65to74;2022-35;-3.6
+France;65to74;2022-36;-2.28
+France;65to74;2022-37;-1.73
+France;65to74;2022-38;-0.56
+France;65to74;2022-39;-0.38
+France;65to74;2022-40;0.39
+France;65to74;2022-41;1.07
+France;65to74;2022-42;-2
+Germany;65to74;2018-44;-1.61
+Germany;65to74;2018-45;0.33
+Germany;65to74;2018-46;-0.78
+Germany;65to74;2018-47;-1.68
+Germany;65to74;2018-48;-1.42
+Germany;65to74;2018-49;0
+Germany;65to74;2018-50;0.04
+Germany;65to74;2018-51;0.67
+Germany;65to74;2018-52;-2.71
+Germany;65to74;2019-01;-0.32
+Germany;65to74;2019-02;0.66
+Germany;65to74;2019-03;-0.37
+Germany;65to74;2019-04;0.77
+Germany;65to74;2019-05;0.51
+Germany;65to74;2019-06;2.07
+Germany;65to74;2019-07;2.64
+Germany;65to74;2019-08;2.43
+Germany;65to74;2019-09;3.47
+Germany;65to74;2019-10;1.31
+Germany;65to74;2019-11;1.71
+Germany;65to74;2019-12;0.54
+Germany;65to74;2019-13;0.46
+Germany;65to74;2019-14;0.59
+Germany;65to74;2019-15;-0.83
+Germany;65to74;2019-16;1.04
+Germany;65to74;2019-17;0.86
+Germany;65to74;2019-18;-1.58
+Germany;65to74;2019-19;0.82
+Germany;65to74;2019-20;0.62
+Germany;65to74;2019-21;0.75
+Germany;65to74;2019-22;0.9
+Germany;65to74;2019-23;1.38
+Germany;65to74;2019-24;-0.21
+Germany;65to74;2019-25;-0.57
+Germany;65to74;2019-26;1.62
+Germany;65to74;2019-27;1.09
+Germany;65to74;2019-28;0.87
+Germany;65to74;2019-29;0.51
+Germany;65to74;2019-30;6.97
+Germany;65to74;2019-31;2.68
+Germany;65to74;2019-32;0.9
+Germany;65to74;2019-33;-0.46
+Germany;65to74;2019-34;0.29
+Germany;65to74;2019-35;2.48
+Germany;65to74;2019-36;-0.2
+Germany;65to74;2019-37;-0.58
+Germany;65to74;2019-38;0.25
+Germany;65to74;2019-39;1.24
+Germany;65to74;2019-40;0.29
+Germany;65to74;2019-41;0.85
+Germany;65to74;2019-42;0.59
+Germany;65to74;2019-43;0.38
+Germany;65to74;2019-44;-0.18
+Germany;65to74;2019-45;0.37
+Germany;65to74;2019-46;0.88
+Germany;65to74;2019-47;-0.72
+Germany;65to74;2019-48;0.29
+Germany;65to74;2019-49;1.76
+Germany;65to74;2019-50;1.5
+Germany;65to74;2019-51;1.6
+Germany;65to74;2019-52;-1.2
+Germany;65to74;2020-01;-1.16
+Germany;65to74;2020-02;0.65
+Germany;65to74;2020-03;-0.67
+Germany;65to74;2020-04;0.76
+Germany;65to74;2020-05;1.49
+Germany;65to74;2020-06;0.42
+Germany;65to74;2020-07;0.7
+Germany;65to74;2020-08;1.06
+Germany;65to74;2020-09;0.44
+Germany;65to74;2020-10;1.25
+Germany;65to74;2020-11;2.72
+Germany;65to74;2020-12;2.76
+Germany;65to74;2020-13;2.5
+Germany;65to74;2020-14;3.98
+Germany;65to74;2020-15;3.73
+Germany;65to74;2020-16;1.95
+Germany;65to74;2020-17;1.48
+Germany;65to74;2020-18;0.52
+Germany;65to74;2020-19;0.43
+Germany;65to74;2020-20;0.93
+Germany;65to74;2020-21;0.98
+Germany;65to74;2020-22;0.31
+Germany;65to74;2020-23;1.11
+Germany;65to74;2020-24;-0.06
+Germany;65to74;2020-25;1.2
+Germany;65to74;2020-26;2.58
+Germany;65to74;2020-27;1.1
+Germany;65to74;2020-28;-0.34
+Germany;65to74;2020-29;0.86
+Germany;65to74;2020-30;1.66
+Germany;65to74;2020-31;2.15
+Germany;65to74;2020-32;3.21
+Germany;65to74;2020-33;5.83
+Germany;65to74;2020-34;3.17
+Germany;65to74;2020-35;0.38
+Germany;65to74;2020-36;1.97
+Germany;65to74;2020-37;1.9
+Germany;65to74;2020-38;0.91
+Germany;65to74;2020-39;2.91
+Germany;65to74;2020-40;1.13
+Germany;65to74;2020-41;2.44
+Germany;65to74;2020-42;2.51
+Germany;65to74;2020-43;3.66
+Germany;65to74;2020-44;3.06
+Germany;65to74;2020-45;3.06
+Germany;65to74;2020-46;4.12
+Germany;65to74;2020-47;2.33
+Germany;65to74;2020-48;3.99
+Germany;65to74;2020-49;7.09
+Germany;65to74;2020-50;6.5
+Germany;65to74;2020-51;7.41
+Germany;65to74;2020-52;7.69
+Germany;65to74;2020-53;7.94
+Germany;65to74;2021-01;6.92
+Germany;65to74;2021-02;7.16
+Germany;65to74;2021-03;7.02
+Germany;65to74;2021-04;6.04
+Germany;65to74;2021-05;4.7
+Germany;65to74;2021-06;3.96
+Germany;65to74;2021-07;3.67
+Germany;65to74;2021-08;2
+Germany;65to74;2021-09;1.55
+Germany;65to74;2021-10;2.41
+Germany;65to74;2021-11;2.67
+Germany;65to74;2021-12;2.75
+Germany;65to74;2021-13;2.7
+Germany;65to74;2021-14;5.05
+Germany;65to74;2021-15;5.91
+Germany;65to74;2021-16;7.12
+Germany;65to74;2021-17;6.88
+Germany;65to74;2021-18;7.47
+Germany;65to74;2021-19;6.78
+Germany;65to74;2021-20;6.26
+Germany;65to74;2021-21;4.07
+Germany;65to74;2021-22;5.56
+Germany;65to74;2021-23;3.99
+Germany;65to74;2021-24;6.71
+Germany;65to74;2021-25;2.95
+Germany;65to74;2021-26;3.49
+Germany;65to74;2021-27;4.62
+Germany;65to74;2021-28;5.74
+Germany;65to74;2021-29;4.92
+Germany;65to74;2021-30;4.14
+Germany;65to74;2021-31;3.89
+Germany;65to74;2021-32;4.41
+Germany;65to74;2021-33;4.18
+Germany;65to74;2021-34;3.31
+Germany;65to74;2021-35;3.15
+Germany;65to74;2021-36;6.69
+Germany;65to74;2021-37;4.06
+Germany;65to74;2021-38;5.31
+Germany;65to74;2021-39;5.63
+Germany;65to74;2021-40;4.35
+Germany;65to74;2021-41;4.98
+Germany;65to74;2021-42;6.71
+Germany;65to74;2021-43;6.93
+Germany;65to74;2021-44;6.11
+Germany;65to74;2021-45;6.69
+Germany;65to74;2021-46;8.75
+Germany;65to74;2021-47;10.23
+Germany;65to74;2021-48;12
+Germany;65to74;2021-49;10.58
+Germany;65to74;2021-50;9.65
+Germany;65to74;2021-51;8.72
+Germany;65to74;2021-52;7.89
+Germany;65to74;2022-01;4.64
+Germany;65to74;2022-02;4.18
+Germany;65to74;2022-03;2.81
+Germany;65to74;2022-04;4.5
+Germany;65to74;2022-05;3.58
+Germany;65to74;2022-06;3.98
+Germany;65to74;2022-07;5.01
+Germany;65to74;2022-08;3.37
+Germany;65to74;2022-09;4.14
+Germany;65to74;2022-10;4.82
+Germany;65to74;2022-11;5.4
+Germany;65to74;2022-12;6.34
+Germany;65to74;2022-13;5.66
+Germany;65to74;2022-14;5.59
+Germany;65to74;2022-15;6.04
+Germany;65to74;2022-16;4.79
+Germany;65to74;2022-17;5.62
+Germany;65to74;2022-18;6.44
+Germany;65to74;2022-19;5.34
+Germany;65to74;2022-20;4.5
+Germany;65to74;2022-21;2.86
+Germany;65to74;2022-22;4.98
+Germany;65to74;2022-23;4.3
+Germany;65to74;2022-24;6.23
+Germany;65to74;2022-25;6.63
+Germany;65to74;2022-26;6.66
+Germany;65to74;2022-27;5.93
+Germany;65to74;2022-28;6.96
+Germany;65to74;2022-29;9.79
+Germany;65to74;2022-30;8
+Germany;65to74;2022-31;7.62
+Germany;65to74;2022-32;7.71
+Germany;65to74;2022-33;6.62
+Germany;65to74;2022-34;5.71
+Germany;65to74;2022-35;4.32
+Germany;65to74;2022-36;6.35
+Germany;65to74;2022-37;5.88
+Germany;65to74;2022-38;6.79
+Germany;65to74;2022-39;9.04
+Germany;65to74;2022-40;8.66
+Germany;65to74;2022-41;8.06
+Germany;65to74;2022-42;5.87
+Germany (Berlin);65to74;2018-44;0.24
+Germany (Berlin);65to74;2018-45;0.33
+Germany (Berlin);65to74;2018-46;0.16
+Germany (Berlin);65to74;2018-47;-0.36
+Germany (Berlin);65to74;2018-48;-0.96
+Germany (Berlin);65to74;2018-49;0.35
+Germany (Berlin);65to74;2018-50;0.12
+Germany (Berlin);65to74;2018-51;-0.1
+Germany (Berlin);65to74;2018-52;-2.17
+Germany (Berlin);65to74;2019-01;0.21
+Germany (Berlin);65to74;2019-02;-0.05
+Germany (Berlin);65to74;2019-03;-0.55
+Germany (Berlin);65to74;2019-04;0.69
+Germany (Berlin);65to74;2019-05;-1.7
+Germany (Berlin);65to74;2019-06;0.55
+Germany (Berlin);65to74;2019-07;1.49
+Germany (Berlin);65to74;2019-08;0.54
+Germany (Berlin);65to74;2019-09;0.9
+Germany (Berlin);65to74;2019-10;0.24
+Germany (Berlin);65to74;2019-11;1.27
+Germany (Berlin);65to74;2019-12;-0.05
+Germany (Berlin);65to74;2019-13;-2
+Germany (Berlin);65to74;2019-14;1.55
+Germany (Berlin);65to74;2019-15;1.07
+Germany (Berlin);65to74;2019-16;0.12
+Germany (Berlin);65to74;2019-17;-0.42
+Germany (Berlin);65to74;2019-18;0.04
+Germany (Berlin);65to74;2019-19;1.75
+Germany (Berlin);65to74;2019-20;-1.19
+Germany (Berlin);65to74;2019-21;-0.05
+Germany (Berlin);65to74;2019-22;-0.06
+Germany (Berlin);65to74;2019-23;-0.84
+Germany (Berlin);65to74;2019-24;1.2
+Germany (Berlin);65to74;2019-25;0.35
+Germany (Berlin);65to74;2019-26;-0.73
+Germany (Berlin);65to74;2019-27;0.27
+Germany (Berlin);65to74;2019-28;1.41
+Germany (Berlin);65to74;2019-29;0.98
+Germany (Berlin);65to74;2019-30;1
+Germany (Berlin);65to74;2019-31;-0.47
+Germany (Berlin);65to74;2019-32;0.19
+Germany (Berlin);65to74;2019-33;0.64
+Germany (Berlin);65to74;2019-34;-0.7
+Germany (Berlin);65to74;2019-35;0.68
+Germany (Berlin);65to74;2019-36;-1.86
+Germany (Berlin);65to74;2019-37;-2.02
+Germany (Berlin);65to74;2019-38;-0.02
+Germany (Berlin);65to74;2019-39;1.49
+Germany (Berlin);65to74;2019-40;-0.54
+Germany (Berlin);65to74;2019-41;-0.61
+Germany (Berlin);65to74;2019-42;1.7
+Germany (Berlin);65to74;2019-43;-1.34
+Germany (Berlin);65to74;2019-44;-0.19
+Germany (Berlin);65to74;2019-45;-0.46
+Germany (Berlin);65to74;2019-46;-0.35
+Germany (Berlin);65to74;2019-47;-1.06
+Germany (Berlin);65to74;2019-48;-0.85
+Germany (Berlin);65to74;2019-49;0.29
+Germany (Berlin);65to74;2019-50;-0.87
+Germany (Berlin);65to74;2019-51;-0.49
+Germany (Berlin);65to74;2019-52;-0.53
+Germany (Berlin);65to74;2020-01;1.03
+Germany (Berlin);65to74;2020-02;0.13
+Germany (Berlin);65to74;2020-03;0.5
+Germany (Berlin);65to74;2020-04;1.02
+Germany (Berlin);65to74;2020-05;0.02
+Germany (Berlin);65to74;2020-06;1.63
+Germany (Berlin);65to74;2020-07;-0.84
+Germany (Berlin);65to74;2020-08;-0.4
+Germany (Berlin);65to74;2020-09;-0.21
+Germany (Berlin);65to74;2020-10;1.59
+Germany (Berlin);65to74;2020-11;1.89
+Germany (Berlin);65to74;2020-12;-0.21
+Germany (Berlin);65to74;2020-13;2.32
+Germany (Berlin);65to74;2020-14;-0.24
+Germany (Berlin);65to74;2020-15;1.47
+Germany (Berlin);65to74;2020-16;0.46
+Germany (Berlin);65to74;2020-17;1.94
+Germany (Berlin);65to74;2020-18;1.09
+Germany (Berlin);65to74;2020-19;-0.25
+Germany (Berlin);65to74;2020-20;0.3
+Germany (Berlin);65to74;2020-21;0.3
+Germany (Berlin);65to74;2020-22;0.47
+Germany (Berlin);65to74;2020-23;1.81
+Germany (Berlin);65to74;2020-24;0.35
+Germany (Berlin);65to74;2020-25;2.03
+Germany (Berlin);65to74;2020-26;1.91
+Germany (Berlin);65to74;2020-27;-0.32
+Germany (Berlin);65to74;2020-28;0.56
+Germany (Berlin);65to74;2020-29;0.77
+Germany (Berlin);65to74;2020-30;1.25
+Germany (Berlin);65to74;2020-31;2.49
+Germany (Berlin);65to74;2020-32;0.99
+Germany (Berlin);65to74;2020-33;0.25
+Germany (Berlin);65to74;2020-34;1.33
+Germany (Berlin);65to74;2020-35;-0.46
+Germany (Berlin);65to74;2020-36;0.17
+Germany (Berlin);65to74;2020-37;1.5
+Germany (Berlin);65to74;2020-38;1.09
+Germany (Berlin);65to74;2020-39;1.74
+Germany (Berlin);65to74;2020-40;1.41
+Germany (Berlin);65to74;2020-41;1.87
+Germany (Berlin);65to74;2020-42;0.89
+Germany (Berlin);65to74;2020-43;1.78
+Germany (Berlin);65to74;2020-44;0.36
+Germany (Berlin);65to74;2020-45;1.07
+Germany (Berlin);65to74;2020-46;4.02
+Germany (Berlin);65to74;2020-47;1.57
+Germany (Berlin);65to74;2020-48;0.56
+Germany (Berlin);65to74;2020-49;2.81
+Germany (Berlin);65to74;2020-50;2.09
+Germany (Berlin);65to74;2020-51;4.53
+Germany (Berlin);65to74;2020-52;2.24
+Germany (Berlin);65to74;2020-53;3.14
+Germany (Berlin);65to74;2021-01;4.55
+Germany (Berlin);65to74;2021-02;2.82
+Germany (Berlin);65to74;2021-03;2.58
+Germany (Berlin);65to74;2021-04;1.33
+Germany (Berlin);65to74;2021-05;1.79
+Germany (Berlin);65to74;2021-06;1.66
+Germany (Berlin);65to74;2021-07;0.16
+Germany (Berlin);65to74;2021-08;0.9
+Germany (Berlin);65to74;2021-09;1.42
+Germany (Berlin);65to74;2021-10;0.38
+Germany (Berlin);65to74;2021-11;1.09
+Germany (Berlin);65to74;2021-12;1.97
+Germany (Berlin);65to74;2021-13;1.02
+Germany (Berlin);65to74;2021-14;2.81
+Germany (Berlin);65to74;2021-15;2.12
+Germany (Berlin);65to74;2021-16;3.12
+Germany (Berlin);65to74;2021-17;1.32
+Germany (Berlin);65to74;2021-18;2.27
+Germany (Berlin);65to74;2021-19;1.16
+Germany (Berlin);65to74;2021-20;2.29
+Germany (Berlin);65to74;2021-21;2.2
+Germany (Berlin);65to74;2021-22;2.11
+Germany (Berlin);65to74;2021-23;1.04
+Germany (Berlin);65to74;2021-24;4.96
+Germany (Berlin);65to74;2021-25;1.16
+Germany (Berlin);65to74;2021-26;1.47
+Germany (Berlin);65to74;2021-27;1.94
+Germany (Berlin);65to74;2021-28;2.82
+Germany (Berlin);65to74;2021-29;0.03
+Germany (Berlin);65to74;2021-30;1.48
+Germany (Berlin);65to74;2021-31;1.4
+Germany (Berlin);65to74;2021-32;0.59
+Germany (Berlin);65to74;2021-33;2.08
+Germany (Berlin);65to74;2021-34;0.09
+Germany (Berlin);65to74;2021-35;0.88
+Germany (Berlin);65to74;2021-36;1.82
+Germany (Berlin);65to74;2021-37;2.21
+Germany (Berlin);65to74;2021-38;1
+Germany (Berlin);65to74;2021-39;1.03
+Germany (Berlin);65to74;2021-40;0.69
+Germany (Berlin);65to74;2021-41;0.34
+Germany (Berlin);65to74;2021-42;1.07
+Germany (Berlin);65to74;2021-43;3.09
+Germany (Berlin);65to74;2021-44;1.15
+Germany (Berlin);65to74;2021-45;1.74
+Germany (Berlin);65to74;2021-46;0.13
+Germany (Berlin);65to74;2021-47;1.39
+Germany (Berlin);65to74;2021-48;3.85
+Germany (Berlin);65to74;2021-49;3.37
+Germany (Berlin);65to74;2021-50;4
+Germany (Berlin);65to74;2021-51;1.63
+Germany (Berlin);65to74;2021-52;4.32
+Germany (Berlin);65to74;2022-01;3.2
+Germany (Berlin);65to74;2022-02;1.43
+Germany (Berlin);65to74;2022-03;0.81
+Germany (Berlin);65to74;2022-04;1.55
+Germany (Berlin);65to74;2022-05;1.4
+Germany (Berlin);65to74;2022-06;3.63
+Germany (Berlin);65to74;2022-07;3.46
+Germany (Berlin);65to74;2022-08;2.52
+Germany (Berlin);65to74;2022-09;1.32
+Germany (Berlin);65to74;2022-10;1.99
+Germany (Berlin);65to74;2022-11;1.22
+Germany (Berlin);65to74;2022-12;1.46
+Germany (Berlin);65to74;2022-13;2.71
+Germany (Berlin);65to74;2022-14;1.95
+Germany (Berlin);65to74;2022-15;1.89
+Germany (Berlin);65to74;2022-16;1.25
+Germany (Berlin);65to74;2022-17;2.74
+Germany (Berlin);65to74;2022-18;0.32
+Germany (Berlin);65to74;2022-19;-0.04
+Germany (Berlin);65to74;2022-20;2.29
+Germany (Berlin);65to74;2022-21;-0.14
+Germany (Berlin);65to74;2022-22;0.83
+Germany (Berlin);65to74;2022-23;3.43
+Germany (Berlin);65to74;2022-24;0.69
+Germany (Berlin);65to74;2022-25;2.88
+Germany (Berlin);65to74;2022-26;1.58
+Germany (Berlin);65to74;2022-27;2.38
+Germany (Berlin);65to74;2022-28;2.5
+Germany (Berlin);65to74;2022-29;2.77
+Germany (Berlin);65to74;2022-30;2.45
+Germany (Berlin);65to74;2022-31;2.79
+Germany (Berlin);65to74;2022-32;2.54
+Germany (Berlin);65to74;2022-33;2.61
+Germany (Berlin);65to74;2022-34;3.03
+Germany (Berlin);65to74;2022-35;1.06
+Germany (Berlin);65to74;2022-36;2.09
+Germany (Berlin);65to74;2022-37;1.88
+Germany (Berlin);65to74;2022-38;2.13
+Germany (Berlin);65to74;2022-39;2.34
+Germany (Berlin);65to74;2022-40;2.42
+Germany (Berlin);65to74;2022-41;2.21
+Germany (Berlin);65to74;2022-42;-13.47
+Germany (Hesse);65to74;2018-44;-0.4
+Germany (Hesse);65to74;2018-45;0.3
+Germany (Hesse);65to74;2018-46;-0.35
+Germany (Hesse);65to74;2018-47;-1.21
+Germany (Hesse);65to74;2018-48;-2.35
+Germany (Hesse);65to74;2018-49;-0.63
+Germany (Hesse);65to74;2018-50;-1.86
+Germany (Hesse);65to74;2018-51;0.19
+Germany (Hesse);65to74;2018-52;-0.06
+Germany (Hesse);65to74;2019-01;0.35
+Germany (Hesse);65to74;2019-02;-0.9
+Germany (Hesse);65to74;2019-03;0.97
+Germany (Hesse);65to74;2019-04;-0.29
+Germany (Hesse);65to74;2019-05;-0.3
+Germany (Hesse);65to74;2019-06;0.4
+Germany (Hesse);65to74;2019-07;1.95
+Germany (Hesse);65to74;2019-08;1.38
+Germany (Hesse);65to74;2019-09;1.05
+Germany (Hesse);65to74;2019-10;0.91
+Germany (Hesse);65to74;2019-11;0.71
+Germany (Hesse);65to74;2019-12;-0.35
+Germany (Hesse);65to74;2019-13;0.25
+Germany (Hesse);65to74;2019-14;0.4
+Germany (Hesse);65to74;2019-15;-2.16
+Germany (Hesse);65to74;2019-16;1.46
+Germany (Hesse);65to74;2019-17;1.07
+Germany (Hesse);65to74;2019-18;0.1
+Germany (Hesse);65to74;2019-19;-0.54
+Germany (Hesse);65to74;2019-20;-0.31
+Germany (Hesse);65to74;2019-21;0.86
+Germany (Hesse);65to74;2019-22;-0.29
+Germany (Hesse);65to74;2019-23;1.37
+Germany (Hesse);65to74;2019-24;-1.43
+Germany (Hesse);65to74;2019-25;-0.46
+Germany (Hesse);65to74;2019-26;-0.85
+Germany (Hesse);65to74;2019-27;-0.21
+Germany (Hesse);65to74;2019-28;-0.92
+Germany (Hesse);65to74;2019-29;-1.19
+Germany (Hesse);65to74;2019-30;2.13
+Germany (Hesse);65to74;2019-31;0.6
+Germany (Hesse);65to74;2019-32;1.16
+Germany (Hesse);65to74;2019-33;-0.66
+Germany (Hesse);65to74;2019-34;0.2
+Germany (Hesse);65to74;2019-35;0.82
+Germany (Hesse);65to74;2019-36;1.28
+Germany (Hesse);65to74;2019-37;1.09
+Germany (Hesse);65to74;2019-38;0.31
+Germany (Hesse);65to74;2019-39;-0.05
+Germany (Hesse);65to74;2019-40;0.54
+Germany (Hesse);65to74;2019-41;1.18
+Germany (Hesse);65to74;2019-42;0.67
+Germany (Hesse);65to74;2019-43;-1.47
+Germany (Hesse);65to74;2019-44;-0.15
+Germany (Hesse);65to74;2019-45;0.96
+Germany (Hesse);65to74;2019-46;1.75
+Germany (Hesse);65to74;2019-47;-0.67
+Germany (Hesse);65to74;2019-48;0.76
+Germany (Hesse);65to74;2019-49;0.48
+Germany (Hesse);65to74;2019-50;1.31
+Germany (Hesse);65to74;2019-51;0.41
+Germany (Hesse);65to74;2019-52;-1.21
+Germany (Hesse);65to74;2020-01;-0.85
+Germany (Hesse);65to74;2020-02;-0.17
+Germany (Hesse);65to74;2020-03;0.68
+Germany (Hesse);65to74;2020-04;0.29
+Germany (Hesse);65to74;2020-05;0.47
+Germany (Hesse);65to74;2020-06;-0.4
+Germany (Hesse);65to74;2020-07;-0.07
+Germany (Hesse);65to74;2020-08;-0.63
+Germany (Hesse);65to74;2020-09;-0.47
+Germany (Hesse);65to74;2020-10;2.33
+Germany (Hesse);65to74;2020-11;1.28
+Germany (Hesse);65to74;2020-12;0.58
+Germany (Hesse);65to74;2020-13;0.32
+Germany (Hesse);65to74;2020-14;1.59
+Germany (Hesse);65to74;2020-15;0.48
+Germany (Hesse);65to74;2020-16;-1.12
+Germany (Hesse);65to74;2020-17;1.61
+Germany (Hesse);65to74;2020-18;1.84
+Germany (Hesse);65to74;2020-19;-0.09
+Germany (Hesse);65to74;2020-20;0.7
+Germany (Hesse);65to74;2020-21;1.28
+Germany (Hesse);65to74;2020-22;0.94
+Germany (Hesse);65to74;2020-23;-0.65
+Germany (Hesse);65to74;2020-24;-0.29
+Germany (Hesse);65to74;2020-25;-0.67
+Germany (Hesse);65to74;2020-26;-1.73
+Germany (Hesse);65to74;2020-27;-0.2
+Germany (Hesse);65to74;2020-28;0.13
+Germany (Hesse);65to74;2020-29;-0.13
+Germany (Hesse);65to74;2020-30;2.26
+Germany (Hesse);65to74;2020-31;0.11
+Germany (Hesse);65to74;2020-32;2.53
+Germany (Hesse);65to74;2020-33;1.43
+Germany (Hesse);65to74;2020-34;2.51
+Germany (Hesse);65to74;2020-35;-0.9
+Germany (Hesse);65to74;2020-36;2.45
+Germany (Hesse);65to74;2020-37;-0.85
+Germany (Hesse);65to74;2020-38;0.69
+Germany (Hesse);65to74;2020-39;2.03
+Germany (Hesse);65to74;2020-40;-0.74
+Germany (Hesse);65to74;2020-41;2.3
+Germany (Hesse);65to74;2020-42;2.48
+Germany (Hesse);65to74;2020-43;0.47
+Germany (Hesse);65to74;2020-44;0.66
+Germany (Hesse);65to74;2020-45;1.99
+Germany (Hesse);65to74;2020-46;3.19
+Germany (Hesse);65to74;2020-47;1.92
+Germany (Hesse);65to74;2020-48;1.24
+Germany (Hesse);65to74;2020-49;2.8
+Germany (Hesse);65to74;2020-50;2.02
+Germany (Hesse);65to74;2020-51;2.79
+Germany (Hesse);65to74;2020-52;4.45
+Germany (Hesse);65to74;2020-53;4.08
+Germany (Hesse);65to74;2021-01;3.16
+Germany (Hesse);65to74;2021-02;4.64
+Germany (Hesse);65to74;2021-03;3.99
+Germany (Hesse);65to74;2021-04;1.92
+Germany (Hesse);65to74;2021-05;2.74
+Germany (Hesse);65to74;2021-06;2.41
+Germany (Hesse);65to74;2021-07;2.2
+Germany (Hesse);65to74;2021-08;1.41
+Germany (Hesse);65to74;2021-09;1.34
+Germany (Hesse);65to74;2021-10;1.34
+Germany (Hesse);65to74;2021-11;0.58
+Germany (Hesse);65to74;2021-12;1.16
+Germany (Hesse);65to74;2021-13;2.33
+Germany (Hesse);65to74;2021-14;2.11
+Germany (Hesse);65to74;2021-15;2.85
+Germany (Hesse);65to74;2021-16;2.37
+Germany (Hesse);65to74;2021-17;3.12
+Germany (Hesse);65to74;2021-18;4.99
+Germany (Hesse);65to74;2021-19;2.32
+Germany (Hesse);65to74;2021-20;3.14
+Germany (Hesse);65to74;2021-21;2.35
+Germany (Hesse);65to74;2021-22;0.93
+Germany (Hesse);65to74;2021-23;2.28
+Germany (Hesse);65to74;2021-24;3.33
+Germany (Hesse);65to74;2021-25;1.51
+Germany (Hesse);65to74;2021-26;-0.47
+Germany (Hesse);65to74;2021-27;1.92
+Germany (Hesse);65to74;2021-28;2.35
+Germany (Hesse);65to74;2021-29;2.16
+Germany (Hesse);65to74;2021-30;1.03
+Germany (Hesse);65to74;2021-31;0.05
+Germany (Hesse);65to74;2021-32;0.67
+Germany (Hesse);65to74;2021-33;3.47
+Germany (Hesse);65to74;2021-34;0.56
+Germany (Hesse);65to74;2021-35;3.09
+Germany (Hesse);65to74;2021-36;1.59
+Germany (Hesse);65to74;2021-37;1.94
+Germany (Hesse);65to74;2021-38;1.75
+Germany (Hesse);65to74;2021-39;1.75
+Germany (Hesse);65to74;2021-40;1.82
+Germany (Hesse);65to74;2021-41;1.33
+Germany (Hesse);65to74;2021-42;1.65
+Germany (Hesse);65to74;2021-43;0.27
+Germany (Hesse);65to74;2021-44;2.58
+Germany (Hesse);65to74;2021-45;1.04
+Germany (Hesse);65to74;2021-46;3.68
+Germany (Hesse);65to74;2021-47;3.69
+Germany (Hesse);65to74;2021-48;3.27
+Germany (Hesse);65to74;2021-49;2.87
+Germany (Hesse);65to74;2021-50;4.06
+Germany (Hesse);65to74;2021-51;2.05
+Germany (Hesse);65to74;2021-52;1.57
+Germany (Hesse);65to74;2022-01;1.1
+Germany (Hesse);65to74;2022-02;2.53
+Germany (Hesse);65to74;2022-03;-0.16
+Germany (Hesse);65to74;2022-04;0.67
+Germany (Hesse);65to74;2022-05;2.99
+Germany (Hesse);65to74;2022-06;0.92
+Germany (Hesse);65to74;2022-07;0.95
+Germany (Hesse);65to74;2022-08;0.74
+Germany (Hesse);65to74;2022-09;2.16
+Germany (Hesse);65to74;2022-10;2.63
+Germany (Hesse);65to74;2022-11;1.51
+Germany (Hesse);65to74;2022-12;2.07
+Germany (Hesse);65to74;2022-13;1.6
+Germany (Hesse);65to74;2022-14;1.44
+Germany (Hesse);65to74;2022-15;2.54
+Germany (Hesse);65to74;2022-16;1.81
+Germany (Hesse);65to74;2022-17;0.38
+Germany (Hesse);65to74;2022-18;4.52
+Germany (Hesse);65to74;2022-19;1.42
+Germany (Hesse);65to74;2022-20;2.42
+Germany (Hesse);65to74;2022-21;0.02
+Germany (Hesse);65to74;2022-22;2.51
+Germany (Hesse);65to74;2022-23;0.91
+Germany (Hesse);65to74;2022-24;2.82
+Germany (Hesse);65to74;2022-25;3.12
+Germany (Hesse);65to74;2022-26;2.06
+Germany (Hesse);65to74;2022-27;1.76
+Germany (Hesse);65to74;2022-28;1.85
+Germany (Hesse);65to74;2022-29;4.28
+Germany (Hesse);65to74;2022-30;3.8
+Germany (Hesse);65to74;2022-31;3.11
+Germany (Hesse);65to74;2022-32;3.17
+Germany (Hesse);65to74;2022-33;1.54
+Germany (Hesse);65to74;2022-34;2.82
+Germany (Hesse);65to74;2022-35;0.4
+Germany (Hesse);65to74;2022-36;3.27
+Germany (Hesse);65to74;2022-37;2.26
+Germany (Hesse);65to74;2022-38;2.92
+Germany (Hesse);65to74;2022-39;1.28
+Germany (Hesse);65to74;2022-40;1.74
+Germany (Hesse);65to74;2022-41;2.58
+Germany (Hesse);65to74;2022-42;2.11
+Greece;65to74;2018-44;0.48
+Greece;65to74;2018-45;-0.14
+Greece;65to74;2018-46;-0.8
+Greece;65to74;2018-47;0.68
+Greece;65to74;2018-48;-0.53
+Greece;65to74;2018-49;1.31
+Greece;65to74;2018-50;0.39
+Greece;65to74;2018-51;1.12
+Greece;65to74;2018-52;1.05
+Greece;65to74;2019-01;0.77
+Greece;65to74;2019-02;2.87
+Greece;65to74;2019-03;3.27
+Greece;65to74;2019-04;2.55
+Greece;65to74;2019-05;2.54
+Greece;65to74;2019-06;2.03
+Greece;65to74;2019-07;1.38
+Greece;65to74;2019-08;1.76
+Greece;65to74;2019-09;1.91
+Greece;65to74;2019-10;0.59
+Greece;65to74;2019-11;0.71
+Greece;65to74;2019-12;-1
+Greece;65to74;2019-13;-0.2
+Greece;65to74;2019-14;-0.22
+Greece;65to74;2019-15;-0.56
+Greece;65to74;2019-16;-1.75
+Greece;65to74;2019-17;-0.54
+Greece;65to74;2019-18;0.23
+Greece;65to74;2019-19;0.45
+Greece;65to74;2019-20;1.24
+Greece;65to74;2019-21;-0.98
+Greece;65to74;2019-22;-0.28
+Greece;65to74;2019-23;0.37
+Greece;65to74;2019-24;0.78
+Greece;65to74;2019-25;-0.18
+Greece;65to74;2019-26;0.23
+Greece;65to74;2019-27;0.71
+Greece;65to74;2019-28;0.41
+Greece;65to74;2019-29;-1.28
+Greece;65to74;2019-30;0.31
+Greece;65to74;2019-31;0.96
+Greece;65to74;2019-32;1.68
+Greece;65to74;2019-33;0.54
+Greece;65to74;2019-34;0.19
+Greece;65to74;2019-35;0.19
+Greece;65to74;2019-36;-1.67
+Greece;65to74;2019-37;-0.15
+Greece;65to74;2019-38;0.85
+Greece;65to74;2019-39;-0.59
+Greece;65to74;2019-40;0.69
+Greece;65to74;2019-41;-1.49
+Greece;65to74;2019-42;0.48
+Greece;65to74;2019-43;-0.37
+Greece;65to74;2019-44;-0.04
+Greece;65to74;2019-45;-1.01
+Greece;65to74;2019-46;0.13
+Greece;65to74;2019-47;-0.82
+Greece;65to74;2019-48;0.03
+Greece;65to74;2019-49;2.26
+Greece;65to74;2019-50;0.3
+Greece;65to74;2019-51;0.27
+Greece;65to74;2019-52;0.67
+Greece;65to74;2020-01;2.64
+Greece;65to74;2020-02;2.5
+Greece;65to74;2020-03;1.58
+Greece;65to74;2020-04;1.96
+Greece;65to74;2020-05;2.86
+Greece;65to74;2020-06;1.2
+Greece;65to74;2020-07;0.79
+Greece;65to74;2020-08;0.47
+Greece;65to74;2020-09;0.51
+Greece;65to74;2020-10;0.76
+Greece;65to74;2020-11;1.78
+Greece;65to74;2020-12;1.28
+Greece;65to74;2020-13;0.37
+Greece;65to74;2020-14;-0.25
+Greece;65to74;2020-15;1.35
+Greece;65to74;2020-16;-0.41
+Greece;65to74;2020-17;-0.78
+Greece;65to74;2020-18;-0.22
+Greece;65to74;2020-19;-2.23
+Greece;65to74;2020-20;0.47
+Greece;65to74;2020-21;-0.32
+Greece;65to74;2020-22;-0.69
+Greece;65to74;2020-23;-0.67
+Greece;65to74;2020-24;-0.49
+Greece;65to74;2020-25;0.03
+Greece;65to74;2020-26;-0.18
+Greece;65to74;2020-27;1.78
+Greece;65to74;2020-28;-0.27
+Greece;65to74;2020-29;-0.33
+Greece;65to74;2020-30;1.36
+Greece;65to74;2020-31;1.29
+Greece;65to74;2020-32;0.1
+Greece;65to74;2020-33;0.85
+Greece;65to74;2020-34;0.02
+Greece;65to74;2020-35;1.14
+Greece;65to74;2020-36;-0.97
+Greece;65to74;2020-37;1.35
+Greece;65to74;2020-38;0.77
+Greece;65to74;2020-39;-0.16
+Greece;65to74;2020-40;1.04
+Greece;65to74;2020-41;0.21
+Greece;65to74;2020-42;-0.66
+Greece;65to74;2020-43;-0.22
+Greece;65to74;2020-44;1.25
+Greece;65to74;2020-45;1.21
+Greece;65to74;2020-46;2.95
+Greece;65to74;2020-47;6.01
+Greece;65to74;2020-48;5.66
+Greece;65to74;2020-49;6.44
+Greece;65to74;2020-50;4.24
+Greece;65to74;2020-51;3.82
+Greece;65to74;2020-52;3.15
+Greece;65to74;2020-53;1.61
+Greece;65to74;2021-01;0.37
+Greece;65to74;2021-02;0.82
+Greece;65to74;2021-03;2.14
+Greece;65to74;2021-04;1.51
+Greece;65to74;2021-05;1.14
+Greece;65to74;2021-06;0.54
+Greece;65to74;2021-07;1.43
+Greece;65to74;2021-08;1.67
+Greece;65to74;2021-09;2.57
+Greece;65to74;2021-10;2.03
+Greece;65to74;2021-11;3.92
+Greece;65to74;2021-12;3.22
+Greece;65to74;2021-13;4.31
+Greece;65to74;2021-14;4.62
+Greece;65to74;2021-15;4.71
+Greece;65to74;2021-16;3.52
+Greece;65to74;2021-17;3.73
+Greece;65to74;2021-18;5.8
+Greece;65to74;2021-19;2.24
+Greece;65to74;2021-20;3.69
+Greece;65to74;2021-21;1.2
+Greece;65to74;2021-22;1.07
+Greece;65to74;2021-23;1.06
+Greece;65to74;2021-24;0.78
+Greece;65to74;2021-25;3.57
+Greece;65to74;2021-26;3.95
+Greece;65to74;2021-27;1.82
+Greece;65to74;2021-28;1.4
+Greece;65to74;2021-29;0.25
+Greece;65to74;2021-30;2.01
+Greece;65to74;2021-31;6.95
+Greece;65to74;2021-32;2.33
+Greece;65to74;2021-33;2.99
+Greece;65to74;2021-34;3.1
+Greece;65to74;2021-35;1.15
+Greece;65to74;2021-36;1.25
+Greece;65to74;2021-37;1.28
+Greece;65to74;2021-38;1.7
+Greece;65to74;2021-39;0.32
+Greece;65to74;2021-40;0.52
+Greece;65to74;2021-41;1.08
+Greece;65to74;2021-42;3.37
+Greece;65to74;2021-43;2.78
+Greece;65to74;2021-44;3.04
+Greece;65to74;2021-45;3.52
+Greece;65to74;2021-46;3.49
+Greece;65to74;2021-47;5.58
+Greece;65to74;2021-48;4.37
+Greece;65to74;2021-49;5.04
+Greece;65to74;2021-50;5.38
+Greece;65to74;2021-51;4.4
+Greece;65to74;2021-52;4.76
+Greece;65to74;2022-01;3.71
+Greece;65to74;2022-02;5.01
+Greece;65to74;2022-03;4.33
+Greece;65to74;2022-04;4.8
+Greece;65to74;2022-05;4.41
+Greece;65to74;2022-06;3.28
+Greece;65to74;2022-07;2.61
+Greece;65to74;2022-08;1.49
+Greece;65to74;2022-09;2.08
+Greece;65to74;2022-10;1
+Greece;65to74;2022-11;3.91
+Greece;65to74;2022-12;1.59
+Greece;65to74;2022-13;2.67
+Greece;65to74;2022-14;1.37
+Greece;65to74;2022-15;0.64
+Greece;65to74;2022-16;2.18
+Greece;65to74;2022-17;-0.82
+Greece;65to74;2022-18;-0.95
+Greece;65to74;2022-19;0.13
+Greece;65to74;2022-20;-0.11
+Greece;65to74;2022-21;0.06
+Greece;65to74;2022-22;0.37
+Greece;65to74;2022-23;0.67
+Greece;65to74;2022-24;0.33
+Greece;65to74;2022-25;0.45
+Greece;65to74;2022-26;0.75
+Greece;65to74;2022-27;0.73
+Greece;65to74;2022-28;1.84
+Greece;65to74;2022-29;-0.54
+Greece;65to74;2022-30;2.72
+Greece;65to74;2022-31;2.29
+Greece;65to74;2022-32;0.51
+Greece;65to74;2022-33;-0.07
+Greece;65to74;2022-34;-1.13
+Greece;65to74;2022-35;0.53
+Greece;65to74;2022-36;0.55
+Greece;65to74;2022-37;-0.77
+Greece;65to74;2022-38;-1.31
+Greece;65to74;2022-39;0.03
+Greece;65to74;2022-40;-0.72
+Greece;65to74;2022-41;-1.04
+Greece;65to74;2022-42;-0.73
+Hungary;65to74;2018-44;-0.41
+Hungary;65to74;2018-45;-1.32
+Hungary;65to74;2018-46;0.32
+Hungary;65to74;2018-47;0.47
+Hungary;65to74;2018-48;0.9
+Hungary;65to74;2018-49;-0.23
+Hungary;65to74;2018-50;1.64
+Hungary;65to74;2018-51;2.48
+Hungary;65to74;2018-52;2.42
+Hungary;65to74;2019-01;3.26
+Hungary;65to74;2019-02;4.24
+Hungary;65to74;2019-03;2.06
+Hungary;65to74;2019-04;3.43
+Hungary;65to74;2019-05;4.71
+Hungary;65to74;2019-06;4.63
+Hungary;65to74;2019-07;1.72
+Hungary;65to74;2019-08;2.87
+Hungary;65to74;2019-09;2.62
+Hungary;65to74;2019-10;1.67
+Hungary;65to74;2019-11;1.33
+Hungary;65to74;2019-12;0.22
+Hungary;65to74;2019-13;-1.74
+Hungary;65to74;2019-14;0.41
+Hungary;65to74;2019-15;0.21
+Hungary;65to74;2019-16;-0.16
+Hungary;65to74;2019-17;0.8
+Hungary;65to74;2019-18;-0.12
+Hungary;65to74;2019-19;-1.01
+Hungary;65to74;2019-20;-0.83
+Hungary;65to74;2019-21;0.61
+Hungary;65to74;2019-22;-0.74
+Hungary;65to74;2019-23;0.7
+Hungary;65to74;2019-24;1.88
+Hungary;65to74;2019-25;0.78
+Hungary;65to74;2019-26;0.21
+Hungary;65to74;2019-27;-0.91
+Hungary;65to74;2019-28;-0.96
+Hungary;65to74;2019-29;-0.16
+Hungary;65to74;2019-30;1.5
+Hungary;65to74;2019-31;1.12
+Hungary;65to74;2019-32;-1.21
+Hungary;65to74;2019-33;0.01
+Hungary;65to74;2019-34;-1.35
+Hungary;65to74;2019-35;0.82
+Hungary;65to74;2019-36;-0.69
+Hungary;65to74;2019-37;-0.41
+Hungary;65to74;2019-38;-0.83
+Hungary;65to74;2019-39;0.54
+Hungary;65to74;2019-40;1.01
+Hungary;65to74;2019-41;0.12
+Hungary;65to74;2019-42;0.01
+Hungary;65to74;2019-43;-0.04
+Hungary;65to74;2019-44;-0.38
+Hungary;65to74;2019-45;0.36
+Hungary;65to74;2019-46;0.07
+Hungary;65to74;2019-47;-0.67
+Hungary;65to74;2019-48;-0.32
+Hungary;65to74;2019-49;0.32
+Hungary;65to74;2019-50;-0.47
+Hungary;65to74;2019-51;0.72
+Hungary;65to74;2019-52;-0.05
+Hungary;65to74;2020-01;0.91
+Hungary;65to74;2020-02;1.23
+Hungary;65to74;2020-03;-0.22
+Hungary;65to74;2020-04;1.24
+Hungary;65to74;2020-05;1.69
+Hungary;65to74;2020-06;1.35
+Hungary;65to74;2020-07;1.73
+Hungary;65to74;2020-08;0.12
+Hungary;65to74;2020-09;1.95
+Hungary;65to74;2020-10;1.39
+Hungary;65to74;2020-11;1.37
+Hungary;65to74;2020-12;2.24
+Hungary;65to74;2020-13;1.34
+Hungary;65to74;2020-14;2.01
+Hungary;65to74;2020-15;-0.03
+Hungary;65to74;2020-16;0.81
+Hungary;65to74;2020-17;0.65
+Hungary;65to74;2020-18;-1.39
+Hungary;65to74;2020-19;0.67
+Hungary;65to74;2020-20;1.01
+Hungary;65to74;2020-21;-0.02
+Hungary;65to74;2020-22;-0.14
+Hungary;65to74;2020-23;1.33
+Hungary;65to74;2020-24;0.39
+Hungary;65to74;2020-25;0.07
+Hungary;65to74;2020-26;1.18
+Hungary;65to74;2020-27;1.46
+Hungary;65to74;2020-28;-0.66
+Hungary;65to74;2020-29;0.63
+Hungary;65to74;2020-30;0.27
+Hungary;65to74;2020-31;0.02
+Hungary;65to74;2020-32;1.37
+Hungary;65to74;2020-33;0.74
+Hungary;65to74;2020-34;1.08
+Hungary;65to74;2020-35;0.43
+Hungary;65to74;2020-36;-0.02
+Hungary;65to74;2020-37;1.19
+Hungary;65to74;2020-38;1.51
+Hungary;65to74;2020-39;3.37
+Hungary;65to74;2020-40;2.23
+Hungary;65to74;2020-41;1.83
+Hungary;65to74;2020-42;3.04
+Hungary;65to74;2020-43;5.49
+Hungary;65to74;2020-44;6.46
+Hungary;65to74;2020-45;8.4
+Hungary;65to74;2020-46;11.28
+Hungary;65to74;2020-47;11.43
+Hungary;65to74;2020-48;10.58
+Hungary;65to74;2020-49;11.47
+Hungary;65to74;2020-50;9.09
+Hungary;65to74;2020-51;7.93
+Hungary;65to74;2020-52;8.6
+Hungary;65to74;2020-53;6.1
+Hungary;65to74;2021-01;2.91
+Hungary;65to74;2021-02;4.6
+Hungary;65to74;2021-03;3.38
+Hungary;65to74;2021-04;1.74
+Hungary;65to74;2021-05;1.59
+Hungary;65to74;2021-06;2.82
+Hungary;65to74;2021-07;3.23
+Hungary;65to74;2021-08;4.77
+Hungary;65to74;2021-09;6.96
+Hungary;65to74;2021-10;10.19
+Hungary;65to74;2021-11;13.44
+Hungary;65to74;2021-12;17.47
+Hungary;65to74;2021-13;18.18
+Hungary;65to74;2021-14;15.63
+Hungary;65to74;2021-15;10.62
+Hungary;65to74;2021-16;7.47
+Hungary;65to74;2021-17;4.91
+Hungary;65to74;2021-18;4.01
+Hungary;65to74;2021-19;3.88
+Hungary;65to74;2021-20;2.13
+Hungary;65to74;2021-21;2.12
+Hungary;65to74;2021-22;2.49
+Hungary;65to74;2021-23;2.44
+Hungary;65to74;2021-24;1.57
+Hungary;65to74;2021-25;3.42
+Hungary;65to74;2021-26;2.14
+Hungary;65to74;2021-27;2.01
+Hungary;65to74;2021-28;2.79
+Hungary;65to74;2021-29;0.5
+Hungary;65to74;2021-30;3.16
+Hungary;65to74;2021-31;0.59
+Hungary;65to74;2021-32;0.75
+Hungary;65to74;2021-33;0.25
+Hungary;65to74;2021-34;0.08
+Hungary;65to74;2021-35;0.29
+Hungary;65to74;2021-36;1.38
+Hungary;65to74;2021-37;2.59
+Hungary;65to74;2021-38;2.19
+Hungary;65to74;2021-39;0.91
+Hungary;65to74;2021-40;2.83
+Hungary;65to74;2021-41;2.5
+Hungary;65to74;2021-42;2.34
+Hungary;65to74;2021-43;5.54
+Hungary;65to74;2021-44;6.77
+Hungary;65to74;2021-45;8.47
+Hungary;65to74;2021-46;9.7
+Hungary;65to74;2021-47;12.12
+Hungary;65to74;2021-48;11.59
+Hungary;65to74;2021-49;11.19
+Hungary;65to74;2021-50;8.17
+Hungary;65to74;2021-51;7.88
+Hungary;65to74;2021-52;6.02
+Hungary;65to74;2022-01;3.95
+Hungary;65to74;2022-02;3.12
+Hungary;65to74;2022-03;3.18
+Hungary;65to74;2022-04;2.06
+Hungary;65to74;2022-05;3.07
+Hungary;65to74;2022-06;3.74
+Hungary;65to74;2022-07;3.09
+Hungary;65to74;2022-08;2.91
+Hungary;65to74;2022-09;2.27
+Hungary;65to74;2022-10;2.54
+Hungary;65to74;2022-11;3.15
+Hungary;65to74;2022-12;3.06
+Hungary;65to74;2022-13;2.4
+Hungary;65to74;2022-14;2.86
+Hungary;65to74;2022-15;0.9
+Hungary;65to74;2022-16;3.03
+Hungary;65to74;2022-17;2.45
+Hungary;65to74;2022-18;1.4
+Hungary;65to74;2022-19;1.23
+Hungary;65to74;2022-20;-0.71
+Hungary;65to74;2022-21;-0.23
+Hungary;65to74;2022-22;0.9
+Hungary;65to74;2022-23;1.78
+Hungary;65to74;2022-24;-1
+Hungary;65to74;2022-25;2.63
+Hungary;65to74;2022-26;4.07
+Hungary;65to74;2022-27;0.43
+Hungary;65to74;2022-28;0.44
+Hungary;65to74;2022-29;3.32
+Hungary;65to74;2022-30;2.29
+Hungary;65to74;2022-31;0.87
+Hungary;65to74;2022-32;0.88
+Hungary;65to74;2022-33;2.89
+Hungary;65to74;2022-34;0.71
+Hungary;65to74;2022-35;-0.87
+Hungary;65to74;2022-36;1.94
+Hungary;65to74;2022-37;0.15
+Hungary;65to74;2022-38;1.42
+Hungary;65to74;2022-39;1.8
+Hungary;65to74;2022-40;-0.63
+Hungary;65to74;2022-41;-1
+Hungary;65to74;2022-42;-1.37
+Ireland;65to74;2018-44;-0.67
+Ireland;65to74;2018-45;1.31
+Ireland;65to74;2018-46;-0.05
+Ireland;65to74;2018-47;-0.54
+Ireland;65to74;2018-48;-0.14
+Ireland;65to74;2018-49;-0.77
+Ireland;65to74;2018-50;-0.2
+Ireland;65to74;2018-51;0.35
+Ireland;65to74;2018-52;1.03
+Ireland;65to74;2019-01;0.55
+Ireland;65to74;2019-02;0.15
+Ireland;65to74;2019-03;-0.65
+Ireland;65to74;2019-04;0.78
+Ireland;65to74;2019-05;1.69
+Ireland;65to74;2019-06;-0.12
+Ireland;65to74;2019-07;0.77
+Ireland;65to74;2019-08;-0.88
+Ireland;65to74;2019-09;-1.02
+Ireland;65to74;2019-10;0.26
+Ireland;65to74;2019-11;-0.28
+Ireland;65to74;2019-12;0.69
+Ireland;65to74;2019-13;0.33
+Ireland;65to74;2019-14;-0.94
+Ireland;65to74;2019-15;0.35
+Ireland;65to74;2019-16;0.32
+Ireland;65to74;2019-17;-1.19
+Ireland;65to74;2019-18;-1.43
+Ireland;65to74;2019-19;1.63
+Ireland;65to74;2019-20;-2.34
+Ireland;65to74;2019-21;-1.13
+Ireland;65to74;2019-22;1.13
+Ireland;65to74;2019-23;0.71
+Ireland;65to74;2019-24;0.54
+Ireland;65to74;2019-25;0.01
+Ireland;65to74;2019-26;-0.17
+Ireland;65to74;2019-27;-0.44
+Ireland;65to74;2019-28;-1.01
+Ireland;65to74;2019-29;-0.55
+Ireland;65to74;2019-30;-1.61
+Ireland;65to74;2019-31;-1.54
+Ireland;65to74;2019-32;-1.67
+Ireland;65to74;2019-33;-0.31
+Ireland;65to74;2019-34;-0.26
+Ireland;65to74;2019-35;0.68
+Ireland;65to74;2019-36;-2.16
+Ireland;65to74;2019-37;0.48
+Ireland;65to74;2019-38;-0.68
+Ireland;65to74;2019-39;0.26
+Ireland;65to74;2019-40;0.29
+Ireland;65to74;2019-41;-0.14
+Ireland;65to74;2019-42;-1.12
+Ireland;65to74;2019-43;1.72
+Ireland;65to74;2019-44;0.37
+Ireland;65to74;2019-45;-0.74
+Ireland;65to74;2019-46;-1.23
+Ireland;65to74;2019-47;-1.44
+Ireland;65to74;2019-48;1.13
+Ireland;65to74;2019-49;-0.05
+Ireland;65to74;2019-50;0
+Ireland;65to74;2019-51;1.59
+Ireland;65to74;2019-52;0.11
+Ireland;65to74;2020-01;1.45
+Ireland;65to74;2020-02;0.62
+Ireland;65to74;2020-03;0.47
+Ireland;65to74;2020-04;-0.36
+Ireland;65to74;2020-05;-1.61
+Ireland;65to74;2020-06;1.47
+Ireland;65to74;2020-07;0.69
+Ireland;65to74;2020-08;-1.55
+Ireland;65to74;2020-09;1.07
+Ireland;65to74;2020-10;0.04
+Ireland;65to74;2020-11;0.71
+Ireland;65to74;2020-12;1.39
+Ireland;65to74;2020-13;1.15
+Ireland;65to74;2020-14;4.06
+Ireland;65to74;2020-15;2.64
+Ireland;65to74;2020-16;2
+Ireland;65to74;2020-17;1.66
+Ireland;65to74;2020-18;1.89
+Ireland;65to74;2020-19;0.76
+Ireland;65to74;2020-20;1.91
+Ireland;65to74;2020-21;-1.5
+Ireland;65to74;2020-22;0.88
+Ireland;65to74;2020-23;-1.16
+Ireland;65to74;2020-24;-1.22
+Ireland;65to74;2020-25;-0.74
+Ireland;65to74;2020-26;0.16
+Ireland;65to74;2020-27;-1.28
+Ireland;65to74;2020-28;-1.74
+Ireland;65to74;2020-29;-0.47
+Ireland;65to74;2020-30;-0.49
+Ireland;65to74;2020-31;-2.83
+Ireland;65to74;2020-32;-1.73
+Ireland;65to74;2020-33;-0.68
+Ireland;65to74;2020-34;0.07
+Ireland;65to74;2020-35;-0.68
+Ireland;65to74;2020-36;-1.65
+Ireland;65to74;2020-37;1.11
+Ireland;65to74;2020-38;-2.53
+Ireland;65to74;2020-39;-1.93
+Ireland;65to74;2020-40;0.75
+Ireland;65to74;2020-41;-2.06
+Ireland;65to74;2020-42;0.02
+Ireland;65to74;2020-43;1.05
+Ireland;65to74;2020-44;2.1
+Ireland;65to74;2020-45;-0.5
+Ireland;65to74;2020-46;0.11
+Ireland;65to74;2020-47;-2.04
+Ireland;65to74;2020-48;-1.37
+Ireland;65to74;2020-49;-0.02
+Ireland;65to74;2020-50;-1.41
+Ireland;65to74;2020-51;-0.93
+Ireland;65to74;2020-52;-0.4
+Ireland;65to74;2020-53;-0.49
+Ireland;65to74;2021-01;0.32
+Ireland;65to74;2021-02;2.21
+Ireland;65to74;2021-03;3.21
+Ireland;65to74;2021-04;1.33
+Ireland;65to74;2021-05;1.69
+Ireland;65to74;2021-06;1.31
+Ireland;65to74;2021-07;1.27
+Ireland;65to74;2021-08;0.75
+Ireland;65to74;2021-09;0.12
+Ireland;65to74;2021-10;-1.39
+Ireland;65to74;2021-11;-1.04
+Ireland;65to74;2021-12;-0.2
+Ireland;65to74;2021-13;-1.05
+Ireland;65to74;2021-14;-0.51
+Ireland;65to74;2021-15;-0.72
+Ireland;65to74;2021-16;-1.45
+Ireland;65to74;2021-17;0.87
+Ireland;65to74;2021-18;0.75
+Ireland;65to74;2021-19;-1.79
+Ireland;65to74;2021-20;0.17
+Ireland;65to74;2021-21;0.71
+Ireland;65to74;2021-22;-1.06
+Ireland;65to74;2021-23;-0.34
+Ireland;65to74;2021-24;-2.46
+Ireland;65to74;2021-25;-2.16
+Ireland;65to74;2021-26;-0.74
+Ireland;65to74;2021-27;-0.91
+Ireland;65to74;2021-28;-0.75
+Ireland;65to74;2021-29;-0.25
+Ireland;65to74;2021-30;-1.92
+Ireland;65to74;2021-31;-1.25
+Ireland;65to74;2021-32;-0.34
+Ireland;65to74;2021-33;0.11
+Ireland;65to74;2021-34;-1.38
+Ireland;65to74;2021-35;-1.09
+Ireland;65to74;2021-36;0.12
+Ireland;65to74;2021-37;-1.56
+Ireland;65to74;2021-38;-1.44
+Ireland;65to74;2021-39;-0.31
+Ireland;65to74;2021-40;-0.97
+Ireland;65to74;2021-41;0.05
+Ireland;65to74;2021-42;-0.42
+Ireland;65to74;2021-43;-1.56
+Ireland;65to74;2021-44;0.31
+Ireland;65to74;2021-45;0.39
+Ireland;65to74;2021-46;0.61
+Ireland;65to74;2021-47;-0.54
+Ireland;65to74;2021-48;0.16
+Ireland;65to74;2021-49;0.3
+Ireland;65to74;2021-50;-0.04
+Ireland;65to74;2021-51;1.07
+Ireland;65to74;2021-52;-1.82
+Ireland;65to74;2022-01;0.1
+Ireland;65to74;2022-02;-0.84
+Ireland;65to74;2022-03;0.13
+Ireland;65to74;2022-04;-0.44
+Ireland;65to74;2022-05;-0.55
+Ireland;65to74;2022-06;0.29
+Ireland;65to74;2022-07;-1.87
+Ireland;65to74;2022-08;-1.3
+Ireland;65to74;2022-09;-2
+Ireland;65to74;2022-10;-0.72
+Ireland;65to74;2022-11;-1.38
+Ireland;65to74;2022-12;1.39
+Ireland;65to74;2022-13;-0.99
+Ireland;65to74;2022-14;-0.16
+Ireland;65to74;2022-15;-0.31
+Ireland;65to74;2022-16;-0.84
+Ireland;65to74;2022-17;-0.31
+Ireland;65to74;2022-18;-0.6
+Ireland;65to74;2022-19;-1.2
+Ireland;65to74;2022-20;1.71
+Ireland;65to74;2022-21;-1.4
+Ireland;65to74;2022-22;-0.91
+Ireland;65to74;2022-23;-0.69
+Ireland;65to74;2022-24;0.77
+Ireland;65to74;2022-25;-0.58
+Ireland;65to74;2022-26;-1.45
+Ireland;65to74;2022-27;-2.03
+Ireland;65to74;2022-28;0.03
+Ireland;65to74;2022-29;-1.77
+Ireland;65to74;2022-30;-0.16
+Ireland;65to74;2022-31;-1.54
+Ireland;65to74;2022-32;-1.22
+Ireland;65to74;2022-33;-0.82
+Ireland;65to74;2022-34;-0.31
+Ireland;65to74;2022-35;-0.66
+Ireland;65to74;2022-36;-1.24
+Ireland;65to74;2022-37;-1.16
+Ireland;65to74;2022-38;-1.33
+Ireland;65to74;2022-39;-1.6
+Ireland;65to74;2022-40;-1.61
+Ireland;65to74;2022-41;-1.48
+Ireland;65to74;2022-42;-5.48
+Israel;65to74;2018-44;2.12
+Israel;65to74;2018-45;0.37
+Israel;65to74;2018-46;-0.07
+Israel;65to74;2018-47;-0.5
+Israel;65to74;2018-48;0.52
+Israel;65to74;2018-49;1.2
+Israel;65to74;2018-50;-0.73
+Israel;65to74;2018-51;-1.25
+Israel;65to74;2018-52;0.05
+Israel;65to74;2019-01;0.53
+Israel;65to74;2019-02;1.41
+Israel;65to74;2019-03;1.81
+Israel;65to74;2019-04;0.11
+Israel;65to74;2019-05;1.35
+Israel;65to74;2019-06;-0.13
+Israel;65to74;2019-07;0.28
+Israel;65to74;2019-08;3.26
+Israel;65to74;2019-09;0.74
+Israel;65to74;2019-10;1.75
+Israel;65to74;2019-11;0.72
+Israel;65to74;2019-12;1
+Israel;65to74;2019-13;-0.52
+Israel;65to74;2019-14;-0.36
+Israel;65to74;2019-15;-0.74
+Israel;65to74;2019-16;1.19
+Israel;65to74;2019-17;-0.39
+Israel;65to74;2019-18;0.19
+Israel;65to74;2019-19;-0.02
+Israel;65to74;2019-20;-1.29
+Israel;65to74;2019-21;0.9
+Israel;65to74;2019-22;0.37
+Israel;65to74;2019-23;-1.33
+Israel;65to74;2019-24;1.95
+Israel;65to74;2019-25;-0.92
+Israel;65to74;2019-26;-1.43
+Israel;65to74;2019-27;0.5
+Israel;65to74;2019-28;-1.83
+Israel;65to74;2019-29;-1.13
+Israel;65to74;2019-30;-0.94
+Israel;65to74;2019-31;1.07
+Israel;65to74;2019-32;0.36
+Israel;65to74;2019-33;1.05
+Israel;65to74;2019-34;0.38
+Israel;65to74;2019-35;0.33
+Israel;65to74;2019-36;0.27
+Israel;65to74;2019-37;-0.53
+Israel;65to74;2019-38;-0.29
+Israel;65to74;2019-39;0.26
+Israel;65to74;2019-40;-1.73
+Israel;65to74;2019-41;-2.87
+Israel;65to74;2019-42;0.71
+Israel;65to74;2019-43;-1.23
+Israel;65to74;2019-44;-0.32
+Israel;65to74;2019-45;2.39
+Israel;65to74;2019-46;-1.49
+Israel;65to74;2019-47;-1.67
+Israel;65to74;2019-48;0.1
+Israel;65to74;2019-49;0.13
+Israel;65to74;2019-50;1.61
+Israel;65to74;2019-51;0.68
+Israel;65to74;2019-52;0.45
+Israel;65to74;2020-01;2.01
+Israel;65to74;2020-02;0.11
+Israel;65to74;2020-03;0.78
+Israel;65to74;2020-04;0.74
+Israel;65to74;2020-05;-0.01
+Israel;65to74;2020-06;0.24
+Israel;65to74;2020-07;-1.09
+Israel;65to74;2020-08;-0.27
+Israel;65to74;2020-09;-0.45
+Israel;65to74;2020-10;-0.35
+Israel;65to74;2020-11;0.52
+Israel;65to74;2020-12;-0.03
+Israel;65to74;2020-13;1.5
+Israel;65to74;2020-14;2.62
+Israel;65to74;2020-15;0.15
+Israel;65to74;2020-16;1.41
+Israel;65to74;2020-17;-0.69
+Israel;65to74;2020-18;0.02
+Israel;65to74;2020-19;-0.64
+Israel;65to74;2020-20;-0.38
+Israel;65to74;2020-21;-0.43
+Israel;65to74;2020-22;1.35
+Israel;65to74;2020-23;-1.43
+Israel;65to74;2020-24;-0.07
+Israel;65to74;2020-25;-0.54
+Israel;65to74;2020-26;-0.31
+Israel;65to74;2020-27;-0.02
+Israel;65to74;2020-28;0.11
+Israel;65to74;2020-29;0.68
+Israel;65to74;2020-30;0.47
+Israel;65to74;2020-31;1.31
+Israel;65to74;2020-32;1.15
+Israel;65to74;2020-33;1.36
+Israel;65to74;2020-34;3.23
+Israel;65to74;2020-35;0.91
+Israel;65to74;2020-36;1.46
+Israel;65to74;2020-37;2.13
+Israel;65to74;2020-38;0.93
+Israel;65to74;2020-39;2.1
+Israel;65to74;2020-40;3.08
+Israel;65to74;2020-41;4.36
+Israel;65to74;2020-42;4.43
+Israel;65to74;2020-43;1.55
+Israel;65to74;2020-44;1.12
+Israel;65to74;2020-45;-1.08
+Israel;65to74;2020-46;-0.31
+Israel;65to74;2020-47;0.57
+Israel;65to74;2020-48;0.45
+Israel;65to74;2020-49;-1.28
+Israel;65to74;2020-50;1.21
+Israel;65to74;2020-51;1.55
+Israel;65to74;2020-52;1.25
+Israel;65to74;2020-53;2.39
+Israel;65to74;2021-01;4.12
+Israel;65to74;2021-02;2.83
+Israel;65to74;2021-03;4.77
+Israel;65to74;2021-04;2.03
+Israel;65to74;2021-05;3.65
+Israel;65to74;2021-06;3.43
+Israel;65to74;2021-07;2.11
+Israel;65to74;2021-08;1.17
+Israel;65to74;2021-09;1.16
+Israel;65to74;2021-10;0.96
+Israel;65to74;2021-11;0.19
+Israel;65to74;2021-12;1.45
+Israel;65to74;2021-13;1.61
+Israel;65to74;2021-14;2.64
+Israel;65to74;2021-15;0.13
+Israel;65to74;2021-16;0.02
+Israel;65to74;2021-17;-0.82
+Israel;65to74;2021-18;-0.79
+Israel;65to74;2021-19;-0.91
+Israel;65to74;2021-20;0.23
+Israel;65to74;2021-21;-0.48
+Israel;65to74;2021-22;-0.38
+Israel;65to74;2021-23;-0.22
+Israel;65to74;2021-24;-0.89
+Israel;65to74;2021-25;-0.74
+Israel;65to74;2021-26;0.29
+Israel;65to74;2021-27;-0.41
+Israel;65to74;2021-28;-0.67
+Israel;65to74;2021-29;-0.35
+Israel;65to74;2021-30;2.12
+Israel;65to74;2021-31;0.26
+Israel;65to74;2021-32;2.18
+Israel;65to74;2021-33;1.3
+Israel;65to74;2021-34;2.88
+Israel;65to74;2021-35;5.43
+Israel;65to74;2021-36;1.14
+Israel;65to74;2021-37;2.96
+Israel;65to74;2021-38;0.31
+Israel;65to74;2021-39;1.51
+Israel;65to74;2021-40;1.11
+Israel;65to74;2021-41;0.56
+Israel;65to74;2021-42;1.84
+Israel;65to74;2021-43;-0.55
+Israel;65to74;2021-44;0.18
+Israel;65to74;2021-45;-0.94
+Israel;65to74;2021-46;-0.56
+Israel;65to74;2021-47;-0.95
+Israel;65to74;2021-48;-1.11
+Israel;65to74;2021-49;-0.34
+Israel;65to74;2021-50;0.39
+Israel;65to74;2021-51;0.05
+Israel;65to74;2021-52;0.77
+Israel;65to74;2022-01;1.34
+Israel;65to74;2022-02;0.93
+Israel;65to74;2022-03;2.71
+Israel;65to74;2022-04;3.49
+Israel;65to74;2022-05;3.86
+Israel;65to74;2022-06;2.93
+Israel;65to74;2022-07;2.62
+Israel;65to74;2022-08;1.4
+Israel;65to74;2022-09;0.61
+Israel;65to74;2022-10;0.42
+Israel;65to74;2022-11;-0.91
+Israel;65to74;2022-12;0.05
+Israel;65to74;2022-13;0.96
+Israel;65to74;2022-14;-0.04
+Israel;65to74;2022-15;-0.68
+Israel;65to74;2022-16;-2.06
+Israel;65to74;2022-17;0.6
+Israel;65to74;2022-18;-0.1
+Israel;65to74;2022-19;-1.34
+Israel;65to74;2022-20;-1.1
+Israel;65to74;2022-21;-0.57
+Israel;65to74;2022-22;-1.63
+Israel;65to74;2022-23;-1.17
+Israel;65to74;2022-24;-0.73
+Israel;65to74;2022-25;-1.16
+Israel;65to74;2022-26;-0.95
+Israel;65to74;2022-27;-0.25
+Israel;65to74;2022-28;0.21
+Israel;65to74;2022-29;-1.12
+Israel;65to74;2022-30;1.35
+Israel;65to74;2022-31;0.25
+Israel;65to74;2022-32;1
+Israel;65to74;2022-33;-2.43
+Israel;65to74;2022-34;-1.35
+Israel;65to74;2022-35;-0.96
+Israel;65to74;2022-36;-0.17
+Israel;65to74;2022-37;-1.22
+Israel;65to74;2022-38;-1.99
+Israel;65to74;2022-39;-2.38
+Israel;65to74;2022-40;-1.74
+Israel;65to74;2022-41;-0.88
+Israel;65to74;2022-42;-0.3
+Italy;65to74;2018-44;0.08
+Italy;65to74;2018-45;-1.21
+Italy;65to74;2018-46;1.21
+Italy;65to74;2018-47;-0.65
+Italy;65to74;2018-48;-0.54
+Italy;65to74;2018-49;-0.53
+Italy;65to74;2018-50;-0.86
+Italy;65to74;2018-51;-2.06
+Italy;65to74;2018-52;-1.07
+Italy;65to74;2019-01;2.2
+Italy;65to74;2019-02;-0.11
+Italy;65to74;2019-03;2.77
+Italy;65to74;2019-04;1.1
+Italy;65to74;2019-05;1.23
+Italy;65to74;2019-06;-0.96
+Italy;65to74;2019-07;1.24
+Italy;65to74;2019-08;1.16
+Italy;65to74;2019-09;2.58
+Italy;65to74;2019-10;0.33
+Italy;65to74;2019-11;0.54
+Italy;65to74;2019-12;-0.88
+Italy;65to74;2019-13;-1.55
+Italy;65to74;2019-14;-0.63
+Italy;65to74;2019-15;2.03
+Italy;65to74;2019-16;1.65
+Italy;65to74;2019-17;-0.31
+Italy;65to74;2019-18;-0.76
+Italy;65to74;2019-19;0.21
+Italy;65to74;2019-20;0.8
+Italy;65to74;2019-21;1.08
+Italy;65to74;2019-22;-0.26
+Italy;65to74;2019-23;1.24
+Italy;65to74;2019-24;1.24
+Italy;65to74;2019-25;-1.79
+Italy;65to74;2019-26;1.44
+Italy;65to74;2019-27;1.05
+Italy;65to74;2019-28;-1.43
+Italy;65to74;2019-29;-0.16
+Italy;65to74;2019-30;0.93
+Italy;65to74;2019-31;-1.19
+Italy;65to74;2019-32;1
+Italy;65to74;2019-33;-1.85
+Italy;65to74;2019-34;-1.33
+Italy;65to74;2019-35;-2.04
+Italy;65to74;2019-36;-0.9
+Italy;65to74;2019-37;0.57
+Italy;65to74;2019-38;-0.83
+Italy;65to74;2019-39;1.35
+Italy;65to74;2019-40;-1.15
+Italy;65to74;2019-41;0.24
+Italy;65to74;2019-42;-0.53
+Italy;65to74;2019-43;0.34
+Italy;65to74;2019-44;0.65
+Italy;65to74;2019-45;-0.39
+Italy;65to74;2019-46;-0.18
+Italy;65to74;2019-47;0.2
+Italy;65to74;2019-48;-1.19
+Italy;65to74;2019-49;-0.16
+Italy;65to74;2019-50;-0.21
+Italy;65to74;2019-51;1.14
+Italy;65to74;2019-52;0.31
+Italy;65to74;2020-01;1.07
+Italy;65to74;2020-02;2.42
+Italy;65to74;2020-03;1.62
+Italy;65to74;2020-04;0.87
+Italy;65to74;2020-05;0.9
+Italy;65to74;2020-06;0.69
+Italy;65to74;2020-07;1.16
+Italy;65to74;2020-08;-0.19
+Italy;65to74;2020-09;0.31
+Italy;65to74;2020-10;2.64
+Italy;65to74;2020-11;3.27
+Italy;65to74;2020-12;6.3
+Italy;65to74;2020-13;7.41
+Italy;65to74;2020-14;8.82
+Italy;65to74;2020-15;5.64
+Italy;65to74;2020-16;3.85
+Italy;65to74;2020-17;2.43
+Italy;65to74;2020-18;2.45
+Italy;65to74;2020-19;1.28
+Italy;65to74;2020-20;2.26
+Italy;65to74;2020-21;2.65
+Italy;65to74;2020-22;1.56
+Italy;65to74;2020-23;1.51
+Italy;65to74;2020-24;1.03
+Italy;65to74;2020-25;-0.27
+Italy;65to74;2020-26;1.3
+Italy;65to74;2020-27;1.15
+Italy;65to74;2020-28;1.99
+Italy;65to74;2020-29;-0.17
+Italy;65to74;2020-30;-0.18
+Italy;65to74;2020-31;1.2
+Italy;65to74;2020-32;0.87
+Italy;65to74;2020-33;1.66
+Italy;65to74;2020-34;1.02
+Italy;65to74;2020-35;0.9
+Italy;65to74;2020-36;1.19
+Italy;65to74;2020-37;0.7
+Italy;65to74;2020-38;1.15
+Italy;65to74;2020-39;1.59
+Italy;65to74;2020-40;2.14
+Italy;65to74;2020-41;0.93
+Italy;65to74;2020-42;2.28
+Italy;65to74;2020-43;4.72
+Italy;65to74;2020-44;8.35
+Italy;65to74;2020-45;10.07
+Italy;65to74;2020-46;9.07
+Italy;65to74;2020-47;9.77
+Italy;65to74;2020-48;8.65
+Italy;65to74;2020-49;6.78
+Italy;65to74;2020-50;6.46
+Italy;65to74;2020-51;5.82
+Italy;65to74;2020-52;4.26
+Italy;65to74;2020-53;6.06
+Italy;65to74;2021-01;3.35
+Italy;65to74;2021-02;4.47
+Italy;65to74;2021-03;3.43
+Italy;65to74;2021-04;3.83
+Italy;65to74;2021-05;4.16
+Italy;65to74;2021-06;2.4
+Italy;65to74;2021-07;4.73
+Italy;65to74;2021-08;2.66
+Italy;65to74;2021-09;3.8
+Italy;65to74;2021-10;4.81
+Italy;65to74;2021-11;5.73
+Italy;65to74;2021-12;5.45
+Italy;65to74;2021-13;6.17
+Italy;65to74;2021-14;7.67
+Italy;65to74;2021-15;5.29
+Italy;65to74;2021-16;6.01
+Italy;65to74;2021-17;4.69
+Italy;65to74;2021-18;3.51
+Italy;65to74;2021-19;2.66
+Italy;65to74;2021-20;3.15
+Italy;65to74;2021-21;2.96
+Italy;65to74;2021-22;1.64
+Italy;65to74;2021-23;2.51
+Italy;65to74;2021-24;2.04
+Italy;65to74;2021-25;2.94
+Italy;65to74;2021-26;-0.21
+Italy;65to74;2021-27;0.53
+Italy;65to74;2021-28;1.31
+Italy;65to74;2021-29;1.07
+Italy;65to74;2021-30;2.84
+Italy;65to74;2021-31;1.32
+Italy;65to74;2021-32;1.28
+Italy;65to74;2021-33;2.67
+Italy;65to74;2021-34;1.42
+Italy;65to74;2021-35;2.9
+Italy;65to74;2021-36;0.33
+Italy;65to74;2021-37;0.67
+Italy;65to74;2021-38;0.47
+Italy;65to74;2021-39;2.01
+Italy;65to74;2021-40;0.69
+Italy;65to74;2021-41;1.87
+Italy;65to74;2021-42;1.02
+Italy;65to74;2021-43;-0.78
+Italy;65to74;2021-44;1.39
+Italy;65to74;2021-45;1.51
+Italy;65to74;2021-46;0.09
+Italy;65to74;2021-47;0.84
+Italy;65to74;2021-48;2.97
+Italy;65to74;2021-49;2.67
+Italy;65to74;2021-50;3.39
+Italy;65to74;2021-51;1.89
+Italy;65to74;2021-52;3.93
+Italy;65to74;2022-01;3.89
+Italy;65to74;2022-02;5.69
+Italy;65to74;2022-03;4.7
+Italy;65to74;2022-04;4.26
+Italy;65to74;2022-05;5.87
+Italy;65to74;2022-06;3.18
+Italy;65to74;2022-07;2.39
+Italy;65to74;2022-08;1.48
+Italy;65to74;2022-09;1.36
+Italy;65to74;2022-10;2.47
+Italy;65to74;2022-11;2.02
+Italy;65to74;2022-12;-0.28
+Italy;65to74;2022-13;1.67
+Italy;65to74;2022-14;1.03
+Italy;65to74;2022-15;-0.56
+Italy;65to74;2022-16;2.63
+Italy;65to74;2022-17;0.16
+Italy;65to74;2022-18;0.72
+Italy;65to74;2022-19;2.8
+Italy;65to74;2022-20;1.77
+Italy;65to74;2022-21;1.51
+Italy;65to74;2022-22;1.12
+Italy;65to74;2022-23;2.49
+Italy;65to74;2022-24;2.03
+Italy;65to74;2022-25;1.15
+Italy;65to74;2022-26;1.64
+Italy;65to74;2022-27;3.11
+Italy;65to74;2022-28;3.34
+Italy;65to74;2022-29;3.93
+Italy;65to74;2022-30;4.18
+Italy;65to74;2022-31;1.91
+Italy;65to74;2022-32;1.7
+Italy;65to74;2022-33;0.91
+Italy;65to74;2022-34;1.5
+Italy;65to74;2022-35;1.03
+Italy;65to74;2022-36;1.44
+Italy;65to74;2022-37;1.33
+Italy;65to74;2022-38;1.89
+Italy;65to74;2022-39;2.25
+Italy;65to74;2022-40;0.7
+Italy;65to74;2022-41;1.84
+Italy;65to74;2022-42;-1.12
+Luxembourg;65to74;2018-44;0.59
+Luxembourg;65to74;2018-45;1.48
+Luxembourg;65to74;2018-46;-2.45
+Luxembourg;65to74;2018-47;0.39
+Luxembourg;65to74;2018-48;-0.95
+Luxembourg;65to74;2018-49;-0.98
+Luxembourg;65to74;2018-50;0.02
+Luxembourg;65to74;2018-51;0.22
+Luxembourg;65to74;2018-52;-0.51
+Luxembourg;65to74;2019-01;-0.52
+Luxembourg;65to74;2019-02;-1.55
+Luxembourg;65to74;2019-03;0.19
+Luxembourg;65to74;2019-04;-0.26
+Luxembourg;65to74;2019-05;0.66
+Luxembourg;65to74;2019-06;0.47
+Luxembourg;65to74;2019-07;-0.18
+Luxembourg;65to74;2019-08;-1.16
+Luxembourg;65to74;2019-09;1.06
+Luxembourg;65to74;2019-10;-0.04
+Luxembourg;65to74;2019-11;0.5
+Luxembourg;65to74;2019-12;0.08
+Luxembourg;65to74;2019-13;-0.12
+Luxembourg;65to74;2019-14;-0.6
+Luxembourg;65to74;2019-15;-1.14
+Luxembourg;65to74;2019-16;-0.78
+Luxembourg;65to74;2019-17;1.21
+Luxembourg;65to74;2019-18;1.03
+Luxembourg;65to74;2019-19;-1.97
+Luxembourg;65to74;2019-20;-0.55
+Luxembourg;65to74;2019-21;0.11
+Luxembourg;65to74;2019-22;0.44
+Luxembourg;65to74;2019-23;-1.07
+Luxembourg;65to74;2019-24;-0.38
+Luxembourg;65to74;2019-25;-1
+Luxembourg;65to74;2019-26;1.12
+Luxembourg;65to74;2019-27;-0.63
+Luxembourg;65to74;2019-28;1.4
+Luxembourg;65to74;2019-29;0.58
+Luxembourg;65to74;2019-30;-0.32
+Luxembourg;65to74;2019-31;-0.34
+Luxembourg;65to74;2019-32;1.07
+Luxembourg;65to74;2019-33;1.04
+Luxembourg;65to74;2019-34;-0.74
+Luxembourg;65to74;2019-35;0.41
+Luxembourg;65to74;2019-36;0.36
+Luxembourg;65to74;2019-37;-0.89
+Luxembourg;65to74;2019-38;-0.63
+Luxembourg;65to74;2019-39;-0.69
+Luxembourg;65to74;2019-40;1.93
+Luxembourg;65to74;2019-41;0.86
+Luxembourg;65to74;2019-42;-1.52
+Luxembourg;65to74;2019-43;0.72
+Luxembourg;65to74;2019-44;-0.71
+Luxembourg;65to74;2019-45;-0.76
+Luxembourg;65to74;2019-46;0.75
+Luxembourg;65to74;2019-47;0.92
+Luxembourg;65to74;2019-48;-0.36
+Luxembourg;65to74;2019-49;1.03
+Luxembourg;65to74;2019-50;-0.18
+Luxembourg;65to74;2019-51;-0.2
+Luxembourg;65to74;2019-52;0.02
+Luxembourg;65to74;2020-01;-0.47
+Luxembourg;65to74;2020-02;-1.5
+Luxembourg;65to74;2020-03;-0.96
+Luxembourg;65to74;2020-04;0.01
+Luxembourg;65to74;2020-05;0.26
+Luxembourg;65to74;2020-06;-2.33
+Luxembourg;65to74;2020-07;0.09
+Luxembourg;65to74;2020-08;0.13
+Luxembourg;65to74;2020-09;-1.65
+Luxembourg;65to74;2020-10;1.58
+Luxembourg;65to74;2020-11;0.05
+Luxembourg;65to74;2020-12;0.36
+Luxembourg;65to74;2020-13;-0.08
+Luxembourg;65to74;2020-14;0.75
+Luxembourg;65to74;2020-15;0.83
+Luxembourg;65to74;2020-16;0.12
+Luxembourg;65to74;2020-17;-0.09
+Luxembourg;65to74;2020-18;-1.6
+Luxembourg;65to74;2020-19;0.86
+Luxembourg;65to74;2020-20;0.65
+Luxembourg;65to74;2020-21;0.14
+Luxembourg;65to74;2020-22;0.75
+Luxembourg;65to74;2020-23;-0.07
+Luxembourg;65to74;2020-24;-0.65
+Luxembourg;65to74;2020-25;0.29
+Luxembourg;65to74;2020-26;1.67
+Luxembourg;65to74;2020-27;0.89
+Luxembourg;65to74;2020-28;-0.58
+Luxembourg;65to74;2020-29;1.68
+Luxembourg;65to74;2020-30;1.15
+Luxembourg;65to74;2020-31;1.65
+Luxembourg;65to74;2020-32;-0.31
+Luxembourg;65to74;2020-33;1.34
+Luxembourg;65to74;2020-34;1.56
+Luxembourg;65to74;2020-35;-2.15
+Luxembourg;65to74;2020-36;0.96
+Luxembourg;65to74;2020-37;0.08
+Luxembourg;65to74;2020-38;0.85
+Luxembourg;65to74;2020-39;0.78
+Luxembourg;65to74;2020-40;0.18
+Luxembourg;65to74;2020-41;0.91
+Luxembourg;65to74;2020-42;-1.13
+Luxembourg;65to74;2020-43;0.51
+Luxembourg;65to74;2020-44;2.77
+Luxembourg;65to74;2020-45;1.81
+Luxembourg;65to74;2020-46;-0.2
+Luxembourg;65to74;2020-47;0
+Luxembourg;65to74;2020-48;1.58
+Luxembourg;65to74;2020-49;0.16
+Luxembourg;65to74;2020-50;1.87
+Luxembourg;65to74;2020-51;1.81
+Luxembourg;65to74;2020-52;1.97
+Luxembourg;65to74;2020-53;0.93
+Luxembourg;65to74;2021-01;1.32
+Luxembourg;65to74;2021-02;-1.43
+Luxembourg;65to74;2021-03;-0.41
+Luxembourg;65to74;2021-04;-0.88
+Luxembourg;65to74;2021-05;0.75
+Luxembourg;65to74;2021-06;0.57
+Luxembourg;65to74;2021-07;1.25
+Luxembourg;65to74;2021-08;-1.3
+Luxembourg;65to74;2021-09;0.26
+Luxembourg;65to74;2021-10;1.01
+Luxembourg;65to74;2021-11;2.97
+Luxembourg;65to74;2021-12;-0.31
+Luxembourg;65to74;2021-13;1.01
+Luxembourg;65to74;2021-14;0.59
+Luxembourg;65to74;2021-15;0.67
+Luxembourg;65to74;2021-16;-0.94
+Luxembourg;65to74;2021-17;1.07
+Luxembourg;65to74;2021-18;0.88
+Luxembourg;65to74;2021-19;-1.11
+Luxembourg;65to74;2021-20;1.76
+Luxembourg;65to74;2021-21;-0.69
+Luxembourg;65to74;2021-22;-0.03
+Luxembourg;65to74;2021-23;1.38
+Luxembourg;65to74;2021-24;-0.91
+Luxembourg;65to74;2021-25;-0.25
+Luxembourg;65to74;2021-26;0.64
+Luxembourg;65to74;2021-27;1.45
+Luxembourg;65to74;2021-28;2.2
+Luxembourg;65to74;2021-29;-0.86
+Luxembourg;65to74;2021-30;-1.57
+Luxembourg;65to74;2021-31;0.33
+Luxembourg;65to74;2021-32;0.01
+Luxembourg;65to74;2021-33;0.82
+Luxembourg;65to74;2021-34;-1.69
+Luxembourg;65to74;2021-35;-0.11
+Luxembourg;65to74;2021-36;1.46
+Luxembourg;65to74;2021-37;-0.21
+Luxembourg;65to74;2021-38;0.83
+Luxembourg;65to74;2021-39;1.02
+Luxembourg;65to74;2021-40;2.38
+Luxembourg;65to74;2021-41;-1.7
+Luxembourg;65to74;2021-42;-1.43
+Luxembourg;65to74;2021-43;1.69
+Luxembourg;65to74;2021-44;0.92
+Luxembourg;65to74;2021-45;0.85
+Luxembourg;65to74;2021-46;1.01
+Luxembourg;65to74;2021-47;0.72
+Luxembourg;65to74;2021-48;0.89
+Luxembourg;65to74;2021-49;1.27
+Luxembourg;65to74;2021-50;-1.38
+Luxembourg;65to74;2021-51;0.98
+Luxembourg;65to74;2021-52;1.16
+Luxembourg;65to74;2022-01;-0.14
+Luxembourg;65to74;2022-02;-0.14
+Luxembourg;65to74;2022-03;0.31
+Luxembourg;65to74;2022-04;-0.58
+Luxembourg;65to74;2022-05;-0.33
+Luxembourg;65to74;2022-06;-1.04
+Luxembourg;65to74;2022-07;-0.75
+Luxembourg;65to74;2022-08;1.53
+Luxembourg;65to74;2022-09;-0.43
+Luxembourg;65to74;2022-10;-0.13
+Luxembourg;65to74;2022-11;0.41
+Luxembourg;65to74;2022-12;1.83
+Luxembourg;65to74;2022-13;1.47
+Luxembourg;65to74;2022-14;0.61
+Luxembourg;65to74;2022-15;0.69
+Luxembourg;65to74;2022-16;1.49
+Luxembourg;65to74;2022-17;0.03
+Luxembourg;65to74;2022-18;0.09
+Luxembourg;65to74;2022-19;1.46
+Luxembourg;65to74;2022-20;0.75
+Luxembourg;65to74;2022-21;-0.33
+Luxembourg;65to74;2022-22;1.86
+Luxembourg;65to74;2022-23;0.87
+Luxembourg;65to74;2022-24;0.63
+Luxembourg;65to74;2022-25;1.45
+Luxembourg;65to74;2022-26;-0.19
+Luxembourg;65to74;2022-27;2.9
+Luxembourg;65to74;2022-28;1.72
+Luxembourg;65to74;2022-29;0.67
+Luxembourg;65to74;2022-30;-0.69
+Luxembourg;65to74;2022-31;0.36
+Luxembourg;65to74;2022-32;0.88
+Luxembourg;65to74;2022-33;1.11
+Luxembourg;65to74;2022-34;-0.43
+Luxembourg;65to74;2022-35;0.77
+Luxembourg;65to74;2022-36;-0.31
+Luxembourg;65to74;2022-37;0.4
+Luxembourg;65to74;2022-38;-0.79
+Luxembourg;65to74;2022-39;1.55
+Luxembourg;65to74;2022-40;1.48
+Luxembourg;65to74;2022-41;0.42
+Luxembourg;65to74;2022-42;0.65
+Malta;65to74;2018-44;-0.44
+Malta;65to74;2018-45;-0.73
+Malta;65to74;2018-46;-0.19
+Malta;65to74;2018-47;0.55
+Malta;65to74;2018-48;-1.33
+Malta;65to74;2018-49;-0.5
+Malta;65to74;2018-50;0.94
+Malta;65to74;2018-51;-1.95
+Malta;65to74;2018-52;1.73
+Malta;65to74;2019-01;1.69
+Malta;65to74;2019-02;0.82
+Malta;65to74;2019-03;2.02
+Malta;65to74;2019-04;2
+Malta;65to74;2019-05;0.74
+Malta;65to74;2019-06;0.06
+Malta;65to74;2019-07;0.27
+Malta;65to74;2019-08;1.33
+Malta;65to74;2019-09;0.46
+Malta;65to74;2019-10;0.45
+Malta;65to74;2019-11;-0.75
+Malta;65to74;2019-12;0.89
+Malta;65to74;2019-13;0.44
+Malta;65to74;2019-14;-0.04
+Malta;65to74;2019-15;-0.04
+Malta;65to74;2019-16;-0.55
+Malta;65to74;2019-17;-0.55
+Malta;65to74;2019-18;0.7
+Malta;65to74;2019-19;-0.27
+Malta;65to74;2019-20;0.49
+Malta;65to74;2019-21;-1.65
+Malta;65to74;2019-22;1.68
+Malta;65to74;2019-23;-0.48
+Malta;65to74;2019-24;0.06
+Malta;65to74;2019-25;0.57
+Malta;65to74;2019-26;1.74
+Malta;65to74;2019-27;-0.94
+Malta;65to74;2019-28;-0.37
+Malta;65to74;2019-29;0.88
+Malta;65to74;2019-30;0.43
+Malta;65to74;2019-31;0.2
+Malta;65to74;2019-32;0.7
+Malta;65to74;2019-33;-0.55
+Malta;65to74;2019-34;-1.11
+Malta;65to74;2019-35;0.26
+Malta;65to74;2019-36;1.01
+Malta;65to74;2019-37;-0.8
+Malta;65to74;2019-38;0.03
+Malta;65to74;2019-39;-0.79
+Malta;65to74;2019-40;-1.39
+Malta;65to74;2019-41;-1.39
+Malta;65to74;2019-42;1.02
+Malta;65to74;2019-43;0.53
+Malta;65to74;2019-44;-0.81
+Malta;65to74;2019-45;1.89
+Malta;65to74;2019-46;-0.28
+Malta;65to74;2019-47;1.38
+Malta;65to74;2019-48;1.35
+Malta;65to74;2019-49;-0.58
+Malta;65to74;2019-50;-0.59
+Malta;65to74;2019-51;0.81
+Malta;65to74;2019-52;0.78
+Malta;65to74;2020-01;-1.16
+Malta;65to74;2020-02;2.14
+Malta;65to74;2020-03;0.69
+Malta;65to74;2020-04;0.88
+Malta;65to74;2020-05;-0.01
+Malta;65to74;2020-06;1.04
+Malta;65to74;2020-07;-1.53
+Malta;65to74;2020-08;0.59
+Malta;65to74;2020-09;-0.79
+Malta;65to74;2020-10;-1.33
+Malta;65to74;2020-11;0.99
+Malta;65to74;2020-12;0.34
+Malta;65to74;2020-13;0.34
+Malta;65to74;2020-14;0.56
+Malta;65to74;2020-15;0.34
+Malta;65to74;2020-16;-0.38
+Malta;65to74;2020-17;-2.03
+Malta;65to74;2020-18;-0.63
+Malta;65to74;2020-19;-0.37
+Malta;65to74;2020-20;0.61
+Malta;65to74;2020-21;-1.72
+Malta;65to74;2020-22;-0.33
+Malta;65to74;2020-23;-0.31
+Malta;65to74;2020-24;-1.66
+Malta;65to74;2020-25;-0.27
+Malta;65to74;2020-26;-2.57
+Malta;65to74;2020-27;-0.23
+Malta;65to74;2020-28;0.28
+Malta;65to74;2020-29;-0.45
+Malta;65to74;2020-30;0.32
+Malta;65to74;2020-31;0.1
+Malta;65to74;2020-32;0.11
+Malta;65to74;2020-33;0.61
+Malta;65to74;2020-34;-0.36
+Malta;65to74;2020-35;1.11
+Malta;65to74;2020-36;-0.34
+Malta;65to74;2020-37;-0.34
+Malta;65to74;2020-38;-0.88
+Malta;65to74;2020-39;1.15
+Malta;65to74;2020-40;1.61
+Malta;65to74;2020-41;0.92
+Malta;65to74;2020-42;0.43
+Malta;65to74;2020-43;0.66
+Malta;65to74;2020-44;1.57
+Malta;65to74;2020-45;1.1
+Malta;65to74;2020-46;1.73
+Malta;65to74;2020-47;0.12
+Malta;65to74;2020-48;1.87
+Malta;65to74;2020-49;2.43
+Malta;65to74;2020-50;1.99
+Malta;65to74;2020-51;1.13
+Malta;65to74;2020-52;0.24
+Malta;65to74;2020-53;0.65
+Malta;65to74;2021-01;1.43
+Malta;65to74;2021-02;0.38
+Malta;65to74;2021-03;1.18
+Malta;65to74;2021-04;0.55
+Malta;65to74;2021-05;-0.11
+Malta;65to74;2021-06;0.3
+Malta;65to74;2021-07;1.86
+Malta;65to74;2021-08;0.48
+Malta;65to74;2021-09;1.28
+Malta;65to74;2021-10;0.88
+Malta;65to74;2021-11;2.61
+Malta;65to74;2021-12;1.68
+Malta;65to74;2021-13;-0.95
+Malta;65to74;2021-14;-1.22
+Malta;65to74;2021-15;0.01
+Malta;65to74;2021-16;-1.23
+Malta;65to74;2021-17;-0.97
+Malta;65to74;2021-18;-1.79
+Malta;65to74;2021-19;0.03
+Malta;65to74;2021-20;0.28
+Malta;65to74;2021-21;0.06
+Malta;65to74;2021-22;-0.66
+Malta;65to74;2021-23;-1.44
+Malta;65to74;2021-24;0.35
+Malta;65to74;2021-25;-1.97
+Malta;65to74;2021-26;1.48
+Malta;65to74;2021-27;0.63
+Malta;65to74;2021-28;1.93
+Malta;65to74;2021-29;0.21
+Malta;65to74;2021-30;-1.01
+Malta;65to74;2021-31;-0.23
+Malta;65to74;2021-32;0.95
+Malta;65to74;2021-33;0.04
+Malta;65to74;2021-34;1.85
+Malta;65to74;2021-35;-0.18
+Malta;65to74;2021-36;-0.17
+Malta;65to74;2021-37;-0.42
+Malta;65to74;2021-38;-1.23
+Malta;65to74;2021-39;1.48
+Malta;65to74;2021-40;0.57
+Malta;65to74;2021-41;-0.68
+Malta;65to74;2021-42;2.09
+Malta;65to74;2021-43;-0.69
+Malta;65to74;2021-44;0.98
+Malta;65to74;2021-45;-0.45
+Malta;65to74;2021-46;0.71
+Malta;65to74;2021-47;-0.72
+Malta;65to74;2021-48;-0.01
+Malta;65to74;2021-49;0.2
+Malta;65to74;2021-50;1.02
+Malta;65to74;2021-51;0.37
+Malta;65to74;2021-52;1.35
+Malta;65to74;2022-01;0.93
+Malta;65to74;2022-02;0.29
+Malta;65to74;2022-03;1.25
+Malta;65to74;2022-04;1.78
+Malta;65to74;2022-05;0.23
+Malta;65to74;2022-06;1.19
+Malta;65to74;2022-07;0.39
+Malta;65to74;2022-08;0.18
+Malta;65to74;2022-09;1.53
+Malta;65to74;2022-10;1.15
+Malta;65to74;2022-11;-1.47
+Malta;65to74;2022-12;-1.24
+Malta;65to74;2022-13;-1.01
+Malta;65to74;2022-14;0.97
+Malta;65to74;2022-15;1.18
+Malta;65to74;2022-16;0.35
+Malta;65to74;2022-17;-0.08
+Malta;65to74;2022-18;-0.31
+Malta;65to74;2022-19;-0.53
+Malta;65to74;2022-20;-0.77
+Malta;65to74;2022-21;-1.53
+Malta;65to74;2022-22;-1.79
+Malta;65to74;2022-23;-0.47
+Malta;65to74;2022-24;-0.45
+Malta;65to74;2022-25;-0.43
+Malta;65to74;2022-26;-1.7
+Malta;65to74;2022-27;0.73
+Malta;65to74;2022-28;-1.12
+Malta;65to74;2022-29;-0.84
+Malta;65to74;2022-30;-1.02
+Malta;65to74;2022-31;-1.36
+Malta;65to74;2022-32;0.16
+Malta;65to74;2022-33;0.41
+Malta;65to74;2022-34;-0.52
+Malta;65to74;2022-35;0.43
+Malta;65to74;2022-36;-0.02
+Malta;65to74;2022-37;-0.01
+Malta;65to74;2022-38;-0.73
+Malta;65to74;2022-39;0.07
+Malta;65to74;2022-40;1.5
+Malta;65to74;2022-41;1.24
+Malta;65to74;2022-42;-0.01
+Netherlands;65to74;2018-44;1.49
+Netherlands;65to74;2018-45;0.02
+Netherlands;65to74;2018-46;-1.63
+Netherlands;65to74;2018-47;1.19
+Netherlands;65to74;2018-48;-0.16
+Netherlands;65to74;2018-49;0.82
+Netherlands;65to74;2018-50;0.69
+Netherlands;65to74;2018-51;-0.16
+Netherlands;65to74;2018-52;-0.12
+Netherlands;65to74;2019-01;-0.56
+Netherlands;65to74;2019-02;-1.35
+Netherlands;65to74;2019-03;0.78
+Netherlands;65to74;2019-04;0.09
+Netherlands;65to74;2019-05;0.79
+Netherlands;65to74;2019-06;0.32
+Netherlands;65to74;2019-07;-0.14
+Netherlands;65to74;2019-08;0.53
+Netherlands;65to74;2019-09;-0.52
+Netherlands;65to74;2019-10;-0.06
+Netherlands;65to74;2019-11;1.78
+Netherlands;65to74;2019-12;0.08
+Netherlands;65to74;2019-13;0.01
+Netherlands;65to74;2019-14;-0.03
+Netherlands;65to74;2019-15;-0.77
+Netherlands;65to74;2019-16;0.83
+Netherlands;65to74;2019-17;-0.03
+Netherlands;65to74;2019-18;0.34
+Netherlands;65to74;2019-19;-0.56
+Netherlands;65to74;2019-20;-1.22
+Netherlands;65to74;2019-21;-0.32
+Netherlands;65to74;2019-22;0.25
+Netherlands;65to74;2019-23;-0.71
+Netherlands;65to74;2019-24;-0.24
+Netherlands;65to74;2019-25;1.39
+Netherlands;65to74;2019-26;0.57
+Netherlands;65to74;2019-27;0.34
+Netherlands;65to74;2019-28;0.59
+Netherlands;65to74;2019-29;0.45
+Netherlands;65to74;2019-30;1.71
+Netherlands;65to74;2019-31;0.77
+Netherlands;65to74;2019-32;-2.47
+Netherlands;65to74;2019-33;-0.47
+Netherlands;65to74;2019-34;0.01
+Netherlands;65to74;2019-35;0.77
+Netherlands;65to74;2019-36;-1.46
+Netherlands;65to74;2019-37;-0.38
+Netherlands;65to74;2019-38;-1.12
+Netherlands;65to74;2019-39;0.32
+Netherlands;65to74;2019-40;-2.11
+Netherlands;65to74;2019-41;1.69
+Netherlands;65to74;2019-42;0.72
+Netherlands;65to74;2019-43;1.11
+Netherlands;65to74;2019-44;-1.04
+Netherlands;65to74;2019-45;-0.95
+Netherlands;65to74;2019-46;-0.67
+Netherlands;65to74;2019-47;0.76
+Netherlands;65to74;2019-48;0.4
+Netherlands;65to74;2019-49;0.37
+Netherlands;65to74;2019-50;2.45
+Netherlands;65to74;2019-51;1.48
+Netherlands;65to74;2019-52;-0.81
+Netherlands;65to74;2020-01;0.13
+Netherlands;65to74;2020-02;-0.25
+Netherlands;65to74;2020-03;-0.56
+Netherlands;65to74;2020-04;0.21
+Netherlands;65to74;2020-05;-0.14
+Netherlands;65to74;2020-06;0.3
+Netherlands;65to74;2020-07;0.78
+Netherlands;65to74;2020-08;-1.2
+Netherlands;65to74;2020-09;-0.63
+Netherlands;65to74;2020-10;-0.38
+Netherlands;65to74;2020-11;0.59
+Netherlands;65to74;2020-12;3.96
+Netherlands;65to74;2020-13;7.71
+Netherlands;65to74;2020-14;9.67
+Netherlands;65to74;2020-15;8.88
+Netherlands;65to74;2020-16;5.2
+Netherlands;65to74;2020-17;4.48
+Netherlands;65to74;2020-18;2.49
+Netherlands;65to74;2020-19;0.79
+Netherlands;65to74;2020-20;-0.35
+Netherlands;65to74;2020-21;-0.39
+Netherlands;65to74;2020-22;0.58
+Netherlands;65to74;2020-23;-0.19
+Netherlands;65to74;2020-24;-0.33
+Netherlands;65to74;2020-25;1.37
+Netherlands;65to74;2020-26;0.31
+Netherlands;65to74;2020-27;-0.88
+Netherlands;65to74;2020-28;-0.7
+Netherlands;65to74;2020-29;-1.13
+Netherlands;65to74;2020-30;-0.16
+Netherlands;65to74;2020-31;-0.44
+Netherlands;65to74;2020-32;-0.8
+Netherlands;65to74;2020-33;2.49
+Netherlands;65to74;2020-34;-1.22
+Netherlands;65to74;2020-35;0.53
+Netherlands;65to74;2020-36;-2.03
+Netherlands;65to74;2020-37;0.97
+Netherlands;65to74;2020-38;-0.65
+Netherlands;65to74;2020-39;-0.88
+Netherlands;65to74;2020-40;-0.05
+Netherlands;65to74;2020-41;2.72
+Netherlands;65to74;2020-42;1.79
+Netherlands;65to74;2020-43;2.6
+Netherlands;65to74;2020-44;3.18
+Netherlands;65to74;2020-45;3.44
+Netherlands;65to74;2020-46;2.07
+Netherlands;65to74;2020-47;2.68
+Netherlands;65to74;2020-48;2.15
+Netherlands;65to74;2020-49;2.79
+Netherlands;65to74;2020-50;2.23
+Netherlands;65to74;2020-51;3.72
+Netherlands;65to74;2020-52;3.38
+Netherlands;65to74;2020-53;5.56
+Netherlands;65to74;2021-01;2.98
+Netherlands;65to74;2021-02;1.81
+Netherlands;65to74;2021-03;1.29
+Netherlands;65to74;2021-04;2.58
+Netherlands;65to74;2021-05;2.13
+Netherlands;65to74;2021-06;2.14
+Netherlands;65to74;2021-07;2.16
+Netherlands;65to74;2021-08;-0.5
+Netherlands;65to74;2021-09;0.29
+Netherlands;65to74;2021-10;1.03
+Netherlands;65to74;2021-11;0.85
+Netherlands;65to74;2021-12;0.44
+Netherlands;65to74;2021-13;1.88
+Netherlands;65to74;2021-14;1.68
+Netherlands;65to74;2021-15;3.44
+Netherlands;65to74;2021-16;1.79
+Netherlands;65to74;2021-17;3.2
+Netherlands;65to74;2021-18;1.59
+Netherlands;65to74;2021-19;1.05
+Netherlands;65to74;2021-20;2.26
+Netherlands;65to74;2021-21;0.02
+Netherlands;65to74;2021-22;2.2
+Netherlands;65to74;2021-23;0.41
+Netherlands;65to74;2021-24;-0.35
+Netherlands;65to74;2021-25;-0.3
+Netherlands;65to74;2021-26;-0.18
+Netherlands;65to74;2021-27;0.09
+Netherlands;65to74;2021-28;0.25
+Netherlands;65to74;2021-29;0.46
+Netherlands;65to74;2021-30;1.39
+Netherlands;65to74;2021-31;0.25
+Netherlands;65to74;2021-32;0.18
+Netherlands;65to74;2021-33;1.01
+Netherlands;65to74;2021-34;0.32
+Netherlands;65to74;2021-35;-0.95
+Netherlands;65to74;2021-36;2.47
+Netherlands;65to74;2021-37;0.39
+Netherlands;65to74;2021-38;-1.11
+Netherlands;65to74;2021-39;1.13
+Netherlands;65to74;2021-40;1.42
+Netherlands;65to74;2021-41;0.4
+Netherlands;65to74;2021-42;0.97
+Netherlands;65to74;2021-43;1.69
+Netherlands;65to74;2021-44;3.3
+Netherlands;65to74;2021-45;3.29
+Netherlands;65to74;2021-46;3.63
+Netherlands;65to74;2021-47;4.87
+Netherlands;65to74;2021-48;5.39
+Netherlands;65to74;2021-49;4.8
+Netherlands;65to74;2021-50;3.91
+Netherlands;65to74;2021-51;2.11
+Netherlands;65to74;2021-52;1.99
+Netherlands;65to74;2022-01;0.34
+Netherlands;65to74;2022-02;-1.85
+Netherlands;65to74;2022-03;-0.44
+Netherlands;65to74;2022-04;-0.64
+Netherlands;65to74;2022-05;-0.39
+Netherlands;65to74;2022-06;-0.76
+Netherlands;65to74;2022-07;0.01
+Netherlands;65to74;2022-08;-0.04
+Netherlands;65to74;2022-09;-2.07
+Netherlands;65to74;2022-10;0.57
+Netherlands;65to74;2022-11;1.11
+Netherlands;65to74;2022-12;0.43
+Netherlands;65to74;2022-13;0.51
+Netherlands;65to74;2022-14;0.88
+Netherlands;65to74;2022-15;0.73
+Netherlands;65to74;2022-16;-0.68
+Netherlands;65to74;2022-17;0.03
+Netherlands;65to74;2022-18;-0.08
+Netherlands;65to74;2022-19;0.32
+Netherlands;65to74;2022-20;0.77
+Netherlands;65to74;2022-21;-0.96
+Netherlands;65to74;2022-22;0.35
+Netherlands;65to74;2022-23;1.04
+Netherlands;65to74;2022-24;0.12
+Netherlands;65to74;2022-25;1.02
+Netherlands;65to74;2022-26;0.41
+Netherlands;65to74;2022-27;-1.17
+Netherlands;65to74;2022-28;0.59
+Netherlands;65to74;2022-29;1.69
+Netherlands;65to74;2022-30;0.88
+Netherlands;65to74;2022-31;-0.56
+Netherlands;65to74;2022-32;-0.32
+Netherlands;65to74;2022-33;0.05
+Netherlands;65to74;2022-34;-1.07
+Netherlands;65to74;2022-35;-0.31
+Netherlands;65to74;2022-36;0.97
+Netherlands;65to74;2022-37;-1.48
+Netherlands;65to74;2022-38;-1.22
+Netherlands;65to74;2022-39;0.72
+Netherlands;65to74;2022-40;0.87
+Netherlands;65to74;2022-41;0.09
+Netherlands;65to74;2022-42;0.86
+Norway;65to74;2018-44;0.77
+Norway;65to74;2018-45;-0.12
+Norway;65to74;2018-46;-1.32
+Norway;65to74;2018-47;-0.22
+Norway;65to74;2018-48;-0.18
+Norway;65to74;2018-49;0.67
+Norway;65to74;2018-50;-1.14
+Norway;65to74;2018-51;0.13
+Norway;65to74;2018-52;-0.08
+Norway;65to74;2019-01;-0.27
+Norway;65to74;2019-02;0.48
+Norway;65to74;2019-03;-0.86
+Norway;65to74;2019-04;-0.03
+Norway;65to74;2019-05;0.32
+Norway;65to74;2019-06;-0.54
+Norway;65to74;2019-07;-0.17
+Norway;65to74;2019-08;-0.15
+Norway;65to74;2019-09;-0.63
+Norway;65to74;2019-10;0.37
+Norway;65to74;2019-11;1.83
+Norway;65to74;2019-12;-0.29
+Norway;65to74;2019-13;-0.78
+Norway;65to74;2019-14;-1.07
+Norway;65to74;2019-15;-0.69
+Norway;65to74;2019-16;-0.15
+Norway;65to74;2019-17;-0.34
+Norway;65to74;2019-18;1
+Norway;65to74;2019-19;-0.11
+Norway;65to74;2019-20;0.25
+Norway;65to74;2019-21;-1.09
+Norway;65to74;2019-22;-1.23
+Norway;65to74;2019-23;-0.06
+Norway;65to74;2019-24;-1.35
+Norway;65to74;2019-25;0.28
+Norway;65to74;2019-26;1.13
+Norway;65to74;2019-27;1.03
+Norway;65to74;2019-28;1.91
+Norway;65to74;2019-29;2.38
+Norway;65to74;2019-30;0.21
+Norway;65to74;2019-31;0.76
+Norway;65to74;2019-32;0.29
+Norway;65to74;2019-33;2.26
+Norway;65to74;2019-34;0.17
+Norway;65to74;2019-35;0.75
+Norway;65to74;2019-36;0.07
+Norway;65to74;2019-37;-0.49
+Norway;65to74;2019-38;1.94
+Norway;65to74;2019-39;0.37
+Norway;65to74;2019-40;-1.03
+Norway;65to74;2019-41;0.39
+Norway;65to74;2019-42;1.64
+Norway;65to74;2019-43;-1.28
+Norway;65to74;2019-44;-0.07
+Norway;65to74;2019-45;0.32
+Norway;65to74;2019-46;0.47
+Norway;65to74;2019-47;-0.29
+Norway;65to74;2019-48;-0.12
+Norway;65to74;2019-49;-0.56
+Norway;65to74;2019-50;-1.3
+Norway;65to74;2019-51;-0.9
+Norway;65to74;2019-52;-1.92
+Norway;65to74;2020-01;0.25
+Norway;65to74;2020-02;0.13
+Norway;65to74;2020-03;0.31
+Norway;65to74;2020-04;-0.41
+Norway;65to74;2020-05;-1.24
+Norway;65to74;2020-06;-0.09
+Norway;65to74;2020-07;-0.43
+Norway;65to74;2020-08;-1.3
+Norway;65to74;2020-09;-1.05
+Norway;65to74;2020-10;-0.24
+Norway;65to74;2020-11;-1.24
+Norway;65to74;2020-12;-0.13
+Norway;65to74;2020-13;-0.69
+Norway;65to74;2020-14;-0.17
+Norway;65to74;2020-15;-0.61
+Norway;65to74;2020-16;0.81
+Norway;65to74;2020-17;0.06
+Norway;65to74;2020-18;0.31
+Norway;65to74;2020-19;-0.36
+Norway;65to74;2020-20;-0.47
+Norway;65to74;2020-21;-0.88
+Norway;65to74;2020-22;-1.84
+Norway;65to74;2020-23;-1.2
+Norway;65to74;2020-24;0.23
+Norway;65to74;2020-25;-0.87
+Norway;65to74;2020-26;0.52
+Norway;65to74;2020-27;-0.58
+Norway;65to74;2020-28;-1.13
+Norway;65to74;2020-29;1.51
+Norway;65to74;2020-30;0.19
+Norway;65to74;2020-31;0.84
+Norway;65to74;2020-32;1.05
+Norway;65to74;2020-33;0.19
+Norway;65to74;2020-34;0.01
+Norway;65to74;2020-35;-2.15
+Norway;65to74;2020-36;-2.14
+Norway;65to74;2020-37;0.36
+Norway;65to74;2020-38;0.43
+Norway;65to74;2020-39;-0.02
+Norway;65to74;2020-40;0.1
+Norway;65to74;2020-41;-1.18
+Norway;65to74;2020-42;-1.72
+Norway;65to74;2020-43;0.05
+Norway;65to74;2020-44;-0.14
+Norway;65to74;2020-45;-0.18
+Norway;65to74;2020-46;-0.69
+Norway;65to74;2020-47;-0.85
+Norway;65to74;2020-48;-0.31
+Norway;65to74;2020-49;-1.31
+Norway;65to74;2020-50;-0.77
+Norway;65to74;2020-51;0.61
+Norway;65to74;2020-52;0.04
+Norway;65to74;2020-53;-1.27
+Norway;65to74;2021-01;-1.74
+Norway;65to74;2021-02;-0.43
+Norway;65to74;2021-03;0.06
+Norway;65to74;2021-04;-0.17
+Norway;65to74;2021-05;-1.15
+Norway;65to74;2021-06;-1.95
+Norway;65to74;2021-07;-1.95
+Norway;65to74;2021-08;-1.61
+Norway;65to74;2021-09;-1.99
+Norway;65to74;2021-10;-0.64
+Norway;65to74;2021-11;-1.21
+Norway;65to74;2021-12;0.8
+Norway;65to74;2021-13;-1.75
+Norway;65to74;2021-14;-1.46
+Norway;65to74;2021-15;-1.16
+Norway;65to74;2021-16;-1.95
+Norway;65to74;2021-17;-0.03
+Norway;65to74;2021-18;-2.07
+Norway;65to74;2021-19;-2.19
+Norway;65to74;2021-20;-0.92
+Norway;65to74;2021-21;-0.77
+Norway;65to74;2021-22;-1.07
+Norway;65to74;2021-23;0.1
+Norway;65to74;2021-24;-1.51
+Norway;65to74;2021-25;-0.46
+Norway;65to74;2021-26;0.17
+Norway;65to74;2021-27;0.96
+Norway;65to74;2021-28;-1.03
+Norway;65to74;2021-29;-0.68
+Norway;65to74;2021-30;-0.34
+Norway;65to74;2021-31;-0.53
+Norway;65to74;2021-32;-0.16
+Norway;65to74;2021-33;-1.43
+Norway;65to74;2021-34;1.16
+Norway;65to74;2021-35;0.56
+Norway;65to74;2021-36;-0.71
+Norway;65to74;2021-37;0.31
+Norway;65to74;2021-38;-1.24
+Norway;65to74;2021-39;-0.8
+Norway;65to74;2021-40;-0.01
+Norway;65to74;2021-41;-0.11
+Norway;65to74;2021-42;-0.39
+Norway;65to74;2021-43;-0.9
+Norway;65to74;2021-44;0.89
+Norway;65to74;2021-45;-1.01
+Norway;65to74;2021-46;0.02
+Norway;65to74;2021-47;0.49
+Norway;65to74;2021-48;0.79
+Norway;65to74;2021-49;1.72
+Norway;65to74;2021-50;-0.86
+Norway;65to74;2021-51;-0.18
+Norway;65to74;2021-52;-1.33
+Norway;65to74;2022-01;-0.47
+Norway;65to74;2022-02;-0.5
+Norway;65to74;2022-03;-1.21
+Norway;65to74;2022-04;-0.63
+Norway;65to74;2022-05;0.45
+Norway;65to74;2022-06;-0.82
+Norway;65to74;2022-07;-0.1
+Norway;65to74;2022-08;-0.21
+Norway;65to74;2022-09;-1.65
+Norway;65to74;2022-10;-0.42
+Norway;65to74;2022-11;-0.98
+Norway;65to74;2022-12;-1.42
+Norway;65to74;2022-13;-1.04
+Norway;65to74;2022-14;-0.16
+Norway;65to74;2022-15;-0.97
+Norway;65to74;2022-16;-1.63
+Norway;65to74;2022-17;-0.07
+Norway;65to74;2022-18;-0.5
+Norway;65to74;2022-19;-0.52
+Norway;65to74;2022-20;-0.6
+Norway;65to74;2022-21;-0.26
+Norway;65to74;2022-22;0.4
+Norway;65to74;2022-23;-2
+Norway;65to74;2022-24;-1.31
+Norway;65to74;2022-25;0.12
+Norway;65to74;2022-26;-0.86
+Norway;65to74;2022-27;-0.71
+Norway;65to74;2022-28;0.46
+Norway;65to74;2022-29;0.54
+Norway;65to74;2022-30;-0.97
+Norway;65to74;2022-31;-0.58
+Norway;65to74;2022-32;-0.15
+Norway;65to74;2022-33;-0.38
+Norway;65to74;2022-34;-1.25
+Norway;65to74;2022-35;-0.07
+Norway;65to74;2022-36;-0.53
+Norway;65to74;2022-37;0.26
+Norway;65to74;2022-38;-0.34
+Norway;65to74;2022-39;-0.14
+Norway;65to74;2022-40;-0.6
+Norway;65to74;2022-41;-0.55
+Norway;65to74;2022-42;-0.51
+Portugal;65to74;2018-44;0.31
+Portugal;65to74;2018-45;0.68
+Portugal;65to74;2018-46;-0.73
+Portugal;65to74;2018-47;-1.08
+Portugal;65to74;2018-48;-0.28
+Portugal;65to74;2018-49;0.66
+Portugal;65to74;2018-50;1.02
+Portugal;65to74;2018-51;-0.48
+Portugal;65to74;2018-52;2.08
+Portugal;65to74;2019-01;1.14
+Portugal;65to74;2019-02;3.53
+Portugal;65to74;2019-03;2.91
+Portugal;65to74;2019-04;2.01
+Portugal;65to74;2019-05;2.09
+Portugal;65to74;2019-06;2.77
+Portugal;65to74;2019-07;1.88
+Portugal;65to74;2019-08;0.89
+Portugal;65to74;2019-09;-0.49
+Portugal;65to74;2019-10;0.92
+Portugal;65to74;2019-11;0.59
+Portugal;65to74;2019-12;2.53
+Portugal;65to74;2019-13;0.35
+Portugal;65to74;2019-14;1.06
+Portugal;65to74;2019-15;-0.23
+Portugal;65to74;2019-16;0.07
+Portugal;65to74;2019-17;-0.48
+Portugal;65to74;2019-18;1.3
+Portugal;65to74;2019-19;-0.41
+Portugal;65to74;2019-20;-2.11
+Portugal;65to74;2019-21;0.06
+Portugal;65to74;2019-22;0.05
+Portugal;65to74;2019-23;-0.8
+Portugal;65to74;2019-24;-0.5
+Portugal;65to74;2019-25;0.24
+Portugal;65to74;2019-26;-0.16
+Portugal;65to74;2019-27;0.46
+Portugal;65to74;2019-28;0.65
+Portugal;65to74;2019-29;-0.3
+Portugal;65to74;2019-30;-0.75
+Portugal;65to74;2019-31;1.49
+Portugal;65to74;2019-32;-0.72
+Portugal;65to74;2019-33;-1.32
+Portugal;65to74;2019-34;0.71
+Portugal;65to74;2019-35;0.31
+Portugal;65to74;2019-36;0.4
+Portugal;65to74;2019-37;-1.89
+Portugal;65to74;2019-38;-0.49
+Portugal;65to74;2019-39;-0.11
+Portugal;65to74;2019-40;-0.06
+Portugal;65to74;2019-41;0.14
+Portugal;65to74;2019-42;0.49
+Portugal;65to74;2019-43;0.87
+Portugal;65to74;2019-44;1.58
+Portugal;65to74;2019-45;1.21
+Portugal;65to74;2019-46;-0.03
+Portugal;65to74;2019-47;0.05
+Portugal;65to74;2019-48;0.47
+Portugal;65to74;2019-49;0.64
+Portugal;65to74;2019-50;1
+Portugal;65to74;2019-51;-0.08
+Portugal;65to74;2019-52;1.05
+Portugal;65to74;2020-01;1.41
+Portugal;65to74;2020-02;2.18
+Portugal;65to74;2020-03;1.81
+Portugal;65to74;2020-04;2.68
+Portugal;65to74;2020-05;3.99
+Portugal;65to74;2020-06;-0.55
+Portugal;65to74;2020-07;-0.32
+Portugal;65to74;2020-08;0.23
+Portugal;65to74;2020-09;-0.16
+Portugal;65to74;2020-10;-0.15
+Portugal;65to74;2020-11;0.71
+Portugal;65to74;2020-12;1.51
+Portugal;65to74;2020-13;1.74
+Portugal;65to74;2020-14;2.04
+Portugal;65to74;2020-15;2.3
+Portugal;65to74;2020-16;0.36
+Portugal;65to74;2020-17;1.34
+Portugal;65to74;2020-18;0.44
+Portugal;65to74;2020-19;0.36
+Portugal;65to74;2020-20;-1.36
+Portugal;65to74;2020-21;-1.42
+Portugal;65to74;2020-22;2.76
+Portugal;65to74;2020-23;0.71
+Portugal;65to74;2020-24;-1.87
+Portugal;65to74;2020-25;0.31
+Portugal;65to74;2020-26;3.23
+Portugal;65to74;2020-27;0.62
+Portugal;65to74;2020-28;0.96
+Portugal;65to74;2020-29;1.86
+Portugal;65to74;2020-30;1.53
+Portugal;65to74;2020-31;1.97
+Portugal;65to74;2020-32;0.6
+Portugal;65to74;2020-33;0.43
+Portugal;65to74;2020-34;-0.26
+Portugal;65to74;2020-35;1.28
+Portugal;65to74;2020-36;0.88
+Portugal;65to74;2020-37;2.13
+Portugal;65to74;2020-38;0.88
+Portugal;65to74;2020-39;0.14
+Portugal;65to74;2020-40;1.87
+Portugal;65to74;2020-41;0.64
+Portugal;65to74;2020-42;2.41
+Portugal;65to74;2020-43;0.9
+Portugal;65to74;2020-44;3.08
+Portugal;65to74;2020-45;2.89
+Portugal;65to74;2020-46;3.54
+Portugal;65to74;2020-47;3.08
+Portugal;65to74;2020-48;3.67
+Portugal;65to74;2020-49;4.56
+Portugal;65to74;2020-50;3.92
+Portugal;65to74;2020-51;2.68
+Portugal;65to74;2020-52;2.91
+Portugal;65to74;2020-53;5.25
+Portugal;65to74;2021-01;8.46
+Portugal;65to74;2021-02;9.67
+Portugal;65to74;2021-03;11.71
+Portugal;65to74;2021-04;12.79
+Portugal;65to74;2021-05;9.44
+Portugal;65to74;2021-06;6.32
+Portugal;65to74;2021-07;2.91
+Portugal;65to74;2021-08;2.61
+Portugal;65to74;2021-09;2.2
+Portugal;65to74;2021-10;1.37
+Portugal;65to74;2021-11;0.07
+Portugal;65to74;2021-12;-1.48
+Portugal;65to74;2021-13;-0.9
+Portugal;65to74;2021-14;0.66
+Portugal;65to74;2021-15;0.17
+Portugal;65to74;2021-16;-0.67
+Portugal;65to74;2021-17;0.38
+Portugal;65to74;2021-18;0.25
+Portugal;65to74;2021-19;-0.07
+Portugal;65to74;2021-20;-1.3
+Portugal;65to74;2021-21;0.75
+Portugal;65to74;2021-22;-1.82
+Portugal;65to74;2021-23;-0.29
+Portugal;65to74;2021-24;1.23
+Portugal;65to74;2021-25;-1.04
+Portugal;65to74;2021-26;0.34
+Portugal;65to74;2021-27;0.04
+Portugal;65to74;2021-28;-0.96
+Portugal;65to74;2021-29;0.09
+Portugal;65to74;2021-30;0.05
+Portugal;65to74;2021-31;0.76
+Portugal;65to74;2021-32;0.98
+Portugal;65to74;2021-33;0.66
+Portugal;65to74;2021-34;0.13
+Portugal;65to74;2021-35;1.27
+Portugal;65to74;2021-36;-1.63
+Portugal;65to74;2021-37;-0.71
+Portugal;65to74;2021-38;1
+Portugal;65to74;2021-39;-0.25
+Portugal;65to74;2021-40;1.04
+Portugal;65to74;2021-41;2.09
+Portugal;65to74;2021-42;-0.42
+Portugal;65to74;2021-43;-0.62
+Portugal;65to74;2021-44;1.27
+Portugal;65to74;2021-45;0.24
+Portugal;65to74;2021-46;2.03
+Portugal;65to74;2021-47;3.29
+Portugal;65to74;2021-48;4.08
+Portugal;65to74;2021-49;2.78
+Portugal;65to74;2021-50;0.7
+Portugal;65to74;2021-51;2.72
+Portugal;65to74;2021-52;1.33
+Portugal;65to74;2022-01;2.09
+Portugal;65to74;2022-02;1.58
+Portugal;65to74;2022-03;1.58
+Portugal;65to74;2022-04;3.35
+Portugal;65to74;2022-05;4.24
+Portugal;65to74;2022-06;0.72
+Portugal;65to74;2022-07;2.69
+Portugal;65to74;2022-08;1.54
+Portugal;65to74;2022-09;-0.3
+Portugal;65to74;2022-10;1.36
+Portugal;65to74;2022-11;0.36
+Portugal;65to74;2022-12;0.91
+Portugal;65to74;2022-13;0.06
+Portugal;65to74;2022-14;0.98
+Portugal;65to74;2022-15;-0.78
+Portugal;65to74;2022-16;1.11
+Portugal;65to74;2022-17;1.88
+Portugal;65to74;2022-18;-0.03
+Portugal;65to74;2022-19;1.84
+Portugal;65to74;2022-20;-0.86
+Portugal;65to74;2022-21;0.22
+Portugal;65to74;2022-22;1.86
+Portugal;65to74;2022-23;1.58
+Portugal;65to74;2022-24;3.24
+Portugal;65to74;2022-25;0.53
+Portugal;65to74;2022-26;-0.02
+Portugal;65to74;2022-27;0.85
+Portugal;65to74;2022-28;4.55
+Portugal;65to74;2022-29;2.41
+Portugal;65to74;2022-30;2.51
+Portugal;65to74;2022-31;0.8
+Portugal;65to74;2022-32;-0.09
+Portugal;65to74;2022-33;0.76
+Portugal;65to74;2022-34;0.26
+Portugal;65to74;2022-35;-0.68
+Portugal;65to74;2022-36;1.65
+Portugal;65to74;2022-37;0.95
+Portugal;65to74;2022-38;2.39
+Portugal;65to74;2022-39;-0.55
+Portugal;65to74;2022-40;0.81
+Portugal;65to74;2022-41;0.54
+Portugal;65to74;2022-42;0.31
+Slovenia;65to74;2018-44;-0.76
+Slovenia;65to74;2018-45;-0.48
+Slovenia;65to74;2018-46;0.01
+Slovenia;65to74;2018-47;-1.24
+Slovenia;65to74;2018-48;-1.49
+Slovenia;65to74;2018-49;-0.97
+Slovenia;65to74;2018-50;-0.78
+Slovenia;65to74;2018-51;0.12
+Slovenia;65to74;2018-52;0.3
+Slovenia;65to74;2019-01;-0.11
+Slovenia;65to74;2019-02;0.95
+Slovenia;65to74;2019-03;1.5
+Slovenia;65to74;2019-04;0.3
+Slovenia;65to74;2019-05;1.35
+Slovenia;65to74;2019-06;0.44
+Slovenia;65to74;2019-07;2.06
+Slovenia;65to74;2019-08;-0.27
+Slovenia;65to74;2019-09;1.15
+Slovenia;65to74;2019-10;-0.38
+Slovenia;65to74;2019-11;0.49
+Slovenia;65to74;2019-12;-0.07
+Slovenia;65to74;2019-13;0.41
+Slovenia;65to74;2019-14;-0.6
+Slovenia;65to74;2019-15;-1.7
+Slovenia;65to74;2019-16;-0.16
+Slovenia;65to74;2019-17;-0.21
+Slovenia;65to74;2019-18;1.06
+Slovenia;65to74;2019-19;-0.22
+Slovenia;65to74;2019-20;1.28
+Slovenia;65to74;2019-21;-0.48
+Slovenia;65to74;2019-22;-0.32
+Slovenia;65to74;2019-23;-1.61
+Slovenia;65to74;2019-24;0.19
+Slovenia;65to74;2019-25;0.99
+Slovenia;65to74;2019-26;0.99
+Slovenia;65to74;2019-27;-0.35
+Slovenia;65to74;2019-28;-2.16
+Slovenia;65to74;2019-29;-0.25
+Slovenia;65to74;2019-30;0.73
+Slovenia;65to74;2019-31;0.59
+Slovenia;65to74;2019-32;0.22
+Slovenia;65to74;2019-33;-0.15
+Slovenia;65to74;2019-34;1.95
+Slovenia;65to74;2019-35;-0.48
+Slovenia;65to74;2019-36;-1.12
+Slovenia;65to74;2019-37;0.4
+Slovenia;65to74;2019-38;0
+Slovenia;65to74;2019-39;0.7
+Slovenia;65to74;2019-40;1.06
+Slovenia;65to74;2019-41;0.01
+Slovenia;65to74;2019-42;1.01
+Slovenia;65to74;2019-43;0.41
+Slovenia;65to74;2019-44;-0.96
+Slovenia;65to74;2019-45;0.28
+Slovenia;65to74;2019-46;-0.85
+Slovenia;65to74;2019-47;-2.11
+Slovenia;65to74;2019-48;-1.68
+Slovenia;65to74;2019-49;-0.13
+Slovenia;65to74;2019-50;-0.67
+Slovenia;65to74;2019-51;0.49
+Slovenia;65to74;2019-52;-0.8
+Slovenia;65to74;2020-01;0.26
+Slovenia;65to74;2020-02;0.63
+Slovenia;65to74;2020-03;-0.79
+Slovenia;65to74;2020-04;-0.1
+Slovenia;65to74;2020-05;1.47
+Slovenia;65to74;2020-06;0.13
+Slovenia;65to74;2020-07;1.18
+Slovenia;65to74;2020-08;-0.77
+Slovenia;65to74;2020-09;-0.04
+Slovenia;65to74;2020-10;-0.69
+Slovenia;65to74;2020-11;-0.14
+Slovenia;65to74;2020-12;0.91
+Slovenia;65to74;2020-13;0.68
+Slovenia;65to74;2020-14;-1.81
+Slovenia;65to74;2020-15;0.2
+Slovenia;65to74;2020-16;0.05
+Slovenia;65to74;2020-17;1.16
+Slovenia;65to74;2020-18;-0.27
+Slovenia;65to74;2020-19;1.5
+Slovenia;65to74;2020-20;-0.06
+Slovenia;65to74;2020-21;-0.12
+Slovenia;65to74;2020-22;-2.7
+Slovenia;65to74;2020-23;-0.73
+Slovenia;65to74;2020-24;0.74
+Slovenia;65to74;2020-25;-0.68
+Slovenia;65to74;2020-26;0.66
+Slovenia;65to74;2020-27;-1.01
+Slovenia;65to74;2020-28;-0.56
+Slovenia;65to74;2020-29;-0.68
+Slovenia;65to74;2020-30;-0.81
+Slovenia;65to74;2020-31;-0.17
+Slovenia;65to74;2020-32;0.13
+Slovenia;65to74;2020-33;1.66
+Slovenia;65to74;2020-34;0.47
+Slovenia;65to74;2020-35;-1.24
+Slovenia;65to74;2020-36;-1.3
+Slovenia;65to74;2020-37;0.4
+Slovenia;65to74;2020-38;1.38
+Slovenia;65to74;2020-39;-1.62
+Slovenia;65to74;2020-40;0.73
+Slovenia;65to74;2020-41;0.65
+Slovenia;65to74;2020-42;-1.37
+Slovenia;65to74;2020-43;2.3
+Slovenia;65to74;2020-44;3.52
+Slovenia;65to74;2020-45;3.88
+Slovenia;65to74;2020-46;3.78
+Slovenia;65to74;2020-47;4.28
+Slovenia;65to74;2020-48;5.26
+Slovenia;65to74;2020-49;2.89
+Slovenia;65to74;2020-50;4.89
+Slovenia;65to74;2020-51;2.16
+Slovenia;65to74;2020-52;3.21
+Slovenia;65to74;2020-53;3.33
+Slovenia;65to74;2021-01;1.98
+Slovenia;65to74;2021-02;1.72
+Slovenia;65to74;2021-03;2.89
+Slovenia;65to74;2021-04;1.75
+Slovenia;65to74;2021-05;2.03
+Slovenia;65to74;2021-06;-0.42
+Slovenia;65to74;2021-07;0.17
+Slovenia;65to74;2021-08;0.95
+Slovenia;65to74;2021-09;0.45
+Slovenia;65to74;2021-10;0.42
+Slovenia;65to74;2021-11;-0.3
+Slovenia;65to74;2021-12;0.92
+Slovenia;65to74;2021-13;2.49
+Slovenia;65to74;2021-14;1.07
+Slovenia;65to74;2021-15;0.34
+Slovenia;65to74;2021-16;3.12
+Slovenia;65to74;2021-17;0.87
+Slovenia;65to74;2021-18;2.71
+Slovenia;65to74;2021-19;0.57
+Slovenia;65to74;2021-20;1.54
+Slovenia;65to74;2021-21;1.58
+Slovenia;65to74;2021-22;1.21
+Slovenia;65to74;2021-23;1.54
+Slovenia;65to74;2021-24;1.65
+Slovenia;65to74;2021-25;0.43
+Slovenia;65to74;2021-26;0.12
+Slovenia;65to74;2021-27;0.43
+Slovenia;65to74;2021-28;0
+Slovenia;65to74;2021-29;-0.23
+Slovenia;65to74;2021-30;2.27
+Slovenia;65to74;2021-31;0.13
+Slovenia;65to74;2021-32;0.4
+Slovenia;65to74;2021-33;-1.82
+Slovenia;65to74;2021-34;0.62
+Slovenia;65to74;2021-35;0.97
+Slovenia;65to74;2021-36;-0.55
+Slovenia;65to74;2021-37;-0.3
+Slovenia;65to74;2021-38;1.47
+Slovenia;65to74;2021-39;2.36
+Slovenia;65to74;2021-40;1.23
+Slovenia;65to74;2021-41;0.05
+Slovenia;65to74;2021-42;-0.33
+Slovenia;65to74;2021-43;1.95
+Slovenia;65to74;2021-44;1.59
+Slovenia;65to74;2021-45;4.16
+Slovenia;65to74;2021-46;1.8
+Slovenia;65to74;2021-47;4.28
+Slovenia;65to74;2021-48;2.45
+Slovenia;65to74;2021-49;2.55
+Slovenia;65to74;2021-50;1.48
+Slovenia;65to74;2021-51;2.11
+Slovenia;65to74;2021-52;1.25
+Slovenia;65to74;2022-01;1.97
+Slovenia;65to74;2022-02;2.13
+Slovenia;65to74;2022-03;0.98
+Slovenia;65to74;2022-04;0.4
+Slovenia;65to74;2022-05;1.19
+Slovenia;65to74;2022-06;0.88
+Slovenia;65to74;2022-07;0.92
+Slovenia;65to74;2022-08;-1.01
+Slovenia;65to74;2022-09;1.37
+Slovenia;65to74;2022-10;2.46
+Slovenia;65to74;2022-11;-0.13
+Slovenia;65to74;2022-12;-0.75
+Slovenia;65to74;2022-13;0.08
+Slovenia;65to74;2022-14;1.56
+Slovenia;65to74;2022-15;-0.29
+Slovenia;65to74;2022-16;0.37
+Slovenia;65to74;2022-17;0.82
+Slovenia;65to74;2022-18;0.98
+Slovenia;65to74;2022-19;0.13
+Slovenia;65to74;2022-20;0.78
+Slovenia;65to74;2022-21;-0.41
+Slovenia;65to74;2022-22;1.64
+Slovenia;65to74;2022-23;1.28
+Slovenia;65to74;2022-24;-0.64
+Slovenia;65to74;2022-25;2.63
+Slovenia;65to74;2022-26;1.88
+Slovenia;65to74;2022-27;0.81
+Slovenia;65to74;2022-28;1.86
+Slovenia;65to74;2022-29;1.36
+Slovenia;65to74;2022-30;-0.25
+Slovenia;65to74;2022-31;0.82
+Slovenia;65to74;2022-32;0.59
+Slovenia;65to74;2022-33;0.05
+Slovenia;65to74;2022-34;0.3
+Slovenia;65to74;2022-35;-0.67
+Slovenia;65to74;2022-36;-0.22
+Slovenia;65to74;2022-37;-0.64
+Slovenia;65to74;2022-38;-1.28
+Slovenia;65to74;2022-39;-1.29
+Slovenia;65to74;2022-40;0.05
+Slovenia;65to74;2022-41;-1.34
+Slovenia;65to74;2022-42;-1.56
+Spain;65to74;2018-44;0.87
+Spain;65to74;2018-45;1.49
+Spain;65to74;2018-46;-0.06
+Spain;65to74;2018-47;0.51
+Spain;65to74;2018-48;2.91
+Spain;65to74;2018-49;1.36
+Spain;65to74;2018-50;2.21
+Spain;65to74;2018-51;0.87
+Spain;65to74;2018-52;3.81
+Spain;65to74;2019-01;2.06
+Spain;65to74;2019-02;5.46
+Spain;65to74;2019-03;4.58
+Spain;65to74;2019-04;3.85
+Spain;65to74;2019-05;5.62
+Spain;65to74;2019-06;4.6
+Spain;65to74;2019-07;3.48
+Spain;65to74;2019-08;3.58
+Spain;65to74;2019-09;2.07
+Spain;65to74;2019-10;3.22
+Spain;65to74;2019-11;0.74
+Spain;65to74;2019-12;0.52
+Spain;65to74;2019-13;1.03
+Spain;65to74;2019-14;1.96
+Spain;65to74;2019-15;1.62
+Spain;65to74;2019-16;-0.76
+Spain;65to74;2019-17;-0.27
+Spain;65to74;2019-18;0.09
+Spain;65to74;2019-19;-1.11
+Spain;65to74;2019-20;-0.09
+Spain;65to74;2019-21;0.46
+Spain;65to74;2019-22;1.14
+Spain;65to74;2019-23;0.3
+Spain;65to74;2019-24;-1.95
+Spain;65to74;2019-25;1.27
+Spain;65to74;2019-26;0.68
+Spain;65to74;2019-27;2.33
+Spain;65to74;2019-28;-0.62
+Spain;65to74;2019-29;-1.93
+Spain;65to74;2019-30;-0.56
+Spain;65to74;2019-31;-1.35
+Spain;65to74;2019-32;0.2
+Spain;65to74;2019-33;0.52
+Spain;65to74;2019-34;-1.41
+Spain;65to74;2019-35;-0.57
+Spain;65to74;2019-36;-2.25
+Spain;65to74;2019-37;0.03
+Spain;65to74;2019-38;0.41
+Spain;65to74;2019-39;-0.74
+Spain;65to74;2019-40;-2.16
+Spain;65to74;2019-41;-0.72
+Spain;65to74;2019-42;-0.17
+Spain;65to74;2019-43;0.2
+Spain;65to74;2019-44;-0.07
+Spain;65to74;2019-45;0.82
+Spain;65to74;2019-46;0.63
+Spain;65to74;2019-47;1.83
+Spain;65to74;2019-48;1.76
+Spain;65to74;2019-49;-0.27
+Spain;65to74;2019-50;2.31
+Spain;65to74;2019-51;0.48
+Spain;65to74;2019-52;1.14
+Spain;65to74;2020-01;2.21
+Spain;65to74;2020-02;2.4
+Spain;65to74;2020-03;4.69
+Spain;65to74;2020-04;5.87
+Spain;65to74;2020-05;3.57
+Spain;65to74;2020-06;3.09
+Spain;65to74;2020-07;2.03
+Spain;65to74;2020-08;0.55
+Spain;65to74;2020-09;0.17
+Spain;65to74;2020-10;0.98
+Spain;65to74;2020-11;4.47
+Spain;65to74;2020-12;13.55
+Spain;65to74;2020-13;33.18
+Spain;65to74;2020-14;28.92
+Spain;65to74;2020-15;19.11
+Spain;65to74;2020-16;10.19
+Spain;65to74;2020-17;5.69
+Spain;65to74;2020-18;3.53
+Spain;65to74;2020-19;2.53
+Spain;65to74;2020-20;-0.36
+Spain;65to74;2020-21;0.91
+Spain;65to74;2020-22;-0.67
+Spain;65to74;2020-23;-0.21
+Spain;65to74;2020-24;-2.67
+Spain;65to74;2020-25;-1.59
+Spain;65to74;2020-26;0.09
+Spain;65to74;2020-27;1.37
+Spain;65to74;2020-28;0.66
+Spain;65to74;2020-29;0.42
+Spain;65to74;2020-30;-0.51
+Spain;65to74;2020-31;1.61
+Spain;65to74;2020-32;0.67
+Spain;65to74;2020-33;1.65
+Spain;65to74;2020-34;-0.01
+Spain;65to74;2020-35;1.03
+Spain;65to74;2020-36;1.03
+Spain;65to74;2020-37;0.7
+Spain;65to74;2020-38;2.49
+Spain;65to74;2020-39;1.77
+Spain;65to74;2020-40;3.03
+Spain;65to74;2020-41;3.46
+Spain;65to74;2020-42;3.23
+Spain;65to74;2020-43;6.12
+Spain;65to74;2020-44;6.18
+Spain;65to74;2020-45;7.14
+Spain;65to74;2020-46;6.72
+Spain;65to74;2020-47;5.78
+Spain;65to74;2020-48;5.63
+Spain;65to74;2020-49;6.51
+Spain;65to74;2020-50;5.67
+Spain;65to74;2020-51;4.84
+Spain;65to74;2020-52;2.89
+Spain;65to74;2020-53;4.25
+Spain;65to74;2021-01;4.97
+Spain;65to74;2021-02;8.34
+Spain;65to74;2021-03;11.13
+Spain;65to74;2021-04;10.59
+Spain;65to74;2021-05;10.16
+Spain;65to74;2021-06;8.3
+Spain;65to74;2021-07;5.77
+Spain;65to74;2021-08;5.55
+Spain;65to74;2021-09;3.55
+Spain;65to74;2021-10;3.22
+Spain;65to74;2021-11;1.41
+Spain;65to74;2021-12;2.48
+Spain;65to74;2021-13;0.91
+Spain;65to74;2021-14;1.72
+Spain;65to74;2021-15;2.57
+Spain;65to74;2021-16;1.67
+Spain;65to74;2021-17;1.25
+Spain;65to74;2021-18;3.11
+Spain;65to74;2021-19;2.1
+Spain;65to74;2021-20;0.21
+Spain;65to74;2021-21;1.05
+Spain;65to74;2021-22;-0.32
+Spain;65to74;2021-23;0.95
+Spain;65to74;2021-24;1.16
+Spain;65to74;2021-25;-0.56
+Spain;65to74;2021-26;0.3
+Spain;65to74;2021-27;-0.22
+Spain;65to74;2021-28;0.76
+Spain;65to74;2021-29;2.64
+Spain;65to74;2021-30;1.81
+Spain;65to74;2021-31;3.09
+Spain;65to74;2021-32;4.2
+Spain;65to74;2021-33;3.58
+Spain;65to74;2021-34;1.96
+Spain;65to74;2021-35;1.53
+Spain;65to74;2021-36;2.27
+Spain;65to74;2021-37;0.14
+Spain;65to74;2021-38;0.39
+Spain;65to74;2021-39;-0.08
+Spain;65to74;2021-40;1.31
+Spain;65to74;2021-41;1.53
+Spain;65to74;2021-42;-1.24
+Spain;65to74;2021-43;1.31
+Spain;65to74;2021-44;-0.06
+Spain;65to74;2021-45;3.36
+Spain;65to74;2021-46;3.22
+Spain;65to74;2021-47;3.04
+Spain;65to74;2021-48;3.88
+Spain;65to74;2021-49;2.71
+Spain;65to74;2021-50;4.84
+Spain;65to74;2021-51;5.21
+Spain;65to74;2021-52;5.6
+Spain;65to74;2022-01;5.28
+Spain;65to74;2022-02;7.21
+Spain;65to74;2022-03;6.58
+Spain;65to74;2022-04;8.19
+Spain;65to74;2022-05;6.8
+Spain;65to74;2022-06;4.36
+Spain;65to74;2022-07;4.11
+Spain;65to74;2022-08;2.91
+Spain;65to74;2022-09;2.05
+Spain;65to74;2022-10;1.73
+Spain;65to74;2022-11;0.71
+Spain;65to74;2022-12;1.96
+Spain;65to74;2022-13;1.14
+Spain;65to74;2022-14;1.47
+Spain;65to74;2022-15;1.84
+Spain;65to74;2022-16;1.83
+Spain;65to74;2022-17;2.38
+Spain;65to74;2022-18;1.75
+Spain;65to74;2022-19;1.82
+Spain;65to74;2022-20;2.25
+Spain;65to74;2022-21;1.06
+Spain;65to74;2022-22;0.83
+Spain;65to74;2022-23;1.64
+Spain;65to74;2022-24;3.26
+Spain;65to74;2022-25;1.99
+Spain;65to74;2022-26;2.8
+Spain;65to74;2022-27;4.33
+Spain;65to74;2022-28;5.53
+Spain;65to74;2022-29;6.63
+Spain;65to74;2022-30;3.78
+Spain;65to74;2022-31;3.41
+Spain;65to74;2022-32;2.18
+Spain;65to74;2022-33;1.47
+Spain;65to74;2022-34;1.39
+Spain;65to74;2022-35;0.16
+Spain;65to74;2022-36;0.83
+Spain;65to74;2022-37;-0.36
+Spain;65to74;2022-38;0.1
+Spain;65to74;2022-39;1.4
+Spain;65to74;2022-40;2.3
+Spain;65to74;2022-41;2.32
+Spain;65to74;2022-42;4.16
+Sweden;65to74;2018-44;1.09
+Sweden;65to74;2018-45;-1.76
+Sweden;65to74;2018-46;-2.02
+Sweden;65to74;2018-47;-1.29
+Sweden;65to74;2018-48;0.51
+Sweden;65to74;2018-49;-0.5
+Sweden;65to74;2018-50;-1.18
+Sweden;65to74;2018-51;-1.59
+Sweden;65to74;2018-52;0.22
+Sweden;65to74;2019-01;0.28
+Sweden;65to74;2019-02;-0.27
+Sweden;65to74;2019-03;-0.23
+Sweden;65to74;2019-04;1.19
+Sweden;65to74;2019-05;0.42
+Sweden;65to74;2019-06;0.37
+Sweden;65to74;2019-07;0.42
+Sweden;65to74;2019-08;-0.68
+Sweden;65to74;2019-09;-1.37
+Sweden;65to74;2019-10;-0.13
+Sweden;65to74;2019-11;0.72
+Sweden;65to74;2019-12;-0.23
+Sweden;65to74;2019-13;-0.64
+Sweden;65to74;2019-14;-1.67
+Sweden;65to74;2019-15;-0.68
+Sweden;65to74;2019-16;0.64
+Sweden;65to74;2019-17;-1.11
+Sweden;65to74;2019-18;-1.1
+Sweden;65to74;2019-19;-0.69
+Sweden;65to74;2019-20;-0.63
+Sweden;65to74;2019-21;-1.75
+Sweden;65to74;2019-22;-0.59
+Sweden;65to74;2019-23;0.24
+Sweden;65to74;2019-24;-0.76
+Sweden;65to74;2019-25;-0.23
+Sweden;65to74;2019-26;0.94
+Sweden;65to74;2019-27;0.7
+Sweden;65to74;2019-28;-0.4
+Sweden;65to74;2019-29;-0.79
+Sweden;65to74;2019-30;0.95
+Sweden;65to74;2019-31;-0.81
+Sweden;65to74;2019-32;0.01
+Sweden;65to74;2019-33;-2.05
+Sweden;65to74;2019-34;-0.27
+Sweden;65to74;2019-35;-0.29
+Sweden;65to74;2019-36;-1
+Sweden;65to74;2019-37;0.98
+Sweden;65to74;2019-38;-0.57
+Sweden;65to74;2019-39;-0.46
+Sweden;65to74;2019-40;1.2
+Sweden;65to74;2019-41;0.96
+Sweden;65to74;2019-42;-0.55
+Sweden;65to74;2019-43;0.32
+Sweden;65to74;2019-44;-1.12
+Sweden;65to74;2019-45;0.39
+Sweden;65to74;2019-46;-2.33
+Sweden;65to74;2019-47;-0.57
+Sweden;65to74;2019-48;-2.59
+Sweden;65to74;2019-49;-1.79
+Sweden;65to74;2019-50;-0.91
+Sweden;65to74;2019-51;-0.21
+Sweden;65to74;2019-52;-1.6
+Sweden;65to74;2020-01;-0.73
+Sweden;65to74;2020-02;-0.41
+Sweden;65to74;2020-03;0.01
+Sweden;65to74;2020-04;-0.75
+Sweden;65to74;2020-05;-0.29
+Sweden;65to74;2020-06;-1.52
+Sweden;65to74;2020-07;-0.5
+Sweden;65to74;2020-08;-0.89
+Sweden;65to74;2020-09;-1.32
+Sweden;65to74;2020-10;0.4
+Sweden;65to74;2020-11;-1.22
+Sweden;65to74;2020-12;0.21
+Sweden;65to74;2020-13;1.78
+Sweden;65to74;2020-14;4.76
+Sweden;65to74;2020-15;4.65
+Sweden;65to74;2020-16;3.74
+Sweden;65to74;2020-17;4.31
+Sweden;65to74;2020-18;3.09
+Sweden;65to74;2020-19;3.13
+Sweden;65to74;2020-20;0.24
+Sweden;65to74;2020-21;2.32
+Sweden;65to74;2020-22;0.57
+Sweden;65to74;2020-23;-0.46
+Sweden;65to74;2020-24;1.51
+Sweden;65to74;2020-25;-0.71
+Sweden;65to74;2020-26;-1.63
+Sweden;65to74;2020-27;-0.38
+Sweden;65to74;2020-28;-0.69
+Sweden;65to74;2020-29;-0.17
+Sweden;65to74;2020-30;-0.23
+Sweden;65to74;2020-31;0.25
+Sweden;65to74;2020-32;-1.41
+Sweden;65to74;2020-33;-0.6
+Sweden;65to74;2020-34;-0.38
+Sweden;65to74;2020-35;-1.35
+Sweden;65to74;2020-36;-0.81
+Sweden;65to74;2020-37;-1.08
+Sweden;65to74;2020-38;0.44
+Sweden;65to74;2020-39;-1.69
+Sweden;65to74;2020-40;-0.34
+Sweden;65to74;2020-41;-1.3
+Sweden;65to74;2020-42;0.3
+Sweden;65to74;2020-43;-2.56
+Sweden;65to74;2020-44;-0.98
+Sweden;65to74;2020-45;-1.09
+Sweden;65to74;2020-46;-0.29
+Sweden;65to74;2020-47;1.64
+Sweden;65to74;2020-48;-0.64
+Sweden;65to74;2020-49;1.66
+Sweden;65to74;2020-50;0.55
+Sweden;65to74;2020-51;2.18
+Sweden;65to74;2020-52;2.29
+Sweden;65to74;2020-53;0.85
+Sweden;65to74;2021-01;1.23
+Sweden;65to74;2021-02;2.17
+Sweden;65to74;2021-03;3.05
+Sweden;65to74;2021-04;0.08
+Sweden;65to74;2021-05;-0.41
+Sweden;65to74;2021-06;-0.65
+Sweden;65to74;2021-07;0.55
+Sweden;65to74;2021-08;-0.82
+Sweden;65to74;2021-09;1.33
+Sweden;65to74;2021-10;-0.72
+Sweden;65to74;2021-11;-0.47
+Sweden;65to74;2021-12;0.19
+Sweden;65to74;2021-13;-0.88
+Sweden;65to74;2021-14;0.38
+Sweden;65to74;2021-15;-0.39
+Sweden;65to74;2021-16;0.75
+Sweden;65to74;2021-17;0.67
+Sweden;65to74;2021-18;0.85
+Sweden;65to74;2021-19;0.7
+Sweden;65to74;2021-20;0.04
+Sweden;65to74;2021-21;-1.49
+Sweden;65to74;2021-22;-0.71
+Sweden;65to74;2021-23;1.83
+Sweden;65to74;2021-24;-0.84
+Sweden;65to74;2021-25;-0.27
+Sweden;65to74;2021-26;1.24
+Sweden;65to74;2021-27;-2.3
+Sweden;65to74;2021-28;0.36
+Sweden;65to74;2021-29;-2.33
+Sweden;65to74;2021-30;-0.53
+Sweden;65to74;2021-31;-1.96
+Sweden;65to74;2021-32;0.34
+Sweden;65to74;2021-33;-1.49
+Sweden;65to74;2021-34;-1.33
+Sweden;65to74;2021-35;-0.68
+Sweden;65to74;2021-36;-0.17
+Sweden;65to74;2021-37;0.6
+Sweden;65to74;2021-38;-0.21
+Sweden;65to74;2021-39;-1.7
+Sweden;65to74;2021-40;-0.87
+Sweden;65to74;2021-41;1.2
+Sweden;65to74;2021-42;-1.05
+Sweden;65to74;2021-43;-1.44
+Sweden;65to74;2021-44;-0.53
+Sweden;65to74;2021-45;-0.95
+Sweden;65to74;2021-46;-1.3
+Sweden;65to74;2021-47;-2.27
+Sweden;65to74;2021-48;-3.29
+Sweden;65to74;2021-49;-0.86
+Sweden;65to74;2021-50;-1.76
+Sweden;65to74;2021-51;-0.86
+Sweden;65to74;2021-52;-0.14
+Sweden;65to74;2022-01;-0.54
+Sweden;65to74;2022-02;-1.11
+Sweden;65to74;2022-03;-0.97
+Sweden;65to74;2022-04;-0.57
+Sweden;65to74;2022-05;0.47
+Sweden;65to74;2022-06;-1.41
+Sweden;65to74;2022-07;-0.79
+Sweden;65to74;2022-08;-0.63
+Sweden;65to74;2022-09;-0.08
+Sweden;65to74;2022-10;-1.57
+Sweden;65to74;2022-11;-0.58
+Sweden;65to74;2022-12;-0.63
+Sweden;65to74;2022-13;-1.67
+Sweden;65to74;2022-14;-1.15
+Sweden;65to74;2022-15;-1.79
+Sweden;65to74;2022-16;-1.14
+Sweden;65to74;2022-17;-1.9
+Sweden;65to74;2022-18;-2.13
+Sweden;65to74;2022-19;-2.03
+Sweden;65to74;2022-20;-0.2
+Sweden;65to74;2022-21;-2.33
+Sweden;65to74;2022-22;-1.56
+Sweden;65to74;2022-23;-0.86
+Sweden;65to74;2022-24;-2.25
+Sweden;65to74;2022-25;0.09
+Sweden;65to74;2022-26;0.19
+Sweden;65to74;2022-27;0
+Sweden;65to74;2022-28;-1.4
+Sweden;65to74;2022-29;0.02
+Sweden;65to74;2022-30;1.07
+Sweden;65to74;2022-31;1.15
+Sweden;65to74;2022-32;-1.96
+Sweden;65to74;2022-33;-0.75
+Sweden;65to74;2022-34;-0.86
+Sweden;65to74;2022-35;-0.72
+Sweden;65to74;2022-36;-0.72
+Sweden;65to74;2022-37;-0.51
+Sweden;65to74;2022-38;-0.41
+Sweden;65to74;2022-39;-0.57
+Sweden;65to74;2022-40;-0.47
+Sweden;65to74;2022-41;-1.35
+Sweden;65to74;2022-42;0.04
+Switzerland;65to74;2018-44;0.75
+Switzerland;65to74;2018-45;-0.11
+Switzerland;65to74;2018-46;-0.55
+Switzerland;65to74;2018-47;-1.05
+Switzerland;65to74;2018-48;-0.51
+Switzerland;65to74;2018-49;-0.32
+Switzerland;65to74;2018-50;0.9
+Switzerland;65to74;2018-51;-2.24
+Switzerland;65to74;2018-52;-0.95
+Switzerland;65to74;2019-01;-1.31
+Switzerland;65to74;2019-02;0.36
+Switzerland;65to74;2019-03;-0.09
+Switzerland;65to74;2019-04;-0.23
+Switzerland;65to74;2019-05;0.62
+Switzerland;65to74;2019-06;1.71
+Switzerland;65to74;2019-07;1.86
+Switzerland;65to74;2019-08;1.54
+Switzerland;65to74;2019-09;0.18
+Switzerland;65to74;2019-10;0.55
+Switzerland;65to74;2019-11;0.49
+Switzerland;65to74;2019-12;0.17
+Switzerland;65to74;2019-13;0.06
+Switzerland;65to74;2019-14;1.2
+Switzerland;65to74;2019-15;-0.11
+Switzerland;65to74;2019-16;-0.71
+Switzerland;65to74;2019-17;-1.18
+Switzerland;65to74;2019-18;0.6
+Switzerland;65to74;2019-19;0.57
+Switzerland;65to74;2019-20;0.6
+Switzerland;65to74;2019-21;-1.47
+Switzerland;65to74;2019-22;1.82
+Switzerland;65to74;2019-23;-0.28
+Switzerland;65to74;2019-24;-1.07
+Switzerland;65to74;2019-25;1.35
+Switzerland;65to74;2019-26;2.09
+Switzerland;65to74;2019-27;-0.89
+Switzerland;65to74;2019-28;0.65
+Switzerland;65to74;2019-29;0.11
+Switzerland;65to74;2019-30;2
+Switzerland;65to74;2019-31;-0.51
+Switzerland;65to74;2019-32;-0.66
+Switzerland;65to74;2019-33;-1.2
+Switzerland;65to74;2019-34;0.08
+Switzerland;65to74;2019-35;1.58
+Switzerland;65to74;2019-36;0.49
+Switzerland;65to74;2019-37;1.27
+Switzerland;65to74;2019-38;1.76
+Switzerland;65to74;2019-39;-1.02
+Switzerland;65to74;2019-40;0.13
+Switzerland;65to74;2019-41;0.04
+Switzerland;65to74;2019-42;-1.2
+Switzerland;65to74;2019-43;0.97
+Switzerland;65to74;2019-44;0.38
+Switzerland;65to74;2019-45;0.22
+Switzerland;65to74;2019-46;1.58
+Switzerland;65to74;2019-47;0.23
+Switzerland;65to74;2019-48;-0.53
+Switzerland;65to74;2019-49;-0.4
+Switzerland;65to74;2019-50;1.37
+Switzerland;65to74;2019-51;-0.02
+Switzerland;65to74;2019-52;-0.33
+Switzerland;65to74;2020-01;-0.56
+Switzerland;65to74;2020-02;0.03
+Switzerland;65to74;2020-03;0
+Switzerland;65to74;2020-04;1.31
+Switzerland;65to74;2020-05;0.77
+Switzerland;65to74;2020-06;1.19
+Switzerland;65to74;2020-07;-0.3
+Switzerland;65to74;2020-08;-0.84
+Switzerland;65to74;2020-09;-1
+Switzerland;65to74;2020-10;-0.7
+Switzerland;65to74;2020-11;0.94
+Switzerland;65to74;2020-12;2.01
+Switzerland;65to74;2020-13;2.97
+Switzerland;65to74;2020-14;4.41
+Switzerland;65to74;2020-15;1.56
+Switzerland;65to74;2020-16;1.4
+Switzerland;65to74;2020-17;-0.31
+Switzerland;65to74;2020-18;-1.42
+Switzerland;65to74;2020-19;0.02
+Switzerland;65to74;2020-20;-1.97
+Switzerland;65to74;2020-21;-0.21
+Switzerland;65to74;2020-22;-2.02
+Switzerland;65to74;2020-23;-0.69
+Switzerland;65to74;2020-24;0.39
+Switzerland;65to74;2020-25;-0.47
+Switzerland;65to74;2020-26;0.51
+Switzerland;65to74;2020-27;0.28
+Switzerland;65to74;2020-28;-0.75
+Switzerland;65to74;2020-29;-2.26
+Switzerland;65to74;2020-30;-1.43
+Switzerland;65to74;2020-31;-0.84
+Switzerland;65to74;2020-32;-0.55
+Switzerland;65to74;2020-33;-2.11
+Switzerland;65to74;2020-34;-0.17
+Switzerland;65to74;2020-35;0.85
+Switzerland;65to74;2020-36;0.24
+Switzerland;65to74;2020-37;0.82
+Switzerland;65to74;2020-38;-0.24
+Switzerland;65to74;2020-39;-0.24
+Switzerland;65to74;2020-40;1.63
+Switzerland;65to74;2020-41;-0.41
+Switzerland;65to74;2020-42;-1.58
+Switzerland;65to74;2020-43;0.94
+Switzerland;65to74;2020-44;2.16
+Switzerland;65to74;2020-45;3.76
+Switzerland;65to74;2020-46;4.91
+Switzerland;65to74;2020-47;4.53
+Switzerland;65to74;2020-48;6.47
+Switzerland;65to74;2020-49;5.01
+Switzerland;65to74;2020-50;3.44
+Switzerland;65to74;2020-51;4.2
+Switzerland;65to74;2020-52;5.26
+Switzerland;65to74;2020-53;2.13
+Switzerland;65to74;2021-01;2.82
+Switzerland;65to74;2021-02;1.87
+Switzerland;65to74;2021-03;0.56
+Switzerland;65to74;2021-04;1.37
+Switzerland;65to74;2021-05;1.09
+Switzerland;65to74;2021-06;-0.83
+Switzerland;65to74;2021-07;-1.06
+Switzerland;65to74;2021-08;0.4
+Switzerland;65to74;2021-09;-0.8
+Switzerland;65to74;2021-10;0.88
+Switzerland;65to74;2021-11;0.52
+Switzerland;65to74;2021-12;-1.69
+Switzerland;65to74;2021-13;0.3
+Switzerland;65to74;2021-14;-0.27
+Switzerland;65to74;2021-15;-0.05
+Switzerland;65to74;2021-16;0.44
+Switzerland;65to74;2021-17;-0.27
+Switzerland;65to74;2021-18;-0.45
+Switzerland;65to74;2021-19;-0.01
+Switzerland;65to74;2021-20;0.63
+Switzerland;65to74;2021-21;0.58
+Switzerland;65to74;2021-22;0.87
+Switzerland;65to74;2021-23;-0.51
+Switzerland;65to74;2021-24;0.87
+Switzerland;65to74;2021-25;0.18
+Switzerland;65to74;2021-26;-0.19
+Switzerland;65to74;2021-27;0.06
+Switzerland;65to74;2021-28;1.52
+Switzerland;65to74;2021-29;0.93
+Switzerland;65to74;2021-30;0.74
+Switzerland;65to74;2021-31;-1.23
+Switzerland;65to74;2021-32;0.79
+Switzerland;65to74;2021-33;0.77
+Switzerland;65to74;2021-34;-0.38
+Switzerland;65to74;2021-35;2.24
+Switzerland;65to74;2021-36;1.05
+Switzerland;65to74;2021-37;1.53
+Switzerland;65to74;2021-38;1.39
+Switzerland;65to74;2021-39;1.58
+Switzerland;65to74;2021-40;0.75
+Switzerland;65to74;2021-41;-0.23
+Switzerland;65to74;2021-42;-0.12
+Switzerland;65to74;2021-43;-1.04
+Switzerland;65to74;2021-44;-0.99
+Switzerland;65to74;2021-45;0.86
+Switzerland;65to74;2021-46;1.15
+Switzerland;65to74;2021-47;1.43
+Switzerland;65to74;2021-48;2.24
+Switzerland;65to74;2021-49;4.17
+Switzerland;65to74;2021-50;2.29
+Switzerland;65to74;2021-51;1.8
+Switzerland;65to74;2021-52;1.03
+Switzerland;65to74;2022-01;2.7
+Switzerland;65to74;2022-02;1.24
+Switzerland;65to74;2022-03;1.56
+Switzerland;65to74;2022-04;-0.14
+Switzerland;65to74;2022-05;-0.92
+Switzerland;65to74;2022-06;-0.61
+Switzerland;65to74;2022-07;0.32
+Switzerland;65to74;2022-08;-0.68
+Switzerland;65to74;2022-09;0.52
+Switzerland;65to74;2022-10;-0.91
+Switzerland;65to74;2022-11;0.71
+Switzerland;65to74;2022-12;-0.53
+Switzerland;65to74;2022-13;2.21
+Switzerland;65to74;2022-14;0.71
+Switzerland;65to74;2022-15;-0.17
+Switzerland;65to74;2022-16;0.38
+Switzerland;65to74;2022-17;0.02
+Switzerland;65to74;2022-18;-0.91
+Switzerland;65to74;2022-19;0.4
+Switzerland;65to74;2022-20;1.49
+Switzerland;65to74;2022-21;-1.2
+Switzerland;65to74;2022-22;0.19
+Switzerland;65to74;2022-23;0.06
+Switzerland;65to74;2022-24;0.13
+Switzerland;65to74;2022-25;0.87
+Switzerland;65to74;2022-26;2.48
+Switzerland;65to74;2022-27;-0.96
+Switzerland;65to74;2022-28;-0.57
+Switzerland;65to74;2022-29;0
+Switzerland;65to74;2022-30;1.76
+Switzerland;65to74;2022-31;-0.14
+Switzerland;65to74;2022-32;0.17
+Switzerland;65to74;2022-33;1.1
+Switzerland;65to74;2022-34;1.51
+Switzerland;65to74;2022-35;-0.42
+Switzerland;65to74;2022-36;0.43
+Switzerland;65to74;2022-37;0.83
+Switzerland;65to74;2022-38;-1.56
+Switzerland;65to74;2022-39;1.88
+Switzerland;65to74;2022-40;1.32
+Switzerland;65to74;2022-41;2.25
+Switzerland;65to74;2022-42;0.58
+UK (England);65to74;2018-44;0.62
+UK (England);65to74;2018-45;0.65
+UK (England);65to74;2018-46;-0.32
+UK (England);65to74;2018-47;-0.88
+UK (England);65to74;2018-48;-0.39
+UK (England);65to74;2018-49;-0.88
+UK (England);65to74;2018-50;0.98
+UK (England);65to74;2018-51;1.03
+UK (England);65to74;2018-52;1.39
+UK (England);65to74;2019-01;2.17
+UK (England);65to74;2019-02;1.17
+UK (England);65to74;2019-03;2.25
+UK (England);65to74;2019-04;2.32
+UK (England);65to74;2019-05;1.56
+UK (England);65to74;2019-06;2.35
+UK (England);65to74;2019-07;0.93
+UK (England);65to74;2019-08;1
+UK (England);65to74;2019-09;0.23
+UK (England);65to74;2019-10;-0.8
+UK (England);65to74;2019-11;0.02
+UK (England);65to74;2019-12;-1.65
+UK (England);65to74;2019-13;-1.76
+UK (England);65to74;2019-14;0.37
+UK (England);65to74;2019-15;-0.99
+UK (England);65to74;2019-16;3.26
+UK (England);65to74;2019-17;-0.46
+UK (England);65to74;2019-18;-1.92
+UK (England);65to74;2019-19;-1.46
+UK (England);65to74;2019-20;0.06
+UK (England);65to74;2019-21;0.07
+UK (England);65to74;2019-22;0.06
+UK (England);65to74;2019-23;1.2
+UK (England);65to74;2019-24;0.12
+UK (England);65to74;2019-25;-0.31
+UK (England);65to74;2019-26;0.51
+UK (England);65to74;2019-27;0.42
+UK (England);65to74;2019-28;-1.38
+UK (England);65to74;2019-29;-0.38
+UK (England);65to74;2019-30;2.83
+UK (England);65to74;2019-31;1.15
+UK (England);65to74;2019-32;-1.49
+UK (England);65to74;2019-33;-0.64
+UK (England);65to74;2019-34;1.51
+UK (England);65to74;2019-35;-0.58
+UK (England);65to74;2019-36;-0.24
+UK (England);65to74;2019-37;1.1
+UK (England);65to74;2019-38;-1.81
+UK (England);65to74;2019-39;-0.59
+UK (England);65to74;2019-40;0.4
+UK (England);65to74;2019-41;-0.2
+UK (England);65to74;2019-42;-1.01
+UK (England);65to74;2019-43;0.92
+UK (England);65to74;2019-44;0.66
+UK (England);65to74;2019-45;-0.97
+UK (England);65to74;2019-46;0.45
+UK (England);65to74;2019-47;2.3
+UK (England);65to74;2019-48;-1.53
+UK (England);65to74;2019-49;1.76
+UK (England);65to74;2019-50;1.6
+UK (England);65to74;2019-51;3.53
+UK (England);65to74;2019-52;1.56
+UK (England);65to74;2020-01;3.17
+UK (England);65to74;2020-02;1
+UK (England);65to74;2020-03;0.48
+UK (England);65to74;2020-04;0.63
+UK (England);65to74;2020-05;-0.13
+UK (England);65to74;2020-06;-1.01
+UK (England);65to74;2020-07;-0.71
+UK (England);65to74;2020-08;0.13
+UK (England);65to74;2020-09;0.1
+UK (England);65to74;2020-10;0.13
+UK (England);65to74;2020-11;0.14
+UK (England);65to74;2020-12;4.54
+UK (England);65to74;2020-13;11.47
+UK (England);65to74;2020-14;20.66
+UK (England);65to74;2020-15;25.74
+UK (England);65to74;2020-16;19.67
+UK (England);65to74;2020-17;14.73
+UK (England);65to74;2020-18;10.14
+UK (England);65to74;2020-19;6.56
+UK (England);65to74;2020-20;2.44
+UK (England);65to74;2020-21;1.09
+UK (England);65to74;2020-22;1.68
+UK (England);65to74;2020-23;1.72
+UK (England);65to74;2020-24;0.06
+UK (England);65to74;2020-25;0.38
+UK (England);65to74;2020-26;2.38
+UK (England);65to74;2020-27;-0.7
+UK (England);65to74;2020-28;-0.63
+UK (England);65to74;2020-29;-0.55
+UK (England);65to74;2020-30;-0.11
+UK (England);65to74;2020-31;0.07
+UK (England);65to74;2020-32;-0.09
+UK (England);65to74;2020-33;2.24
+UK (England);65to74;2020-34;-1.64
+UK (England);65to74;2020-35;-0.67
+UK (England);65to74;2020-36;1.32
+UK (England);65to74;2020-37;-0.62
+UK (England);65to74;2020-38;-0.02
+UK (England);65to74;2020-39;1.59
+UK (England);65to74;2020-40;1.73
+UK (England);65to74;2020-41;0.52
+UK (England);65to74;2020-42;2.58
+UK (England);65to74;2020-43;3.42
+UK (England);65to74;2020-44;4.31
+UK (England);65to74;2020-45;4.45
+UK (England);65to74;2020-46;5.2
+UK (England);65to74;2020-47;4.28
+UK (England);65to74;2020-48;6.08
+UK (England);65to74;2020-49;4.81
+UK (England);65to74;2020-50;3.86
+UK (England);65to74;2020-51;5.37
+UK (England);65to74;2020-52;6.48
+UK (England);65to74;2020-53;9.06
+UK (England);65to74;2021-01;14.3
+UK (England);65to74;2021-02;16.72
+UK (England);65to74;2021-03;15.92
+UK (England);65to74;2021-04;13.72
+UK (England);65to74;2021-05;9.47
+UK (England);65to74;2021-06;7.39
+UK (England);65to74;2021-07;6.45
+UK (England);65to74;2021-08;1.67
+UK (England);65to74;2021-09;0.63
+UK (England);65to74;2021-10;0.73
+UK (England);65to74;2021-11;-1.69
+UK (England);65to74;2021-12;-2.24
+UK (England);65to74;2021-13;-2.25
+UK (England);65to74;2021-14;-2.29
+UK (England);65to74;2021-15;-1.18
+UK (England);65to74;2021-16;-0.97
+UK (England);65to74;2021-17;-1.88
+UK (England);65to74;2021-18;-0.45
+UK (England);65to74;2021-19;-2.32
+UK (England);65to74;2021-20;-1.26
+UK (England);65to74;2021-21;-2.35
+UK (England);65to74;2021-22;-0.43
+UK (England);65to74;2021-23;-1.38
+UK (England);65to74;2021-24;-1.12
+UK (England);65to74;2021-25;-0.7
+UK (England);65to74;2021-26;1.52
+UK (England);65to74;2021-27;0.19
+UK (England);65to74;2021-28;1.64
+UK (England);65to74;2021-29;4.58
+UK (England);65to74;2021-30;2.43
+UK (England);65to74;2021-31;2.01
+UK (England);65to74;2021-32;3.32
+UK (England);65to74;2021-33;2.63
+UK (England);65to74;2021-34;2.68
+UK (England);65to74;2021-35;5.36
+UK (England);65to74;2021-36;5.91
+UK (England);65to74;2021-37;3.07
+UK (England);65to74;2021-38;2.31
+UK (England);65to74;2021-39;3.83
+UK (England);65to74;2021-40;3.57
+UK (England);65to74;2021-41;3.81
+UK (England);65to74;2021-42;3.1
+UK (England);65to74;2021-43;5.71
+UK (England);65to74;2021-44;4.63
+UK (England);65to74;2021-45;4.03
+UK (England);65to74;2021-46;2.54
+UK (England);65to74;2021-47;3.53
+UK (England);65to74;2021-48;6.16
+UK (England);65to74;2021-49;2.89
+UK (England);65to74;2021-50;2.31
+UK (England);65to74;2021-51;3.98
+UK (England);65to74;2021-52;3.56
+UK (England);65to74;2022-01;1.75
+UK (England);65to74;2022-02;3.41
+UK (England);65to74;2022-03;0.43
+UK (England);65to74;2022-04;0.67
+UK (England);65to74;2022-05;0.67
+UK (England);65to74;2022-06;-0.36
+UK (England);65to74;2022-07;0.62
+UK (England);65to74;2022-08;-0.92
+UK (England);65to74;2022-09;-0.15
+UK (England);65to74;2022-10;0.68
+UK (England);65to74;2022-11;-0.61
+UK (England);65to74;2022-12;-0.4
+UK (England);65to74;2022-13;1.47
+UK (England);65to74;2022-14;2.44
+UK (England);65to74;2022-15;1.65
+UK (England);65to74;2022-16;0.34
+UK (England);65to74;2022-17;1.19
+UK (England);65to74;2022-18;1.79
+UK (England);65to74;2022-19;1.06
+UK (England);65to74;2022-20;0.15
+UK (England);65to74;2022-21;-0.28
+UK (England);65to74;2022-22;0.17
+UK (England);65to74;2022-23;-0.41
+UK (England);65to74;2022-24;3.19
+UK (England);65to74;2022-25;1.56
+UK (England);65to74;2022-26;1.27
+UK (England);65to74;2022-27;1.96
+UK (England);65to74;2022-28;2.41
+UK (England);65to74;2022-29;4.95
+UK (England);65to74;2022-30;1.54
+UK (England);65to74;2022-31;0.36
+UK (England);65to74;2022-32;4.12
+UK (England);65to74;2022-33;1.72
+UK (England);65to74;2022-34;-0.04
+UK (England);65to74;2022-35;0.23
+UK (England);65to74;2022-36;-1.31
+UK (England);65to74;2022-37;-0.35
+UK (England);65to74;2022-38;0
+UK (England);65to74;2022-39;1.81
+UK (England);65to74;2022-40;2.64
+UK (England);65to74;2022-41;-0.3
+UK (England);65to74;2022-42;-5.3
+UK (Northern Ireland);65to74;2018-44;-0.85
+UK (Northern Ireland);65to74;2018-45;-1.25
+UK (Northern Ireland);65to74;2018-46;-1.8
+UK (Northern Ireland);65to74;2018-47;0.36
+UK (Northern Ireland);65to74;2018-48;1.91
+UK (Northern Ireland);65to74;2018-49;-0.79
+UK (Northern Ireland);65to74;2018-50;0.32
+UK (Northern Ireland);65to74;2018-51;1.96
+UK (Northern Ireland);65to74;2018-52;-0.8
+UK (Northern Ireland);65to74;2019-01;-0.09
+UK (Northern Ireland);65to74;2019-02;1.07
+UK (Northern Ireland);65to74;2019-03;0.36
+UK (Northern Ireland);65to74;2019-04;-0.65
+UK (Northern Ireland);65to74;2019-05;1.16
+UK (Northern Ireland);65to74;2019-06;2.95
+UK (Northern Ireland);65to74;2019-07;0.34
+UK (Northern Ireland);65to74;2019-08;1.25
+UK (Northern Ireland);65to74;2019-09;1.76
+UK (Northern Ireland);65to74;2019-10;1.3
+UK (Northern Ireland);65to74;2019-11;2.19
+UK (Northern Ireland);65to74;2019-12;0.69
+UK (Northern Ireland);65to74;2019-13;2.24
+UK (Northern Ireland);65to74;2019-14;0.97
+UK (Northern Ireland);65to74;2019-15;1.9
+UK (Northern Ireland);65to74;2019-16;0.84
+UK (Northern Ireland);65to74;2019-17;-1.36
+UK (Northern Ireland);65to74;2019-18;0.95
+UK (Northern Ireland);65to74;2019-19;-0.05
+UK (Northern Ireland);65to74;2019-20;-0.08
+UK (Northern Ireland);65to74;2019-21;-1.3
+UK (Northern Ireland);65to74;2019-22;-0.57
+UK (Northern Ireland);65to74;2019-23;0.12
+UK (Northern Ireland);65to74;2019-24;-0.48
+UK (Northern Ireland);65to74;2019-25;0.06
+UK (Northern Ireland);65to74;2019-26;2.55
+UK (Northern Ireland);65to74;2019-27;-1.01
+UK (Northern Ireland);65to74;2019-28;0.38
+UK (Northern Ireland);65to74;2019-29;-0.2
+UK (Northern Ireland);65to74;2019-30;-2.29
+UK (Northern Ireland);65to74;2019-31;-0.25
+UK (Northern Ireland);65to74;2019-32;1.21
+UK (Northern Ireland);65to74;2019-33;-0.71
+UK (Northern Ireland);65to74;2019-34;0.52
+UK (Northern Ireland);65to74;2019-35;-0.46
+UK (Northern Ireland);65to74;2019-36;-0.33
+UK (Northern Ireland);65to74;2019-37;-0.33
+UK (Northern Ireland);65to74;2019-38;-1.2
+UK (Northern Ireland);65to74;2019-39;1.57
+UK (Northern Ireland);65to74;2019-40;-1.34
+UK (Northern Ireland);65to74;2019-41;0.53
+UK (Northern Ireland);65to74;2019-42;0
+UK (Northern Ireland);65to74;2019-43;-0.69
+UK (Northern Ireland);65to74;2019-44;-0.23
+UK (Northern Ireland);65to74;2019-45;0.48
+UK (Northern Ireland);65to74;2019-46;-0.45
+UK (Northern Ireland);65to74;2019-47;1.44
+UK (Northern Ireland);65to74;2019-48;0.56
+UK (Northern Ireland);65to74;2019-49;1.73
+UK (Northern Ireland);65to74;2019-50;3.4
+UK (Northern Ireland);65to74;2019-51;2.71
+UK (Northern Ireland);65to74;2019-52;0.68
+UK (Northern Ireland);65to74;2020-01;1.09
+UK (Northern Ireland);65to74;2020-02;1.6
+UK (Northern Ireland);65to74;2020-03;1.74
+UK (Northern Ireland);65to74;2020-04;1.17
+UK (Northern Ireland);65to74;2020-05;1.08
+UK (Northern Ireland);65to74;2020-06;0.48
+UK (Northern Ireland);65to74;2020-07;1.74
+UK (Northern Ireland);65to74;2020-08;2.71
+UK (Northern Ireland);65to74;2020-09;1.18
+UK (Northern Ireland);65to74;2020-10;1.46
+UK (Northern Ireland);65to74;2020-11;1.98
+UK (Northern Ireland);65to74;2020-12;0.86
+UK (Northern Ireland);65to74;2020-13;2.02
+UK (Northern Ireland);65to74;2020-14;2.42
+UK (Northern Ireland);65to74;2020-15;3.66
+UK (Northern Ireland);65to74;2020-16;2.32
+UK (Northern Ireland);65to74;2020-17;0.73
+UK (Northern Ireland);65to74;2020-18;1.93
+UK (Northern Ireland);65to74;2020-19;2.95
+UK (Northern Ireland);65to74;2020-20;2.42
+UK (Northern Ireland);65to74;2020-21;1.34
+UK (Northern Ireland);65to74;2020-22;1.04
+UK (Northern Ireland);65to74;2020-23;1.81
+UK (Northern Ireland);65to74;2020-24;0.14
+UK (Northern Ireland);65to74;2020-25;0.8
+UK (Northern Ireland);65to74;2020-26;-0.06
+UK (Northern Ireland);65to74;2020-27;0.33
+UK (Northern Ireland);65to74;2020-28;-0.69
+UK (Northern Ireland);65to74;2020-29;0.13
+UK (Northern Ireland);65to74;2020-30;2.19
+UK (Northern Ireland);65to74;2020-31;0.08
+UK (Northern Ireland);65to74;2020-32;2.87
+UK (Northern Ireland);65to74;2020-33;0.18
+UK (Northern Ireland);65to74;2020-34;0.43
+UK (Northern Ireland);65to74;2020-35;1.21
+UK (Northern Ireland);65to74;2020-36;-1.28
+UK (Northern Ireland);65to74;2020-37;3.33
+UK (Northern Ireland);65to74;2020-38;1.99
+UK (Northern Ireland);65to74;2020-39;0.28
+UK (Northern Ireland);65to74;2020-40;0.83
+UK (Northern Ireland);65to74;2020-41;0.17
+UK (Northern Ireland);65to74;2020-42;0.59
+UK (Northern Ireland);65to74;2020-43;2.05
+UK (Northern Ireland);65to74;2020-44;2.19
+UK (Northern Ireland);65to74;2020-45;2.69
+UK (Northern Ireland);65to74;2020-46;2.46
+UK (Northern Ireland);65to74;2020-47;1.98
+UK (Northern Ireland);65to74;2020-48;1.87
+UK (Northern Ireland);65to74;2020-49;1.39
+UK (Northern Ireland);65to74;2020-50;2.38
+UK (Northern Ireland);65to74;2020-51;2.15
+UK (Northern Ireland);65to74;2020-52;2.4
+UK (Northern Ireland);65to74;2020-53;1.48
+UK (Northern Ireland);65to74;2021-01;4.63
+UK (Northern Ireland);65to74;2021-02;3.79
+UK (Northern Ireland);65to74;2021-03;3.27
+UK (Northern Ireland);65to74;2021-04;2.63
+UK (Northern Ireland);65to74;2021-05;2.54
+UK (Northern Ireland);65to74;2021-06;2.46
+UK (Northern Ireland);65to74;2021-07;0.3
+UK (Northern Ireland);65to74;2021-08;2.05
+UK (Northern Ireland);65to74;2021-09;0.2
+UK (Northern Ireland);65to74;2021-10;1.87
+UK (Northern Ireland);65to74;2021-11;1.39
+UK (Northern Ireland);65to74;2021-12;1.28
+UK (Northern Ireland);65to74;2021-13;0.63
+UK (Northern Ireland);65to74;2021-14;0.22
+UK (Northern Ireland);65to74;2021-15;1.3
+UK (Northern Ireland);65to74;2021-16;1.16
+UK (Northern Ireland);65to74;2021-17;2.33
+UK (Northern Ireland);65to74;2021-18;2.7
+UK (Northern Ireland);65to74;2021-19;2.93
+UK (Northern Ireland);65to74;2021-20;0.55
+UK (Northern Ireland);65to74;2021-21;0.24
+UK (Northern Ireland);65to74;2021-22;0.35
+UK (Northern Ireland);65to74;2021-23;1.92
+UK (Northern Ireland);65to74;2021-24;0.84
+UK (Northern Ireland);65to74;2021-25;1.46
+UK (Northern Ireland);65to74;2021-26;1.43
+UK (Northern Ireland);65to74;2021-27;-1.36
+UK (Northern Ireland);65to74;2021-28;0.97
+UK (Northern Ireland);65to74;2021-29;1.33
+UK (Northern Ireland);65to74;2021-30;0.53
+UK (Northern Ireland);65to74;2021-31;1.91
+UK (Northern Ireland);65to74;2021-32;0.22
+UK (Northern Ireland);65to74;2021-33;0.61
+UK (Northern Ireland);65to74;2021-34;2.37
+UK (Northern Ireland);65to74;2021-35;2.61
+UK (Northern Ireland);65to74;2021-36;3.56
+UK (Northern Ireland);65to74;2021-37;1.88
+UK (Northern Ireland);65to74;2021-38;2.14
+UK (Northern Ireland);65to74;2021-39;2.52
+UK (Northern Ireland);65to74;2021-40;0.48
+UK (Northern Ireland);65to74;2021-41;2.42
+UK (Northern Ireland);65to74;2021-42;3.16
+UK (Northern Ireland);65to74;2021-43;2.07
+UK (Northern Ireland);65to74;2021-44;3.4
+UK (Northern Ireland);65to74;2021-45;2.22
+UK (Northern Ireland);65to74;2021-46;1.99
+UK (Northern Ireland);65to74;2021-47;1.51
+UK (Northern Ireland);65to74;2021-48;2.84
+UK (Northern Ireland);65to74;2021-49;2.03
+UK (Northern Ireland);65to74;2021-50;3.42
+UK (Northern Ireland);65to74;2021-51;0.86
+UK (Northern Ireland);65to74;2021-52;2.88
+UK (Northern Ireland);65to74;2022-01;3.01
+UK (Northern Ireland);65to74;2022-02;1.3
+UK (Northern Ireland);65to74;2022-03;0.97
+UK (Northern Ireland);65to74;2022-04;3.07
+UK (Northern Ireland);65to74;2022-05;2.43
+UK (Northern Ireland);65to74;2022-06;1.76
+UK (Northern Ireland);65to74;2022-07;1.43
+UK (Northern Ireland);65to74;2022-08;0.97
+UK (Northern Ireland);65to74;2022-09;2.32
+UK (Northern Ireland);65to74;2022-10;2.11
+UK (Northern Ireland);65to74;2022-11;2.61
+UK (Northern Ireland);65to74;2022-12;2.15
+UK (Northern Ireland);65to74;2022-13;1.3
+UK (Northern Ireland);65to74;2022-14;2.31
+UK (Northern Ireland);65to74;2022-15;0.24
+UK (Northern Ireland);65to74;2022-16;0.74
+UK (Northern Ireland);65to74;2022-17;2.08
+UK (Northern Ireland);65to74;2022-18;2.21
+UK (Northern Ireland);65to74;2022-19;1.81
+UK (Northern Ireland);65to74;2022-20;0.14
+UK (Northern Ireland);65to74;2022-21;-0.3
+UK (Northern Ireland);65to74;2022-22;0.79
+UK (Northern Ireland);65to74;2022-23;1
+UK (Northern Ireland);65to74;2022-24;1.87
+UK (Northern Ireland);65to74;2022-25;2.8
+UK (Northern Ireland);65to74;2022-26;2.78
+UK (Northern Ireland);65to74;2022-27;0.6
+UK (Northern Ireland);65to74;2022-28;0.83
+UK (Northern Ireland);65to74;2022-29;0.12
+UK (Northern Ireland);65to74;2022-30;0.31
+UK (Northern Ireland);65to74;2022-31;0.17
+UK (Northern Ireland);65to74;2022-32;1.56
+UK (Northern Ireland);65to74;2022-33;-0.05
+UK (Northern Ireland);65to74;2022-34;1.08
+UK (Northern Ireland);65to74;2022-35;-0.03
+UK (Northern Ireland);65to74;2022-36;2
+UK (Northern Ireland);65to74;2022-37;0.02
+UK (Northern Ireland);65to74;2022-38;-0.88
+UK (Northern Ireland);65to74;2022-39;0.45
+UK (Northern Ireland);65to74;2022-40;1.23
+UK (Northern Ireland);65to74;2022-41;1.77
+UK (Northern Ireland);65to74;2022-42;-1.09
+UK (Scotland);65to74;2018-44;-0.56
+UK (Scotland);65to74;2018-45;1.92
+UK (Scotland);65to74;2018-46;-0.39
+UK (Scotland);65to74;2018-47;0.52
+UK (Scotland);65to74;2018-48;2.27
+UK (Scotland);65to74;2018-49;0.24
+UK (Scotland);65to74;2018-50;1.2
+UK (Scotland);65to74;2018-51;0.54
+UK (Scotland);65to74;2018-52;3.13
+UK (Scotland);65to74;2019-01;1.2
+UK (Scotland);65to74;2019-02;2.65
+UK (Scotland);65to74;2019-03;0.59
+UK (Scotland);65to74;2019-04;1.08
+UK (Scotland);65to74;2019-05;0.48
+UK (Scotland);65to74;2019-06;-0.4
+UK (Scotland);65to74;2019-07;2.21
+UK (Scotland);65to74;2019-08;0.44
+UK (Scotland);65to74;2019-09;-0.83
+UK (Scotland);65to74;2019-10;1.78
+UK (Scotland);65to74;2019-11;0.01
+UK (Scotland);65to74;2019-12;-0.09
+UK (Scotland);65to74;2019-13;-0.25
+UK (Scotland);65to74;2019-14;-0.17
+UK (Scotland);65to74;2019-15;-0.75
+UK (Scotland);65to74;2019-16;-1.34
+UK (Scotland);65to74;2019-17;-0.39
+UK (Scotland);65to74;2019-18;-0.24
+UK (Scotland);65to74;2019-19;0.89
+UK (Scotland);65to74;2019-20;0.87
+UK (Scotland);65to74;2019-21;0.25
+UK (Scotland);65to74;2019-22;-0.32
+UK (Scotland);65to74;2019-23;-0.83
+UK (Scotland);65to74;2019-24;-0.23
+UK (Scotland);65to74;2019-25;1.9
+UK (Scotland);65to74;2019-26;0.58
+UK (Scotland);65to74;2019-27;-0.72
+UK (Scotland);65to74;2019-28;0.65
+UK (Scotland);65to74;2019-29;0.44
+UK (Scotland);65to74;2019-30;-0.26
+UK (Scotland);65to74;2019-31;0
+UK (Scotland);65to74;2019-32;-0.53
+UK (Scotland);65to74;2019-33;0.81
+UK (Scotland);65to74;2019-34;-0.64
+UK (Scotland);65to74;2019-35;-1.72
+UK (Scotland);65to74;2019-36;-0.46
+UK (Scotland);65to74;2019-37;-0.41
+UK (Scotland);65to74;2019-38;0.75
+UK (Scotland);65to74;2019-39;-0.7
+UK (Scotland);65to74;2019-40;-0.34
+UK (Scotland);65to74;2019-41;0.25
+UK (Scotland);65to74;2019-42;0.7
+UK (Scotland);65to74;2019-43;-0.19
+UK (Scotland);65to74;2019-44;0.43
+UK (Scotland);65to74;2019-45;0.56
+UK (Scotland);65to74;2019-46;0.69
+UK (Scotland);65to74;2019-47;-0.54
+UK (Scotland);65to74;2019-48;-0.28
+UK (Scotland);65to74;2019-49;0.58
+UK (Scotland);65to74;2019-50;2.15
+UK (Scotland);65to74;2019-51;2.08
+UK (Scotland);65to74;2019-52;0.81
+UK (Scotland);65to74;2020-01;1.03
+UK (Scotland);65to74;2020-02;1.45
+UK (Scotland);65to74;2020-03;0.11
+UK (Scotland);65to74;2020-04;0.86
+UK (Scotland);65to74;2020-05;0.63
+UK (Scotland);65to74;2020-06;1.78
+UK (Scotland);65to74;2020-07;1.16
+UK (Scotland);65to74;2020-08;0.9
+UK (Scotland);65to74;2020-09;-0.48
+UK (Scotland);65to74;2020-10;0.91
+UK (Scotland);65to74;2020-11;1.03
+UK (Scotland);65to74;2020-12;1.89
+UK (Scotland);65to74;2020-13;2.61
+UK (Scotland);65to74;2020-14;6.58
+UK (Scotland);65to74;2020-15;4.79
+UK (Scotland);65to74;2020-16;4.66
+UK (Scotland);65to74;2020-17;4.06
+UK (Scotland);65to74;2020-18;4.23
+UK (Scotland);65to74;2020-19;1.43
+UK (Scotland);65to74;2020-20;1.19
+UK (Scotland);65to74;2020-21;-1.03
+UK (Scotland);65to74;2020-22;1.68
+UK (Scotland);65to74;2020-23;0.21
+UK (Scotland);65to74;2020-24;-1.14
+UK (Scotland);65to74;2020-25;-0.55
+UK (Scotland);65to74;2020-26;-0.45
+UK (Scotland);65to74;2020-27;-0.47
+UK (Scotland);65to74;2020-28;-0.02
+UK (Scotland);65to74;2020-29;-0.34
+UK (Scotland);65to74;2020-30;-0.67
+UK (Scotland);65to74;2020-31;-0.35
+UK (Scotland);65to74;2020-32;0.37
+UK (Scotland);65to74;2020-33;-0.93
+UK (Scotland);65to74;2020-34;1.67
+UK (Scotland);65to74;2020-35;0.81
+UK (Scotland);65to74;2020-36;0.81
+UK (Scotland);65to74;2020-37;0.21
+UK (Scotland);65to74;2020-38;-2.16
+UK (Scotland);65to74;2020-39;0.42
+UK (Scotland);65to74;2020-40;0.4
+UK (Scotland);65to74;2020-41;-0.6
+UK (Scotland);65to74;2020-42;1.62
+UK (Scotland);65to74;2020-43;2.43
+UK (Scotland);65to74;2020-44;2.31
+UK (Scotland);65to74;2020-45;1.41
+UK (Scotland);65to74;2020-46;4
+UK (Scotland);65to74;2020-47;1.79
+UK (Scotland);65to74;2020-48;2.78
+UK (Scotland);65to74;2020-49;2.13
+UK (Scotland);65to74;2020-50;2.41
+UK (Scotland);65to74;2020-51;1.32
+UK (Scotland);65to74;2020-52;3.55
+UK (Scotland);65to74;2020-53;2.8
+UK (Scotland);65to74;2021-01;2.98
+UK (Scotland);65to74;2021-02;3.96
+UK (Scotland);65to74;2021-03;3.49
+UK (Scotland);65to74;2021-04;2.18
+UK (Scotland);65to74;2021-05;3.06
+UK (Scotland);65to74;2021-06;3.43
+UK (Scotland);65to74;2021-07;2.2
+UK (Scotland);65to74;2021-08;0.67
+UK (Scotland);65to74;2021-09;0.26
+UK (Scotland);65to74;2021-10;-0.91
+UK (Scotland);65to74;2021-11;0.12
+UK (Scotland);65to74;2021-12;1.24
+UK (Scotland);65to74;2021-13;-1.69
+UK (Scotland);65to74;2021-14;-0.05
+UK (Scotland);65to74;2021-15;-0.07
+UK (Scotland);65to74;2021-16;-0.96
+UK (Scotland);65to74;2021-17;-0.87
+UK (Scotland);65to74;2021-18;1.87
+UK (Scotland);65to74;2021-19;-0.05
+UK (Scotland);65to74;2021-20;0.68
+UK (Scotland);65to74;2021-21;0.04
+UK (Scotland);65to74;2021-22;0.82
+UK (Scotland);65to74;2021-23;0.75
+UK (Scotland);65to74;2021-24;0.73
+UK (Scotland);65to74;2021-25;-0.03
+UK (Scotland);65to74;2021-26;0.29
+UK (Scotland);65to74;2021-27;1.93
+UK (Scotland);65to74;2021-28;0.75
+UK (Scotland);65to74;2021-29;0.6
+UK (Scotland);65to74;2021-30;-0.46
+UK (Scotland);65to74;2021-31;0.65
+UK (Scotland);65to74;2021-32;0.21
+UK (Scotland);65to74;2021-33;0.67
+UK (Scotland);65to74;2021-34;0.84
+UK (Scotland);65to74;2021-35;1.57
+UK (Scotland);65to74;2021-36;3.2
+UK (Scotland);65to74;2021-37;3.15
+UK (Scotland);65to74;2021-38;1.77
+UK (Scotland);65to74;2021-39;2.79
+UK (Scotland);65to74;2021-40;1.16
+UK (Scotland);65to74;2021-41;4
+UK (Scotland);65to74;2021-42;2.78
+UK (Scotland);65to74;2021-43;4.95
+UK (Scotland);65to74;2021-44;2.51
+UK (Scotland);65to74;2021-45;1.64
+UK (Scotland);65to74;2021-46;2.11
+UK (Scotland);65to74;2021-47;1.26
+UK (Scotland);65to74;2021-48;2.02
+UK (Scotland);65to74;2021-49;2
+UK (Scotland);65to74;2021-50;3.14
+UK (Scotland);65to74;2021-51;1.03
+UK (Scotland);65to74;2021-52;1.76
+UK (Scotland);65to74;2022-01;2.79
+UK (Scotland);65to74;2022-02;2
+UK (Scotland);65to74;2022-03;0.52
+UK (Scotland);65to74;2022-04;0.25
+UK (Scotland);65to74;2022-05;1.39
+UK (Scotland);65to74;2022-06;2.12
+UK (Scotland);65to74;2022-07;0.5
+UK (Scotland);65to74;2022-08;-0.25
+UK (Scotland);65to74;2022-09;0.09
+UK (Scotland);65to74;2022-10;0.25
+UK (Scotland);65to74;2022-11;0.51
+UK (Scotland);65to74;2022-12;0.78
+UK (Scotland);65to74;2022-13;0.5
+UK (Scotland);65to74;2022-14;1.04
+UK (Scotland);65to74;2022-15;1.08
+UK (Scotland);65to74;2022-16;-0.54
+UK (Scotland);65to74;2022-17;-0.46
+UK (Scotland);65to74;2022-18;1.15
+UK (Scotland);65to74;2022-19;1.14
+UK (Scotland);65to74;2022-20;0.48
+UK (Scotland);65to74;2022-21;-0.59
+UK (Scotland);65to74;2022-22;0.12
+UK (Scotland);65to74;2022-23;1.19
+UK (Scotland);65to74;2022-24;0.26
+UK (Scotland);65to74;2022-25;1.26
+UK (Scotland);65to74;2022-26;0.05
+UK (Scotland);65to74;2022-27;0.14
+UK (Scotland);65to74;2022-28;1.09
+UK (Scotland);65to74;2022-29;0.69
+UK (Scotland);65to74;2022-30;-0.5
+UK (Scotland);65to74;2022-31;1
+UK (Scotland);65to74;2022-32;1.6
+UK (Scotland);65to74;2022-33;0.59
+UK (Scotland);65to74;2022-34;0.92
+UK (Scotland);65to74;2022-35;-0.18
+UK (Scotland);65to74;2022-36;1.24
+UK (Scotland);65to74;2022-37;0.14
+UK (Scotland);65to74;2022-38;1.22
+UK (Scotland);65to74;2022-39;1.29
+UK (Scotland);65to74;2022-40;1
+UK (Scotland);65to74;2022-41;0.48
+UK (Scotland);65to74;2022-42;0.83
+UK (Wales);65to74;2018-44;-1.33
+UK (Wales);65to74;2018-45;-0.33
+UK (Wales);65to74;2018-46;0.2
+UK (Wales);65to74;2018-47;-0.5
+UK (Wales);65to74;2018-48;-0.13
+UK (Wales);65to74;2018-49;-0.62
+UK (Wales);65to74;2018-50;-1.34
+UK (Wales);65to74;2018-51;1.23
+UK (Wales);65to74;2018-52;-0.83
+UK (Wales);65to74;2019-01;-0.65
+UK (Wales);65to74;2019-02;1.25
+UK (Wales);65to74;2019-03;0.03
+UK (Wales);65to74;2019-04;-0.04
+UK (Wales);65to74;2019-05;0.54
+UK (Wales);65to74;2019-06;0.28
+UK (Wales);65to74;2019-07;-0.1
+UK (Wales);65to74;2019-08;-0.94
+UK (Wales);65to74;2019-09;-0.8
+UK (Wales);65to74;2019-10;-1.58
+UK (Wales);65to74;2019-11;-0.4
+UK (Wales);65to74;2019-12;-1.83
+UK (Wales);65to74;2019-13;-1.66
+UK (Wales);65to74;2019-14;-0.96
+UK (Wales);65to74;2019-15;0.41
+UK (Wales);65to74;2019-16;1.61
+UK (Wales);65to74;2019-17;-0.75
+UK (Wales);65to74;2019-18;0.42
+UK (Wales);65to74;2019-19;0.74
+UK (Wales);65to74;2019-20;-0.18
+UK (Wales);65to74;2019-21;-1.43
+UK (Wales);65to74;2019-22;0.85
+UK (Wales);65to74;2019-23;0.25
+UK (Wales);65to74;2019-24;-0.01
+UK (Wales);65to74;2019-25;-0.21
+UK (Wales);65to74;2019-26;-0.05
+UK (Wales);65to74;2019-27;0.62
+UK (Wales);65to74;2019-28;0.21
+UK (Wales);65to74;2019-29;-0.77
+UK (Wales);65to74;2019-30;0.06
+UK (Wales);65to74;2019-31;-0.13
+UK (Wales);65to74;2019-32;0.64
+UK (Wales);65to74;2019-33;1.2
+UK (Wales);65to74;2019-34;1.4
+UK (Wales);65to74;2019-35;1.5
+UK (Wales);65to74;2019-36;-0.7
+UK (Wales);65to74;2019-37;0.89
+UK (Wales);65to74;2019-38;0.87
+UK (Wales);65to74;2019-39;1.6
+UK (Wales);65to74;2019-40;0.1
+UK (Wales);65to74;2019-41;0.05
+UK (Wales);65to74;2019-42;-0.27
+UK (Wales);65to74;2019-43;0.45
+UK (Wales);65to74;2019-44;-1.59
+UK (Wales);65to74;2019-45;-0.25
+UK (Wales);65to74;2019-46;-1.22
+UK (Wales);65to74;2019-47;-0.67
+UK (Wales);65to74;2019-48;-0.37
+UK (Wales);65to74;2019-49;0.07
+UK (Wales);65to74;2019-50;-0.1
+UK (Wales);65to74;2019-51;-0.41
+UK (Wales);65to74;2019-52;0.55
+UK (Wales);65to74;2020-01;0.91
+UK (Wales);65to74;2020-02;-0.55
+UK (Wales);65to74;2020-03;0.63
+UK (Wales);65to74;2020-04;-0.86
+UK (Wales);65to74;2020-05;0.56
+UK (Wales);65to74;2020-06;0.1
+UK (Wales);65to74;2020-07;-1.23
+UK (Wales);65to74;2020-08;-0.81
+UK (Wales);65to74;2020-09;-0.83
+UK (Wales);65to74;2020-10;-0.3
+UK (Wales);65to74;2020-11;-0.9
+UK (Wales);65to74;2020-12;-0.41
+UK (Wales);65to74;2020-13;3.81
+UK (Wales);65to74;2020-14;4.61
+UK (Wales);65to74;2020-15;4.74
+UK (Wales);65to74;2020-16;4.58
+UK (Wales);65to74;2020-17;2.92
+UK (Wales);65to74;2020-18;-0.06
+UK (Wales);65to74;2020-19;2.38
+UK (Wales);65to74;2020-20;0.71
+UK (Wales);65to74;2020-21;0.33
+UK (Wales);65to74;2020-22;-0.61
+UK (Wales);65to74;2020-23;0.89
+UK (Wales);65to74;2020-24;0.38
+UK (Wales);65to74;2020-25;-0.88
+UK (Wales);65to74;2020-26;-0.18
+UK (Wales);65to74;2020-27;0.14
+UK (Wales);65to74;2020-28;0.35
+UK (Wales);65to74;2020-29;1.48
+UK (Wales);65to74;2020-30;0.46
+UK (Wales);65to74;2020-31;-0.25
+UK (Wales);65to74;2020-32;0.77
+UK (Wales);65to74;2020-33;0.99
+UK (Wales);65to74;2020-34;-0.02
+UK (Wales);65to74;2020-35;-0.35
+UK (Wales);65to74;2020-36;-0.26
+UK (Wales);65to74;2020-37;-0.71
+UK (Wales);65to74;2020-38;1.01
+UK (Wales);65to74;2020-39;1.48
+UK (Wales);65to74;2020-40;0.6
+UK (Wales);65to74;2020-41;-0.74
+UK (Wales);65to74;2020-42;2.04
+UK (Wales);65to74;2020-43;4.1
+UK (Wales);65to74;2020-44;7.96
+UK (Wales);65to74;2020-45;2.49
+UK (Wales);65to74;2020-46;1.42
+UK (Wales);65to74;2020-47;-0.19
+UK (Wales);65to74;2020-48;1.06
+UK (Wales);65to74;2020-49;0.79
+UK (Wales);65to74;2020-50;1.12
+UK (Wales);65to74;2020-51;3.7
+UK (Wales);65to74;2020-52;2.35
+UK (Wales);65to74;2020-53;5.07
+UK (Wales);65to74;2021-01;3.34
+UK (Wales);65to74;2021-02;2.67
+UK (Wales);65to74;2021-03;1.44
+UK (Wales);65to74;2021-04;0.78
+UK (Wales);65to74;2021-05;0.2
+UK (Wales);65to74;2021-06;1.11
+UK (Wales);65to74;2021-07;0.02
+UK (Wales);65to74;2021-08;0.36
+UK (Wales);65to74;2021-09;-0.85
+UK (Wales);65to74;2021-10;0.18
+UK (Wales);65to74;2021-11;-1.06
+UK (Wales);65to74;2021-12;-2.41
+UK (Wales);65to74;2021-13;-0.78
+UK (Wales);65to74;2021-14;-1.31
+UK (Wales);65to74;2021-15;-1.53
+UK (Wales);65to74;2021-16;0.08
+UK (Wales);65to74;2021-17;-1.55
+UK (Wales);65to74;2021-18;0.51
+UK (Wales);65to74;2021-19;-0.88
+UK (Wales);65to74;2021-20;-0.07
+UK (Wales);65to74;2021-21;-0.91
+UK (Wales);65to74;2021-22;-0.72
+UK (Wales);65to74;2021-23;0.58
+UK (Wales);65to74;2021-24;1.57
+UK (Wales);65to74;2021-25;-0.56
+UK (Wales);65to74;2021-26;0.44
+UK (Wales);65to74;2021-27;0.81
+UK (Wales);65to74;2021-28;0.41
+UK (Wales);65to74;2021-29;1.42
+UK (Wales);65to74;2021-30;0.16
+UK (Wales);65to74;2021-31;1.87
+UK (Wales);65to74;2021-32;-1.57
+UK (Wales);65to74;2021-33;1.63
+UK (Wales);65to74;2021-34;-0.44
+UK (Wales);65to74;2021-35;0.75
+UK (Wales);65to74;2021-36;1.32
+UK (Wales);65to74;2021-37;0.39
+UK (Wales);65to74;2021-38;-0.4
+UK (Wales);65to74;2021-39;2.56
+UK (Wales);65to74;2021-40;1.33
+UK (Wales);65to74;2021-41;0.79
+UK (Wales);65to74;2021-42;2.2
+UK (Wales);65to74;2021-43;3.44
+UK (Wales);65to74;2021-44;2.04
+UK (Wales);65to74;2021-45;0.77
+UK (Wales);65to74;2021-46;0.41
+UK (Wales);65to74;2021-47;0.95
+UK (Wales);65to74;2021-48;1.81
+UK (Wales);65to74;2021-49;0.44
+UK (Wales);65to74;2021-50;0.84
+UK (Wales);65to74;2021-51;1.02
+UK (Wales);65to74;2021-52;0.36
+UK (Wales);65to74;2022-01;0.71
+UK (Wales);65to74;2022-02;1.38
+UK (Wales);65to74;2022-03;-1.36
+UK (Wales);65to74;2022-04;-1.14
+UK (Wales);65to74;2022-05;-0.99
+UK (Wales);65to74;2022-06;-0.61
+UK (Wales);65to74;2022-07;-1.33
+UK (Wales);65to74;2022-08;0.04
+UK (Wales);65to74;2022-09;-0.72
+UK (Wales);65to74;2022-10;-2.05
+UK (Wales);65to74;2022-11;-1.98
+UK (Wales);65to74;2022-12;-0.46
+UK (Wales);65to74;2022-13;-0.12
+UK (Wales);65to74;2022-14;1.03
+UK (Wales);65to74;2022-15;-0.73
+UK (Wales);65to74;2022-16;1.03
+UK (Wales);65to74;2022-17;-0.18
+UK (Wales);65to74;2022-18;-1.1
+UK (Wales);65to74;2022-19;0.55
+UK (Wales);65to74;2022-20;-0.14
+UK (Wales);65to74;2022-21;-0.14
+UK (Wales);65to74;2022-22;0.47
+UK (Wales);65to74;2022-23;0.12
+UK (Wales);65to74;2022-24;0.42
+UK (Wales);65to74;2022-25;-0.27
+UK (Wales);65to74;2022-26;0.72
+UK (Wales);65to74;2022-27;-0.59
+UK (Wales);65to74;2022-28;1.23
+UK (Wales);65to74;2022-29;2.51
+UK (Wales);65to74;2022-30;0.5
+UK (Wales);65to74;2022-31;0.09
+UK (Wales);65to74;2022-32;1.29
+UK (Wales);65to74;2022-33;-0.32
+UK (Wales);65to74;2022-34;0.92
+UK (Wales);65to74;2022-35;-0.09
+UK (Wales);65to74;2022-36;0.36
+UK (Wales);65to74;2022-37;-0.25
+UK (Wales);65to74;2022-38;-0.48
+UK (Wales);65to74;2022-39;-0.25
+UK (Wales);65to74;2022-40;1.18
+UK (Wales);65to74;2022-41;-0.51
+UK (Wales);65to74;2022-42;-1.09
