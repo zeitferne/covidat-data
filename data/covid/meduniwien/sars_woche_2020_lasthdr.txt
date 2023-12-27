@@ -1,10 +1,10 @@
-Date: Mon, 18 Dec 2023 17:28:36 GMT
+Date: Wed, 27 Dec 2023 17:27:16 GMT
 Server: Apache
-Last-Modified: Mon, 18 Dec 2023 06:39:09 GMT
+Last-Modified: Wed, 27 Dec 2023 17:13:41 GMT
 Accept-Ranges: bytes
-Content-Length: 114181
+Content-Length: 97045
 Cache-Control: max-age=2592000
-Expires: Wed, 17 Jan 2024 17:28:36 GMT
+Expires: Fri, 26 Jan 2024 17:27:16 GMT
 X-Content-Type-Options: nosniff
 Connection: close
 Content-Type: image/jpeg
