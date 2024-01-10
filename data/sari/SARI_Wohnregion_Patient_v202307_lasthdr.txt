@@ -1,16 +1,19 @@
-Content-Length: 428716
-Content-Type: application/octet-stream
-Content-MD5: enahd3CA79zNav/PQrGEPQ==
-Last-Modified: Thu, 04 Jan 2024 08:00:05 GMT
-ETag: 0x8DC0CFB299EF151
-x-ms-request-id: af31c408-101e-008c-42f7-3e0832000000
+Date: Wed, 10 Jan 2024 09:03:46 GMT
+Content-Type: text/csv
+Content-Length: 441121
+Connection: close
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Last-Modified: Wed, 10 Jan 2024 08:55:42 GMT
+ETag: 0x8DC11B9ED3F50B9
+x-ms-request-id: 8d0f197d-e01e-0098-4fa3-43405d000000
 x-ms-version: 2009-09-19
 x-ms-lease-status: unlocked
 x-ms-blob-type: BlockBlob
 Access-Control-Allow-Origin: *
-X-Cache: CONFIG_NOCACHE
-X-Azure-Ref: 
- 09oaWZQAAAABAGRQx4O/pR4yRnIcSNDDWQ0gxQUEyMDIwNjA4MDUxADc4MGY1ZTRmLWMyOWQtNGY3MC1hNGMzLTIxYzNiNDlmYWVmYw==
-Date: Thu, 04 Jan 2024 10:22:46 GMT
-Connection: close
+x-azure-ref: 20240110T090345Z-49qb5ka5gx4ud5x75f15v86t0800000000yg000000000ype
+X-Cache: TCP_MISS
+Accept-Ranges: bytes
 
