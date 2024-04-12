@@ -1,11 +1,8 @@
-Date: Thu, 04 Apr 2024 17:26:49 GMT
+Date: Fri, 12 Apr 2024 17:28:33 GMT
 Server: Apache
-Last-Modified: Thu, 04 Apr 2024 12:20:17 GMT
-Accept-Ranges: bytes
-Content-Length: 107104
-Cache-Control: max-age=2592000
-Expires: Sat, 04 May 2024 17:26:49 GMT
-X-Content-Type-Options: nosniff
+Content-Language: de
+Cache-Control: private, no-store
 Connection: close
-Content-Type: image/jpeg
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
 
