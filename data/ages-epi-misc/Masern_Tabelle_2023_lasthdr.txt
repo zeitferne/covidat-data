@@ -1,0 +1,24 @@
+Date: Sat, 20 Apr 2024 14:53:04 GMT
+Server: Apache
+Pragma: private
+Expires: 0
+Cache-Control: must-revalidate, post-check=0, pre-check=0
+Content-Disposition: attachment; filename="Masern_Tabelle_2023.csv"
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
+ blob: cdn.jsdelivr.net *.friendlycaptcha.eu;
+Content-Length: 1389
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: same-origin
+Permissions-Policy: geolocation=(), midi=(),sync-xhr=(),accelerometer=(),
+ gyroscope=(), magnetometer=(), camera=(), fullscreen=(self)
+Feature-Policy: geolocation 'self'; vibrate 'none'
+X-UA-Compatible: IE=edge
+Connection: close
+Content-Type: text/plain;charset=UTF-8
+Set-Cookie: SERVERID=s1|ZiPW0|ZiPW0; path=/; HttpOnly; Secure
+Cache-control: private
+

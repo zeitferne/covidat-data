@@ -1,8 +1,11 @@
-Date: Fri, 12 Apr 2024 17:28:31 GMT
+Date: Sat, 20 Apr 2024 14:53:03 GMT
 Server: Apache
-Content-Language: de
-Cache-Control: private, no-store
+Last-Modified: Mon, 08 Apr 2024 11:50:52 GMT
+ETag: "e01f-615946adf0971"
+Accept-Ranges: bytes
+Content-Length: 57375
+Content-Security-Policy: default-src 'self'; script-src 'none';
+ style-src 'none'; object-src 'none';
 Connection: close
-Transfer-Encoding: chunked
-Content-Type: text/html; charset=utf-8
+Content-Type: image/jpeg
 
