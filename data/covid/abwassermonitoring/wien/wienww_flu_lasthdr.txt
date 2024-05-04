@@ -1,0 +1,13 @@
+Date: Sat, 04 May 2024 12:43:29 GMT
+Server: Magistrat der Stadt Wien - Web Gateway
+Contentsecurity-Policy: default-src 'self'
+Etag: W/"751-86bSzydJD0WnoWWOArDnYTzH4oI"
+Cache-Control: must-revalidate
+Content-Disposition: attachment;
+ filename="Influenza Virenfracht (Sonntagswerte)_2024-4-4 5_28.csv"
+Content-Type: text/csv;charset=utf-8
+Content-Length: 1873
+Keep-Alive: timeout=15, max=280
+Connection: Keep-Alive
+Strict-Transport-Security: max-age=31536000
+
