@@ -1,9 +1,9 @@
 Server: nginx
-Date: Fri, 14 Jun 2024 17:31:27 GMT
+Date: Sat, 22 Jun 2024 17:27:49 GMT
 Content-Type: image/jpeg
-Content-Length: 195828
-Last-Modified: Fri, 14 Jun 2024 06:48:31 GMT
+Content-Length: 162361
+Last-Modified: Sat, 22 Jun 2024 06:37:05 GMT
 Connection: close
-ETag: "666be7bf-2fcf4"
+ETag: "66767111-27a39"
 Accept-Ranges: bytes
 
