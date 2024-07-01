@@ -1,9 +1,9 @@
-Date: Mon, 17 Jun 2024 17:29:09 GMT
+Date: Mon, 01 Jul 2024 17:30:11 GMT
 Server: Apache
-Last-Modified: Mon, 17 Jun 2024 05:11:57 GMT
-ETag: "212ec-61b0f0121553b"
+Last-Modified: Mon, 01 Jul 2024 11:05:09 GMT
+ETag: "1f181-61c2d92027a2f"
 Accept-Ranges: bytes
-Content-Length: 135916
+Content-Length: 127361
 Content-Security-Policy: default-src 'self'; script-src 'none';
  style-src 'none'; object-src 'none';
 Connection: close
