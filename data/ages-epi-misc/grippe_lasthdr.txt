@@ -1,10 +1,12 @@
-Date: Fri, 05 Jul 2024 03:30:14 GMT
+Date: Fri, 05 Jul 2024 17:30:06 GMT
 Server: Apache
 Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
  blob: cdn.jsdelivr.net *.friendlycaptcha.eu;
+Last-Modified: Fri, 05 Jul 2024 03:30:15 GMT
+Accept-Ranges: bytes
 Content-Length: 458184
 Cache-Control: max-age=0
-Expires: Fri, 05 Jul 2024 03:30:14 GMT
+Expires: Fri, 05 Jul 2024 17:30:06 GMT
 Vary: Accept-Encoding
 Strict-Transport-Security: max-age=31536000
 X-XSS-Protection: 1; mode=block
@@ -15,7 +17,8 @@ Permissions-Policy: geolocation=(), midi=(),sync-xhr=(),accelerometer=(),
  gyroscope=(), magnetometer=(), camera=(), fullscreen=(self)
 Feature-Policy: geolocation 'self'; vibrate 'none'
 X-UA-Compatible: IE=edge
+X-SFC-Tags: tt_address_258, pageId_1200
 Connection: close
-Content-Type: text/html; charset=UTF-8
-Set-Cookie: SERVERID=s2|Zodoy|Zodoy; path=/; HttpOnly; Secure
+Content-Type: text/html; charset=utf-8
+Set-Cookie: SERVERID=s2|Zogto|Zogto; path=/; HttpOnly; Secure
 
