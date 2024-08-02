@@ -1,4 +1,4 @@
-Date: Tue, 30 Jul 2024 10:28:53 GMT
+Date: Fri, 02 Aug 2024 17:29:06 GMT
 Server: Apache
 Pragma: private
 Expires: 0
@@ -19,6 +19,6 @@ Feature-Policy: geolocation 'self'; vibrate 'none'
 X-UA-Compatible: IE=edge
 Connection: close
 Content-Type: text/plain;charset=UTF-8
-Set-Cookie: SERVERID=s2|ZqjAa|ZqjAa; path=/; HttpOnly; Secure
+Set-Cookie: SERVERID=s1|Zq0XZ|Zq0XZ; path=/; HttpOnly; Secure
 Cache-control: private
 
