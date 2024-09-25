@@ -1,10 +1,10 @@
-Date: Wed, 17 Jul 2024 17:28:44 GMT
+Date: Wed, 25 Sep 2024 17:31:48 GMT
 Server: Magistrat der Stadt Wien - Web Gateway
-Last-Modified: Wed, 17 Jul 2024 06:05:41 GMT
-ETag: "35f2-61d6b407e7740"
+Last-Modified: Wed, 25 Sep 2024 09:17:14 GMT
+ETag: "38ac-622ee166bfa80"
 Accept-Ranges: bytes
-Content-Length: 13810
+Content-Length: 14508
 Content-Type: text/csv
-Keep-Alive: timeout=15, max=184
+Keep-Alive: timeout=15, max=241
 Connection: Keep-Alive
 
