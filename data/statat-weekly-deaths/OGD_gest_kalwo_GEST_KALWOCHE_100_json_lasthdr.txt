@@ -2,23 +2,23 @@ Content-Security-Policy: default-src 'self' *.statistik.at *.local
  *.statcube.at 'unsafe-inline';
  script-src 'self' 'unsafe-inline' 'unsafe-eval' *.statistik.at *.statcube.at
  *.local; img-src 'self' data: *
+Set-Cookie: JSESSIONID=AC2462CFA83889DC90091386DD78F233;
+ Path=/data.statistik.gv.at; HttpOnly
 vary: accept-encoding
 Content-Type: application/json;charset=UTF-8
 Content-Length: 4052
-Date: Thu, 29 Aug 2024 17:30:53 GMT
+Date: Thu, 26 Sep 2024 17:35:24 GMT
 Connection: close
 Set-Cookie: 
- statistik_cookie=!dquWKtu9c3VZCMichwaAh4mD6CZ0DLhBQQZWkVdK6sx3QpS49Aj4lHGqp2kNfTZ+mblDwYjO/A3fu/S2/DKH/f24v6E7To3i++9gwDLolQU=;
- Path=/; Version=1; Httponly
-Set-Cookie: JSESSIONID=46CCA2C812B2556150C64355E7F21698;
- Path=/data.statistik.gv.at; Version=1; Httponly
+ statistik_cookie=!+Jy18ZCS398Q7WSchwaAh4mD6CZ0DPxwVxyhOyYssO738lmb1X5QA17vOqljmIJIxz5rn1EqLPkaF+ggsoEfJHl9LHMGAI3q6fRGyMWxppA=;
+ path=/; Httponly; Secure
 Set-Cookie: 
- f5avraaaaaaaaaaaaaaaa_session_=BLOBADDKKOBNDAGDIAMPFMGFKCBHGHMGPJACLFFILFOHKPMNNOIHCOKEGBAIEHOKPPGDBAEBDAHJMABIPHBAPMPBALCLJFMJGJDFDACOBCMKCCFGMLKCGDOKCKJCFGKA;
+ f5avraaaaaaaaaaaaaaaa_session_=EBDKJOICOAEKABCEPGFFBPBGGGHGNLOGGNBAPMDKHKCPENACGGPBIBKPDHIJLGICKJODGNCEBLLIPMHLOANAOKFFBJELPDLLNDNNPAHGLKGPHGFBADOJEJJIABCLIKJA;
  HttpOnly; secure;
 Set-Cookie: 
- TS017b3bc9=012bdc77283f51a3792f1ff7251144f32e8c5e37bf7d4a25266cefa86eb4fbe18469426699221d147bdb543e95219bbffa2d379569a707985c111da85b19c63878c039921254420642d203d02376eabdb2daf97ad1;
+ TS017b3bc9=012bdc77282dd4407ee771306235bd9f825c03f93cf9fb745a28d6b1c8b2b18446593770fc56af162289b0f6c1c1fad44a5751b05f1d2995c96e07603d9498c941169ffb2bf0fb8ef5902bc119a4d2c46566c1f849;
  Path=/
 Set-Cookie: 
- TS0138c0d8=012bdc7728a54201db82386a73235f5ae58d3115907d4a25266cefa86eb4fbe184694266998cc71ba3bb068ab0e89eca87c266c46fa1568f7fac4c7d8a6968f60b07c43c11;
+ TS0138c0d8=012bdc77281c7d18230a6b9554720b19a9bd893e65f9fb745a28d6b1c8b2b18446593770fc7f36d6d484a2426719ce3c8140a1f918c0cc24d2f364cf0486ca455459159d30;
  path=/data.statistik.gv.at
 
