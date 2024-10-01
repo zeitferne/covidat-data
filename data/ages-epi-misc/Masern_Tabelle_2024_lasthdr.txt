@@ -1,4 +1,4 @@
-Date: Wed, 25 Sep 2024 17:31:58 GMT
+Date: Tue, 01 Oct 2024 17:32:29 GMT
 Server: Apache
 Pragma: private
 Expires: 0
@@ -6,7 +6,7 @@ Cache-Control: must-revalidate, post-check=0, pre-check=0
 Content-Disposition: attachment; filename="Masern_Tabelle_2024.csv"
 Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
  blob: cdn.jsdelivr.net *.friendlycaptcha.eu;
-Content-Length: 1097
+Content-Length: 1121
 Vary: Accept-Encoding
 Strict-Transport-Security: max-age=31536000
 X-XSS-Protection: 1; mode=block
@@ -19,6 +19,6 @@ Feature-Policy: geolocation 'self'; vibrate 'none'
 X-UA-Compatible: IE=edge
 Connection: close
 Content-Type: text/plain;charset=UTF-8
-Set-Cookie: SERVERID=s2|ZvRJE|ZvRJE; path=/; HttpOnly; Secure
+Set-Cookie: SERVERID=s2|ZvwyM|ZvwyM; path=/; HttpOnly; Secure
 Cache-control: private
 
