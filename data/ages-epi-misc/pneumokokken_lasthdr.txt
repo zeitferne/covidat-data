@@ -1,12 +1,10 @@
-Date: Sat, 28 Sep 2024 17:29:53 GMT
+Date: Fri, 04 Oct 2024 03:37:18 GMT
 Server: Apache
 Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
  blob: cdn.jsdelivr.net *.friendlycaptcha.eu;
-Last-Modified: Sat, 28 Sep 2024 12:50:28 GMT
-Accept-Ranges: bytes
 Content-Length: 335231
 Cache-Control: max-age=0
-Expires: Sat, 28 Sep 2024 17:29:53 GMT
+Expires: Fri, 04 Oct 2024 03:37:18 GMT
 Vary: Accept-Encoding
 Strict-Transport-Security: max-age=31536000
 X-XSS-Protection: 1; mode=block
@@ -17,8 +15,7 @@ Permissions-Policy: geolocation=(), midi=(),sync-xhr=(),accelerometer=(),
  gyroscope=(), magnetometer=(), camera=(), fullscreen=(self)
 Feature-Policy: geolocation 'self'; vibrate 'none'
 X-UA-Compatible: IE=edge
-X-SFC-Tags: tt_address_159, pageId_1441
 Connection: close
-Content-Type: text/html; charset=utf-8
-Set-Cookie: SERVERID=s2|Zvg9F|Zvg9F; path=/; HttpOnly; Secure
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: SERVERID=s1|Zv9i8|Zv9i8; path=/; HttpOnly; Secure
 
