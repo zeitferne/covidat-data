@@ -1,9 +1,9 @@
-Date: Mon, 28 Oct 2024 17:34:02 GMT
+Date: Mon, 04 Nov 2024 17:31:47 GMT
 Server: Apache
-Last-Modified: Mon, 28 Oct 2024 06:15:20 GMT
-ETag: "111f5-6258364ab6b08"
+Last-Modified: Mon, 04 Nov 2024 06:36:07 GMT
+ETag: "11188-626107fe6a518"
 Accept-Ranges: bytes
-Content-Length: 70133
+Content-Length: 70024
 Content-Security-Policy: default-src 'self'; script-src 'none';
  style-src 'none'; object-src 'none';
 Connection: close
