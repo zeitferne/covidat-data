@@ -1,8 +1,9 @@
-Date: Mon, 11 Nov 2024 03:36:37 GMT
-Content-Length: 1454
+Server: nginx
+Date: Mon, 11 Nov 2024 17:30:33 GMT
+Content-Type: image/jpeg
+Content-Length: 295934
+Last-Modified: Sun, 10 Nov 2024 08:13:44 GMT
 Connection: close
-Content-Type: text/html
-Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
-cf-edge-cache: no-cache
-Server: imunify360-webshield/1.21
+ETag: "67306b38-483fe"
+Accept-Ranges: bytes
 
