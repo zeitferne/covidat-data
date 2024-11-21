@@ -1,13 +1,13 @@
-Date: Wed, 13 Nov 2024 17:31:46 GMT
+Date: Thu, 21 Nov 2024 17:33:13 GMT
 Server: Magistrat der Stadt Wien - Web Gateway
 Contentsecurity-Policy: default-src 'self'
-Etag: W/"7cb-EJWmYHSpe1dm/j5EqhfoezZ3S9M"
+Etag: W/"7db-1YjrYz3wBIjaIFpZZuwFyhOInyg"
 Cache-Control: must-revalidate
 Content-Disposition: attachment;
- filename="RSV Virenfracht (Sonntagswerte)_2024-10-3 6_36.csv"
+ filename="RSV Virenfracht (Sonntagswerte)_2024-10-3 6_16.csv"
 Content-Type: text/csv;charset=utf-8
-Content-Length: 1995
-Keep-Alive: timeout=15, max=294
+Content-Length: 2011
+Keep-Alive: timeout=15, max=300
 Connection: Keep-Alive
 Strict-Transport-Security: max-age=31536000
 
