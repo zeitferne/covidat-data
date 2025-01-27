@@ -1,9 +1,9 @@
-Date: Mon, 20 Jan 2025 17:30:08 GMT
+Date: Mon, 27 Jan 2025 17:30:57 GMT
 Server: Apache
-Last-Modified: Mon, 20 Jan 2025 06:46:45 GMT
-ETag: "21925-62c1d9fbc7417"
+Last-Modified: Mon, 27 Jan 2025 14:08:28 GMT
+ETag: "1c876-62cb09c536d9d"
 Accept-Ranges: bytes
-Content-Length: 137509
+Content-Length: 116854
 Content-Security-Policy: default-src 'self'; script-src 'none';
  style-src 'none'; object-src 'none';
 Connection: close
