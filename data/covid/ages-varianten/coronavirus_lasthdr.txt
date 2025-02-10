@@ -1,12 +1,12 @@
-Date: Thu, 06 Feb 2025 17:31:06 GMT
+Date: Mon, 10 Feb 2025 17:30:43 GMT
 Server: Apache
 Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
  blob: cdn.jsdelivr.net *.friendlycaptcha.eu;
-Last-Modified: Thu, 06 Feb 2025 06:08:57 GMT
+Last-Modified: Mon, 10 Feb 2025 12:55:26 GMT
 Accept-Ranges: bytes
 Content-Length: 354157
 Cache-Control: max-age=0
-Expires: Thu, 06 Feb 2025 17:31:06 GMT
+Expires: Mon, 10 Feb 2025 17:30:43 GMT
 Vary: Accept-Encoding
 Strict-Transport-Security: max-age=31536000
 X-XSS-Protection: 1; mode=block
@@ -20,5 +20,5 @@ X-UA-Compatible: IE=edge
 X-SFC-Tags: pageId_2477
 Connection: close
 Content-Type: text/html; charset=utf-8
-Set-Cookie: SERVERID=s1|Z6Tx3|Z6Tx3; path=/; HttpOnly; Secure
+Set-Cookie: SERVERID=s1|Z6o3x|Z6o3x; path=/; HttpOnly; Secure
 
