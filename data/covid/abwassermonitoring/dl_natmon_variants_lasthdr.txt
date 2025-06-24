@@ -1,9 +1,9 @@
-Date: Mon, 23 Jun 2025 04:04:26 GMT
+Date: Tue, 24 Jun 2025 04:00:00 GMT
 Server: Apache/2.4.41 (Ubuntu)
-Last-Modified: Sun, 22 Jun 2025 23:02:01 GMT
-ETag: "48d07-63831153da365"
+Last-Modified: Mon, 23 Jun 2025 23:07:40 GMT
+ETag: "4838e-63845475433bb"
 Accept-Ranges: bytes
-Content-Length: 298247
+Content-Length: 295822
 Connection: close
 Content-Type: text/csv
 
