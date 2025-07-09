@@ -1,14 +1,14 @@
-Date: Wed, 25 Jun 2025 17:37:56 GMT
+Date: Wed, 09 Jul 2025 17:38:16 GMT
 Server: Magistrat der Stadt Wien - Web Gateway
 Contentsecurity-Policy: default-src 'self'
-Etag: W/"c3a-SYeiqizTdHRWRxgV8pX638Gvsvk"
+Etag: W/"8e0-yZXv3GtuwAlq93XvaDZ6QfKjQ7g"
 Cache-Control: must-revalidate
 Access-Control-Allow-Origin: *
 Content-Disposition: attachment;
- filename="SARS-CoV-2 Virenfracht (Sonntagswerte)_2025-5-3 6_22.csv"
+ filename="SARS-CoV-2 Virenfracht (Sonntagswerte)_2025-6-3 5_18.csv"
 Content-Type: text/csv;charset=utf-8
-Content-Length: 3130
-Keep-Alive: timeout=15, max=297
+Content-Length: 2272
+Keep-Alive: timeout=15, max=295
 Connection: Keep-Alive
 Strict-Transport-Security: max-age=31536000
 
