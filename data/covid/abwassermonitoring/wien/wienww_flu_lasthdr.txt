@@ -1,15 +1,15 @@
-Date: Wed, 16 Jul 2025 17:41:10 GMT
+Date: Wed, 23 Jul 2025 17:41:10 GMT
 Server: Magistrat der Stadt Wien - Web Gateway
 Contentsecurity-Policy: default-src 'self'
-Etag: W/"763-ZYbleQEGYrGZSDOt5LIWJ/Aud+s"
+Etag: W/"787-N0xOQjbiokpvs5sq4LjVHwnkGe0"
 Cache-Control: must-revalidate
 Access-Control-Allow-Origin: *
 Content-Disposition: attachment;
  filename="Influenza Virenfracht (Sonntagswerte;
- im Sommer monatlich)_2025-6-3 10_34.csv"
+ im Sommer monatlich)_2025-6-3 10_14.csv"
 Content-Type: text/csv;charset=utf-8
-Content-Length: 1891
-Keep-Alive: timeout=15, max=238
+Content-Length: 1927
+Keep-Alive: timeout=15, max=249
 Connection: Keep-Alive
 Strict-Transport-Security: max-age=31536000
 
