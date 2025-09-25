@@ -2,23 +2,23 @@ Content-Security-Policy: default-src 'self' *.statistik.at *.local
  *.statcube.at 'unsafe-inline';
  script-src 'self' 'unsafe-inline' 'unsafe-eval' *.statistik.at *.statcube.at
  *.local; img-src 'self' data: *
-Set-Cookie: JSESSIONID=F8888065941E32C113F032D2E9493E76;
+Set-Cookie: JSESSIONID=F598558FC6DB1EE4E77143ADA64F6E8D;
  Path=/data.statistik.gv.at; HttpOnly
 vary: accept-encoding
 Content-Type: application/json;charset=UTF-8
-Content-Length: 4244
-Date: Thu, 28 Aug 2025 17:32:37 GMT
+Content-Length: 4210
+Date: Thu, 25 Sep 2025 17:32:13 GMT
 Connection: close
 Set-Cookie: 
- statistik_cookie=!j7c3UChevjBaZV9w6rOi6ZQ4gku95fyjtJ5vwBOLJgmz0IxURmyKQglvTa/otFGjiMP4UII/UQ1YqreBE6QNeUhE3ncTz3O2fFDWTGW2Z2E=;
+ statistik_cookie=!JlWTSinrpTPHRNFw6rOi6ZQ4gku95QR52TDDQefs9MOxiHa3xhA2BhR3X/wlyNcEFG8Fy7WvZQW4IsvECob4PjvwKC0lToAnlOw8MQAng/c=;
  path=/; Httponly; Secure
 Set-Cookie: 
- f5avraaaaaaaaaaaaaaaa_session_=KHFJIMEDJMBKENBPNDAHFNKIJCPLBLGFPHHGOCJEHFLMNGOGJINNIAOOIOPCNEILMDODFNCOKCIFAKNIHDNABIPKGJNKEFJCBEHPHADOFOLCEJMKFABNAAMIOLLMAEPM;
+ f5avraaaaaaaaaaaaaaaa_session_=OECAJCLDBNECJCKCOECGMJHPKFGOFGKLJOEKADANGJOJNJKDMFEHHJCHMAANDGDOHDODAKOBCMGJMDBGONCAIECCFHNGDNGNMIIMLIJBBHLPAFGEAPDHIFPFGACJHGBE;
  HttpOnly; secure;
 Set-Cookie: 
- TS017b3bc9=012bdc772857c998489c3f3ef096494da3084bbe407202b1f073a1c5ffb9c79a717bc696c43e77073ce8e909c727157d5f2933a5bbcf866fbea0e3de7c0786bb07a668eb3d12217237656531999407b7035fc9d6df;
+ TS017b3bc9=012bdc77282a75a69a1a23904b1f068040c2b7a425120e6882454f2c0d9b78d9f40fc757eff87ad6d05155ec736170d0e7fa372234fc0b6fb950d52675dc9b75c2b9c4be77667f9dc7736a76f956dae6b401202957;
  Path=/; Secure; HttpOnly
 Set-Cookie: 
- TS0138c0d8=012bdc77288d298d8b2bfa0ad1c9bc8f9751624bc47202b1f073a1c5ffb9c79a717bc696c4084daaab81df7a574fe2e722902a63ba04a7b02951dcf9f91a4e793d261c72ea;
+ TS0138c0d8=012bdc7728ca9b72f6bc593fe832fc2f9c784ca968120e6882454f2c0d9b78d9f40fc757ef7f156d1e89e71a893cbdaf90898b1791a3aceaf9ac7b427fbe5dffffbde6b34c;
  path=/data.statistik.gv.at; HttpOnly; Secure
 
