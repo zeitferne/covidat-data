@@ -1,13 +1,13 @@
-Date: Wed, 08 Oct 2025 17:32:28 GMT
+Date: Wed, 15 Oct 2025 17:32:16 GMT
 Server: Magistrat der Stadt Wien - Web Gateway
 Contentsecurity-Policy: default-src 'self'
-Etag: W/"67d-FDZvkC7VHDZEYfJvD1n7tJAam2U"
+Etag: W/"68a-zLcxSK5iUeaLSKUWWeZm7l6Gnxk"
 Cache-Control: must-revalidate
 Access-Control-Allow-Origin: *
 Content-Disposition: attachment;
- filename="Influenza Virenfracht (Sonntagswerte)_2025-9-3 7_33.csv"
+ filename="Influenza Virenfracht (Sonntagswerte)_2025-9-3 5_30.csv"
 Content-Type: text/csv;charset=utf-8
-Content-Length: 1661
+Content-Length: 1674
 Keep-Alive: timeout=15, max=299
 Connection: Keep-Alive
 Strict-Transport-Security: max-age=31536000
