@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <title>Anmeldung</title>
+        <!-- metainfo -->
+<meta http-equiv="content-type" content="text/html"/>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <!-- content_security_policy -->
+              <meta http-equiv="Content-Security-Policy" 
+              content="object-src 'none';" 
+              child-src="none"/> 
+
+<link href="/resources/styles/css/portal.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="/resources/styles/css/custom.css" rel="stylesheet" type="text/css" media="all"/>
+
+<script src="/resources/scripts/libs/jquery.slim.min.js" type="application/javascript"></script>
+<script src="/resources/scripts/libs/bootstrap.bundle.min.js" type="application/javascript"></script>
+<script src="/htmlgui/javascript/dynamic.js" type="application/javascript"></script>
+<script src="/htmlgui/custom/javascript/custom_dynamic.js" type="application/javascript"></script>
+    </head>
+<!-- loginForm -->
+     <body id="loginForm">
+                    <a href="#content_container" class="skip">Zum Inhalt</a>
+                <header>
+                <div id="login" class="container-fluid">                                        <!-- header -->
+            <!-- userinfo -->
+  
+    <div id="header">
+        <div class="div-header-logo">
+                                                    <img id="logo" class="header-logo"
+                        alt="Login-Seite aktualisieren" 
+                        src="/resources/images/logo.png"
+                    />         
+                        </div>  
+        <!-- topnav_mobile -->
+            <div class="d-xl-none">
+            <nav aria-label="topnav-mobile" class="navbar navbar-expand-xl">
+                           <button id="hamburger_button"
+                    class="navbar-toggler"
+                    type="button"
+                    data-toggle="dropdown"
+                    data-target="#navBarMenue_mobile"
+                    aria-controls="#navBarMenue_mobile"
+                    aria-expanded="false"
+                    aria-label="Navigation &ouml;ffnen bzw schlie&szlig;en">
+                    <span class="navbar-toggler-icon" alt="Men&uuml; &ouml;ffnen">&nbsp;</span>
+                </button>
+                <div class="div-hamburger" id="navBarMenue_mobile">                    <div class="hamburger-container-fluid">
+                        <ul class="ul-hamburger">
+                                                    <!-- topnav_menu -->
+
+
+
+
+
+
+
+  
+<li id="m_close_hamburger" class="topnav- d-xl-none">
+    <div class="div-topnav">
+        <a id="m_topnav_mobile_close_hamburger" class="nav-link" href="#"> 
+            <span class="fa-window-close topnav-icon-">
+                <span class="sr-only">
+                    Schlie&szlig;en
+                </span>
+            </span>     
+            <span  class="topnav--text">
+                Schlie&szlig;en
+            </span>
+        </a>
+    </div>
+</li>
+                                                </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+            <!-- headline_mobile -->    
+<div class="div-headline-mobile">
+                        <h1 id="headline_mobile">			
+                        Standardportal - Stammportal
+                </h1>
+        </div>
+ 
+     
+            <!-- logo_mobile -->
+    <div class="div-header-logo-mobile">
+                     <img id="logo_mobile" class="header-logo"
+                alt="Login-Seite aktualisieren" 
+                src="/resources/images/logo.png"
+            />
+      
+            </div>
+            
+    <div class="col-lg d-none d-xl-block">
+                    <div class="row navigation flex-nowrap" id="links">           
+                    <!-- headline --> 
+<div class="div-headline">        <h1 id="headline">
+			                Anmeldung
+			        </h1>
+</div>
+
+ 
+     
+
+                    <div class="col">
+                        <!-- links -->
+<div class="div-navlinks" id="Navlinks">
+    <div class="col">
+    </div>
+    
+                </div>                     </div>
+                </div>        
+            </div>
+</div>
+<div id="custom_header" class="row">
+    
+</div>
+          
+                    <div class="row">
+                        
+                    </div>
+                </div>
+            </header>
+            <div id="content_container" class="form-container-login"> 
+            <main>
+                                   <div  id="fehler" class="lfrz-alert"  role="alert"  aria-atomic="true" style="display:none;">
+                </div> 
+
+                <div class="row">
+                    <div class="col">
+                                            </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div id="error_message2" class="alert alert-danger" role="alert" style="display: none;">
+                        </div>
+                    </div>
+                </div>   
+                
+                                                
+
+                <form id="login_form" method="post" action="" class="form-group">
+                    <!-- login_hidden_fields -->
+                                                                                <input
+                        type="hidden"
+                        name="stdportal_PreventTsCreation"
+                        value="stdportal.DoNotCreateTransactionState"/>
+
+                                                                                                    <div style="display:none;">
+                        <input
+                        type="submit"
+                        value="Anmelden"
+                        name="start_default_authentication"
+                        class="btn btn-success" />
+                    </div>
+
+                                                                                <input
+                        type="hidden"
+                        name="stdportal_TsOriginalRequestUrl"
+                        id="stdportal_TsOriginalRequestUrlHI"
+                        value=""/> 
+                  					<div class="kerberos info" style="display:none;" id="waitForKerberosPanel">
+						<span class="h3-inactive">Integrierte Windows Authentifizierung! Bitte warten!</span> 
+                        <input id="input_putKerberosToBackground"
+							type="submit" 
+							value="Login Seite anzeigen" 
+                             class="btn btn-success" /> 
+                        <input id="input_cancelKerberosAuthentication"
+							type="submit"
+							value="Abbrechen" 
+                             class="btn btn-success" />
+					</div>
+					                     <div  style="display:none;" id="kerberosCanceledPanel">
+                            <span  class="h3-inactive">Integrierte Windows Authentifizierung wurde abgebrochen!</span>
+                     </div>
+					                    <div  style="display:none;" id="timeoutKerberosPanel">
+                         <span  class="h3-inactive">Integrierte Windows Authentifizierung! Zeitüberschreitung!</span>
+                         <input id="input_timeout_cancelKerberosAuthentication"
+                            type="submit" 
+                             value="Abbrechen"
+                              class="btn btn-success" />
+                    </div>
+                                        <div style="display:none;" id="repeatKerberosAuthentication">
+                        <a  class="h3" href="/">Kerberos Anmeldung wiederholen</a>
+                    </div>                                                       
+        					<ul class="nav nav-tabs" id="login_tabs_nav"></ul>
+					<div class="tab-content" id="login_tabs">
+													<div id="fragment0" class="tab-pane fade in"><h2>Anmeldung</h2>
+<div id="multi_auth_fragment" class="formBg padding15">
+	<div class="row height30"></div>
+	<fieldset>
+	<div id="uidpwd_fragment_login_fields" class="maxWidth85p">
+		<div class="col">
+			<div class="form-group">
+				<label for="auth_uid" class="text-nowrap input-label">BenutzerInnen-Name</label> 
+				<input class="form-control" id="auth_uid" type="text" name="auth_uid" 
+					title="BenutzerInnen-Name"  value=""   />
+			</div>
+			<div class="form-group">
+				<label for="auth_pwd" class="text-nowrap input-label">Kennwort</label>
+				<input  class="form-control" id="auth_pwd" type="password" name="auth_pwd" 
+					title="Kennwort" autocomplete="off"/>
+			</div>
+
+			
+		</div>
+	</div>
+	<div class="row height15"></div>
+
+	    
+	
+	<div class="form-group" id="uidpwd_fragment_login_button">
+			<div id="steuerleiste" class="col">
+				<input id="login_submit"
+					type="submit"
+					value="Anmelden"
+					name="start_default_authentication"
+					class="btn btn-primary text-uppercase"
+					title="Anmelden"
+					alt="Anmelden"/>
+			</div>
+	</div> 
+
+	<div class="row height15"></div>
+	<div class="col">
+      Falls Sie noch keinen wien.gv.at Benutzernamen haben, k&ouml;nnen Sie sich <a href="https://mein.wien.gv.at/Registrieren/">registrieren</a>.<br />
+      <a href="https://mein.wien.gv.at/Zugangsdaten-vergessen/">wien.gv.at Benutzerkennwort vergessen?</a>
+	</div>
+
+    <script type="text/javascript">
+      $(document).ready(function() { 
+        $('#auth_uid').focus(); 
+                var murl=window.location.href;var reg=document.getElementById('extRegLnk');if(reg) reg.href=reg.href+encodeURIComponent(murl.includes('/force_login')?'/':murl);
+      });
+    </script>
+
+</fieldset>
+</div>
+
+</div>
+											</div>
+                                    </form>
+                </main>
+            <div>  
+                <div class="row height15"></div>
+<div class="col">
+	Bitte beachten Sie, dass f&uuml;r die Anmeldung <a href="https://www.wien.gv.at/info/datenschutz/index.html#cookies" target="_blank" title="Link &ouml;ffnet ein neues Fenster/einen neuen TAB"><span lang="en">Cookies</span></a> erforderlich sind.
+</div>
+
+                <!-- footer -->
+ 
+            </div>     
+        </div>        <!--<div class="row" style="clear:both; height: 5.5em;"></div>-->
+<div>
+<footer>
+  <div>
+  	<p>
+	<a class="mw-dark-link" target="_blank" title="Link &ouml;ffnet ein neues Fenster/einen neuen TAB" href="http://www.wien.gv.at/info/impressum.html">Impressum</a>
+	|<a class="mw-dark-link" target="_blank" title="Link &ouml;ffnet ein neues Fenster/einen neuen TAB" href="https://www.wien.gv.at/kontakte/ma02/ds-info/bewerbung-ds.html">Datenschutz</a> 
+	|<a class="mw-dark-link" target="_blank" title="Link &ouml;ffnet ein neues Fenster/einen neuen TAB" href="https://www.wien.gv.at/info/barrierefreiheit.html">Barrierefreiheit</a>
+	</p>
+	<p>&copy; Stadt Wien, Rathaus, A-1010 Wien</p>
+  </div>	
+</footer>
+</div>
+ 
+
+            </body>
+    <script>
+		        tab_nav = $('#login_tabs_nav');
+        $('#login_tabs .tab-pane').each(function(index, value) {
+            hdr = $(this).find('h2:first').hide();
+            tab_nav.append('<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#fragment' + index + '">' + (hdr.text() || index) + '</a></li>');
+        });
+		atab = $('.nav-tabs a[href="'+window.location.hash+'"]');
+		if (atab.length == 0) {
+			atab = $('.nav-tabs a:first');
+		}
+		atab.tab('show');
+        //$('.nav-tabs a:first').tab('show');
+				$('a[data-toggle="tab"]').on('shown.hide.bs.tab', function(e) {
+			$('#auth_uid').val('');
+			$('#auth_pwd').val('');
+			$('#moaIsCitizenRequestFalse').prop('checked', true);
+		});
+    </script>
+</html>
