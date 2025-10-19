@@ -1,15 +1,12 @@
-Date: Sat, 18 Oct 2025 17:29:15 GMT
+Date: Sun, 19 Oct 2025 03:53:30 GMT
 Server: Magistrat der Stadt Wien - Web Gateway
-X-STDPORTAL-ERROR: AUTHENTICATION_REQUIRED
-Cache-Control: no-cache, no-store, must-revalidate
-Pragma: no-cache
-Expires: Thu, 01 Dec 1994 16:00:00 GMT
-Last-Modified: Sat, 18 Oct 2025 17:29:15 GMT
-vary: accept-encoding
-Content-Type: text/html;charset=UTF-8
-Set-Cookie: 
- stdpsessionstpwiengvat=wVkkRIXp1kCNB0lorj8Cn3UcwOjDlXTCC66pnedwLJQuOir0;
- Path=/; Secure; HttpOnly; SameSite=None
-Transfer-Encoding: chunked
+Contentsecurity-Policy: default-src 'self'
+Etag: W/"6db-gZOG60OQ5G6hMqVWZ3OSqdSdq4U"
+Cache-Control: must-revalidate
+Access-Control-Allow-Origin: *
+Content-Disposition: attachment;
+ filename="RSV Virenfracht (Sonntagswerte)_2025-9-3 5_31.csv"
+Content-Type: text/csv;charset=utf-8
+Content-Length: 1755
 Connection: close
 
