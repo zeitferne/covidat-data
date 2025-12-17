@@ -1,12 +1,12 @@
-Date: Thu, 11 Dec 2025 17:48:14 GMT
+Date: Wed, 17 Dec 2025 17:41:43 GMT
 Server: Magistrat der Stadt Wien - Web Gateway
 Contentsecurity-Policy: default-src 'self'
-Etag: W/"859-e4MFbcSOTOGo0nb4RFCcMPsrOHc"
+Etag: W/"868-lqEwalV97+HAfecl/rkpg0jUVqc"
 Cache-Control: must-revalidate
 Access-Control-Allow-Origin: *
 Content-Disposition: attachment;
- filename="Influenza Virenfracht (Sonntagswerte)_2025-11-4 6_57.csv"
+ filename="Influenza Virenfracht (Sonntagswerte)_2025-11-3 6_4.csv"
 Content-Type: text/csv;charset=utf-8
-Content-Length: 2137
+Content-Length: 2152
 Connection: close
 
