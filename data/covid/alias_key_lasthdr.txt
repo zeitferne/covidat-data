@@ -1,26 +1,26 @@
 Connection: close
-Content-Length: 18166
+Content-Length: 18207
 Cache-Control: max-age=300
 Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline';
  sandbox
 Content-Type: text/plain; charset=utf-8
-ETag: "3904ab504de686c37403d89f786d699e277e62bfe2d05bf491e8f0fa5b690320"
+ETag: "6abc95cddc8f5775e0caa791568b3e58d1935c36a3e2675c7e2aaf10553dc54f"
 Strict-Transport-Security: max-age=31536000
 X-Content-Type-Options: nosniff
 X-Frame-Options: deny
 X-XSS-Protection: 1; mode=block
-X-GitHub-Request-Id: 10B6:36E4C6:B784:E67B:69498181
+X-GitHub-Request-Id: 9588:1E351D:B6D0D0:E103FE:694AC913
 Accept-Ranges: bytes
-Date: Mon, 22 Dec 2025 17:36:02 GMT
+Date: Tue, 23 Dec 2025 17:38:51 GMT
 Via: 1.1 varnish
-X-Served-By: cache-sjc10074-SJC
-X-Cache: MISS
+X-Served-By: cache-dfw-kdfw8210153-DFW
+X-Cache: HIT
 X-Cache-Hits: 0
-X-Timer: S1766424963.848003,VS0,VE127
+X-Timer: S1766511531.026928,VS0,VE59
 Vary: Authorization,Accept-Encoding
 Access-Control-Allow-Origin: *
 Cross-Origin-Resource-Policy: cross-origin
-X-Fastly-Request-ID: ba37252feaaf082a00890a4b268d1557292ebc9a
-Expires: Mon, 22 Dec 2025 17:41:02 GMT
+X-Fastly-Request-ID: 4cc354ed62d91eae7932b8c75b0114f0f08f4966
+Expires: Tue, 23 Dec 2025 17:43:51 GMT
 Source-Age: 0
 
