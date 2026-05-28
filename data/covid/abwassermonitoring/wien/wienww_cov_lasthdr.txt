@@ -1,14 +1,14 @@
 Age: 1
-Date: Thu, 21 May 2026 19:20:33 GMT
+Date: Thu, 28 May 2026 19:45:26 GMT
 Cache-Control: must-revalidate
 Connection: Keep-Alive
 Via: RWebGW-Cache
-Etag: W/"b6e-DQZwpju//r2MPQFEFGYgDnUtd/M"
+Etag: W/"b91-jZsDPZNUzq4YHL/l8eva3nWvfJs"
 Content-Type: text/csv;charset=utf-8
-Content-Length: 2926
+Content-Length: 2961
 Contentsecurity-Policy: default-src 'self'
 Access-Control-Allow-Origin: *
 Content-Disposition: attachment;
- filename="SARS-CoV-2 Virenfracht (Sonntagswerte)_2026-4-4 11_3.csv"
+ filename="SARS-CoV-2 Virenfracht (Sonntagswerte)_2026-4-4 13_18.csv"
 Strict-Transport-Security: max-age=15552000
 

@@ -1,14 +1,14 @@
-Age: 1
-Date: Thu, 21 May 2026 19:20:34 GMT
+Age: 2
+Date: Thu, 28 May 2026 19:45:26 GMT
 Cache-Control: must-revalidate
 Connection: Keep-Alive
 Via: RWebGW-Cache
-Etag: W/"9a5-5MCXLNGJ605b/SBlJzYeaxpiFUA"
+Etag: W/"9c8-fQyRxeIsUr1YexOHj0SvRLKn4sU"
 Content-Type: text/csv;charset=utf-8
-Content-Length: 2469
+Content-Length: 2504
 Contentsecurity-Policy: default-src 'self'
 Access-Control-Allow-Origin: *
 Content-Disposition: attachment;
- filename="Influenza Virenfracht (Sonntagswerte)_2026-4-4 11_3.csv"
+ filename="Influenza Virenfracht (Sonntagswerte)_2026-4-4 13_20.csv"
 Strict-Transport-Security: max-age=15552000
 
