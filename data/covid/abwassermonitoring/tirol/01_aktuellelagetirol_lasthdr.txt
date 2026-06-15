@@ -1,8 +1,9 @@
-Server: openresty/1.29.2.3
-Date: Sun, 14 Jun 2026 18:45:29 GMT
-Content-Length: 11909
+Server: nginx
+Date: Mon, 15 Jun 2026 09:38:39 GMT
+Content-Type: image/jpeg
+Content-Length: 4205690
+Last-Modified: Sun, 14 Jun 2026 17:00:04 GMT
 Connection: close
-Content-Type: text/html
-Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
-cf-edge-cache: no-cache
+ETag: "6a2ede14-402c7a"
+Accept-Ranges: bytes
 
