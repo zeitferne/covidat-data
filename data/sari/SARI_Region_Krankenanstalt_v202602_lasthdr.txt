@@ -1,0 +1,16 @@
+Date: Wed, 01 Jul 2026 07:51:40 GMT
+Content-Type: application/octet-stream
+Content-Length: 84080
+Connection: close
+Content-MD5: 7UuDhk4p7IpDBzFpql6Tow==
+Last-Modified: Tue, 30 Jun 2026 07:00:14 GMT
+ETag: 0x8DED6753C349D94
+x-ms-request-id: 6675550a-e01e-0069-7e2e-092dd6000000
+x-ms-version: 2009-09-19
+x-ms-lease-status: unlocked
+x-ms-blob-type: BlockBlob
+Access-Control-Allow-Origin: *
+x-azure-ref: 20260701T075139Z-186b5cd69fc6rhfmhC1SJC03uw00000003eg00000000eqzp
+X-Cache: CONFIG_NOCACHE
+Accept-Ranges: bytes
+
