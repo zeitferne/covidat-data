@@ -2,23 +2,23 @@ Content-Security-Policy: default-src 'self' *.statistik.at *.local
  *.statcube.at 'unsafe-inline';
  script-src 'self' 'unsafe-inline' 'unsafe-eval' *.statistik.at *.statcube.at
  *.local; img-src 'self' data: *
-Set-Cookie: JSESSIONID=AC87E5675F6318F29EB0862DE0E6EA9A;
+Set-Cookie: JSESSIONID=6D4D5C268C4DE7E8C58213954D2A7041;
  Path=/data.statistik.gv.at; HttpOnly
 vary: accept-encoding
 Content-Type: application/json;charset=UTF-8
 Content-Length: 4210
-Date: Thu, 30 Jul 2026 18:50:17 GMT
+Date: Thu, 27 Aug 2026 14:19:13 GMT
 Connection: close
 Set-Cookie: 
- statistik_cookie=!Bx/J8R/xJth28ylmjN8wvuxp1i3/X4O5wlpBmheO6p7WtCnGlm7NbJ3poKR3Ka7/pK+EOpjNYW/AOytSO4U8AmzXjdRsYo8vWsHgxOr9UoI=;
- path=/; Httponly; Secure
+ statistik_cookie=!TFbW7lZCAk2GpMRmjN8wvuxp1i3/XzVcAR+X/YSWOUzLg2f6pOw52iBcc80IOiAFtQLEpGU888hOYlKPQAA7IULyAnFtIwVK9Od23HKjfMU=;
+ expires=Thu, 27-Aug-2026 14:22:13 GMT; path=/; Httponly; Secure
 Set-Cookie: 
- f5avraaaaaaaaaaaaaaaa_session_=BPBGEPJIFAIAIPCIMNOPONEHEFPFKHPDCJMNCLKKOKACNMMIJHEEIEFDABOODPJKEECDMPHCOMJCLKLKKIHAAGEFJJMAKAMDONNAIILHCLJPHFBBAOJJDPMEBKCEKMAP;
+ f5avraaaaaaaaaaaaaaaa_session_=ABPJDHPHNNJFIBBJAFIPICMAIKFNJMNOLLGFFDJKNCKAKCNFHNFIFNPHOGPGPAFBBNKDLBGIGHOMNHPGCPKAHOKABEEEEOJFKFBPJLKGNEGHHDGIIGMNDLFCBFIBFONA;
  HttpOnly; secure;
 Set-Cookie: 
- TS017b3bc9=012bdc77283cd86c86972614723b4d13d5f750bbfc265835f09583590e371e5eb68e00251760945e47f1cbfc790bff5a72aead520eb9aa2f9bc8f5cf39e450f809402171ba8d1b181bda5b29393e4df7f4f1dc7340;
+ TS017b3bc9=012bdc772840e0630956a6d6afbed4dca162979ec6bae54bee123f11d9398458554b7ebb7fa27bdd893aeb79ff309eaca16f9e967151eabad717849183bd27aa22dff9194d2e3c10fbf3d00b37f7e0d4f9f1fe8e36;
  Path=/; Secure; HttpOnly
 Set-Cookie: 
- TS0138c0d8=012bdc7728b04f2912a56afc227cda516f20fe14d9265835f09583590e371e5eb68e0025170da08b9add9021a990b940e9f8eea1a1eac6db237b04d8a4d2ac084cd664d92d;
+ TS0138c0d8=012bdc772894756327caf0921a486ba9b0912fa469bae54bee123f11d9398458554b7ebb7fca1768a5da50d502214dc9685fd5df803d61274d2175a18c6748d10fcaf3246f;
  path=/data.statistik.gv.at; HttpOnly; Secure
 
