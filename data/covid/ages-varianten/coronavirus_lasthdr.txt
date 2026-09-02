@@ -1,10 +1,10 @@
-date: Tue, 25 Aug 2026 17:49:42 GMT
+date: Wed, 02 Sep 2026 19:51:11 GMT
 server: Apache
 content-language: de-DE
 content-security-policy: default-src * data: 'unsafe-eval' 'unsafe-inline'
  blob: cdn.jsdelivr.net *.friendlycaptcha.eu;
 cache-control: max-age=0
-expires: Tue, 25 Aug 2026 17:49:42 GMT
+expires: Wed, 02 Sep 2026 19:51:11 GMT
 vary: Accept-Encoding
 strict-transport-security: max-age=31536000
 x-xss-protection: 1; mode=block
@@ -17,6 +17,6 @@ feature-policy: geolocation 'self'; vibrate 'none'
 x-ua-compatible: IE=edge
 transfer-encoding: chunked
 content-type: text/html; charset=utf-8
-set-cookie: SERVERID=s2|ao3Vu|ao3Vu; path=/; HttpOnly; Secure
+set-cookie: SERVERID=s2|aph+M|aph+M; path=/; HttpOnly; Secure
 connection: close
 
