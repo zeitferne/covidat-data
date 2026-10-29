@@ -2,23 +2,23 @@ Content-Security-Policy: default-src 'self' *.statistik.at *.local
  *.statcube.at 'unsafe-inline';
  script-src 'self' 'unsafe-inline' 'unsafe-eval' *.statistik.at *.statcube.at
  *.local; img-src 'self' data: *
-Set-Cookie: JSESSIONID=46EF1337FB22DDC36A3345E3B7E2EB64;
+Set-Cookie: JSESSIONID=20285A7C39E52D6F577D35E86E5B7A96;
  Path=/data.statistik.gv.at; HttpOnly
 vary: accept-encoding
 Content-Type: application/json;charset=UTF-8
 Content-Length: 3806
-Date: Thu, 24 Sep 2026 08:34:05 GMT
+Date: Thu, 29 Oct 2026 10:10:08 GMT
 Connection: close
 Set-Cookie: 
- statistik_cookie=!eABbcsW2Iqo1R7hmjN8wvuxp1i3/XzVXDQcR2EPbOUMCRg2fRuglx3UUI5eSQ5oFWNwfuquU4ja39hVU6GGOCizcBdWz8NuTdDFtLk6Us5k=;
- expires=Thu, 24-Sep-2026 08:37:05 GMT; path=/; Httponly; Secure
+ statistik_cookie=!6a489gnaqnB/RjNmjN8wvuxp1i3/Xx3ofZJAZAZWjo807sUFMbqiAwUlJxvwmhdfTdHiJa5ECvpGQYgSRB6Z7euJeqFNlM5iSaQU5WxaPgk=;
+ expires=Thu, 29-Oct-2026 10:13:08 GMT; path=/; Httponly; Secure
 Set-Cookie: 
- f5avraaaaaaaaaaaaaaaa_session_=AHAHODNHEICDPDININPJHAPPGKDINIEHKEKIACBNKLLIFGEBCJAKDBGLHKAKANODBIGDHAFLCAKNDHAOHGFAMBICDOBPJBKAKOMKBOHLJCDPJHEGIBALDGHKBIFBFDBJ;
+ f5avraaaaaaaaaaaaaaaa_session_=CBBHPLKNNJONIPPCKMEBNHDMJFHCFKIKMNGGNBKABEMPGKJMECDCHBJODECEEFNFDJCDOMNLFLKHGEMMAPIABICLDBAFPGDMFGMDHGDILAHBKAPGKBMCCGAFKDKPIIJA;
  HttpOnly; secure;
 Set-Cookie: 
- TS017b3bc9=012bdc7728e69c94dbd0c0ccec2f37487f1238b1063d1ce8a965ac1def6a176995198225b22df90c22639a90d1e2acb263083ae9ff233c2a3cf5df282f3d6533a93c14e1221393b708b8a15ebf5160e09c0d3a5614;
+ TS017b3bc9=012bdc7728a3e2d2a9d4f6ab048c7470ba880f33b08ffbf770224b2e31cf370b911eb176e5092289c1a662017733eed99a2f41ab4ad261bed8e82268744ef5521de2e1814d32b8b7cbe4aeab10756c0b4fdc41e37b;
  Path=/; Secure; HttpOnly
 Set-Cookie: 
- TS0138c0d8=012bdc77282677414f67c911fec5adbee3233240ab3d1ce8a965ac1def6a176995198225b2aa14c4c3f5327374787373519589ff6a0461b40dcd039f809401cf54d5d12cfb;
+ TS0138c0d8=012bdc7728e63ea24d1583602d16f388dfd979ab728ffbf770224b2e31cf370b911eb176e5e31a94a31a261e55bba05a1d00216447d569196e31cc1b8b579994e51c0a8b48;
  path=/data.statistik.gv.at; HttpOnly; Secure
 
