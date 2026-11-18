@@ -1,16 +1,16 @@
-date: Tue, 17 Nov 2026 12:02:48 GMT
+date: Wed, 18 Nov 2026 11:54:45 GMT
 server: Apache
-last-modified: Tue, 17 Nov 2026 01:07:41 GMT
+last-modified: Wed, 18 Nov 2026 01:08:27 GMT
 accept-ranges: bytes
-content-length: 1096145
+content-length: 1090687
 cache-control: max-age=0
-expires: Tue, 17 Nov 2026 12:02:48 GMT
+expires: Wed, 18 Nov 2026 11:54:45 GMT
 vary: Accept-Encoding
 x-content-type-options: nosniff
 content-type: application/xml; charset=utf-8
 x-xss-protection: 1; mode=block
 strict-transport-security: max-age=31536000; includeSubDomains; preload
 referrer-policy: no-referrer-when-downgrade
-set-cookie: SERVERID=s2|avxCa|avxCa; path=/; HttpOnly; Secure
+set-cookie: SERVERID=s1|av2SC|av2SC; path=/; HttpOnly; Secure
 connection: close
 
