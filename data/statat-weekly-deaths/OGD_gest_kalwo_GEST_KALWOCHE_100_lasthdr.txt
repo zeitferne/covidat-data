@@ -2,22 +2,22 @@ Content-Security-Policy: default-src 'self' *.statistik.at *.local
  *.statcube.at 'unsafe-inline';
  script-src 'self' 'unsafe-inline' 'unsafe-eval' *.statistik.at *.statcube.at
  *.local; img-src 'self' data: *
-Set-Cookie: JSESSIONID=FFEB8136BDE7CC8F00DD93C608BF5A49;
+Set-Cookie: JSESSIONID=07D61AECD60F42E61998B56F9B83EE43;
  Path=/data.statistik.gv.at; HttpOnly
 Content-Type: text/csv;charset=UTF-8
-Date: Thu, 29 Oct 2026 10:10:12 GMT
+Date: Thu, 26 Nov 2026 11:18:33 GMT
 Connection: close
 Set-Cookie: 
- statistik_cookie=!7tIMXDljXG3SPw1mjN8wvuxp1i3/XzcaRgTyg8kGVVjugjNHpcoqVDdQA1cT9E0s34CMcmq1ewXqbzyknbW3g8I7tl9XefBjItflzF9IPYU=;
- expires=Thu, 29-Oct-2026 10:13:12 GMT; path=/; Httponly; Secure
+ statistik_cookie=!3j82XOw7et1q8nvluJ8SdfLV2E7TbnVpOqrWKhR5E/KVpK2MdasJ7utSbfkVwAivWwVUO8wpmcLwQlnItvQGsy0K0hFq50CG9n+KZ5nIcLM=;
+ expires=Thu, 26-Nov-2026 11:21:33 GMT; path=/; Httponly; Secure
 Set-Cookie: 
- f5avraaaaaaaaaaaaaaaa_session_=IKOPLLDAEABJMNFDIAHJJIKOPBHMHKGOINOKAJIFIJNEGMMKJICNMLPIDNFONJEDDPKDELFJJLBNEEJGICDAAFAPDBCIJDCNFIGFBOLKHIONEKFMLPJHLIPOGFMDPBII;
+ f5avraaaaaaaaaaaaaaaa_session_=LJHHENEIACBEGLOABKFFGHJPHECFFPJLKJNCEIAFPFHBOEIEEAMMHBEEAMIFOFDJABGDFGNPOFIABNEBFBEAAHEFDBNELNBEDPBDLNKCMDMBFBCFNENJJDPOLHMFAFEB;
  HttpOnly; secure;
 Set-Cookie: 
- TS017b3bc9=012bdc7728309182dcfdc95de85df3b496654721674834190369b6c63516b9411efbf98fcf038f6943e342b92e712e107cb372b36cdd9ad1d507a1b188e3c103399d0a5ea4a1461cf5c08f31ff36a13635096334b2;
+ TS017b3bc9=012bdc772804fd0a79b6e578cf43cf19ef34e1bdeca719101700ac48b79e17e848cae0dce2f0d8db05f51ad62f008f537bb9661c603c1d7bb942f5548e3552b6f011093982fce9ac3d781759e6006092a1aefc532d;
  Path=/; Secure; HttpOnly
 Set-Cookie: 
- TS0138c0d8=012bdc772848c5e2bb45d19e12bda2205d6818b8184834190369b6c63516b9411efbf98fcf17076c024eb85826bbdefb5e7ab84dc0635741fd065c4303727cdf5bc377346d;
+ TS0138c0d8=012bdc77286fdadf66acf779e0c9bf8f7de228f3b7a719101700ac48b79e17e848cae0dce274ab8fd312f78e0130b68057d9e07f466a8bd3acc2740970b97ed16d774ccbf0;
  path=/data.statistik.gv.at; HttpOnly; Secure
 Transfer-Encoding: chunked
 
