@@ -1,9 +1,13 @@
-Server: nginx
-Date: Sat, 28 Nov 2026 00:34:09 GMT
-Content-Type: image/jpeg
-Content-Length: 4287291
-Last-Modified: Fri, 27 Nov 2026 18:00:04 GMT
+Server: openresty/1.31.1.1
+Date: Sat, 28 Nov 2026 11:58:22 GMT
+Content-Length: 12152
 Connection: close
-ETag: "6b09c524-416b3b"
-Accept-Ranges: bytes
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: script-src 'nonce-kOaBOUfqmRsA0JLEeXlFlQ==';
+ style-src 'nonce-kOaBOUfqmRsA0JLEeXlFlQ=='; frame-ancestors 'self'
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+cf-edge-cache: no-cache
 
